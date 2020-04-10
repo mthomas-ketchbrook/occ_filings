@@ -57,7 +57,7 @@ num_cols = int(num_cols)
 # Create a DataFrame containing the table & data
 df = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers)
 
-df.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header=True)
+df.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
 
 
