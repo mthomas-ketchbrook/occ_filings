@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from selenium.webdriver.common.keys import Keys
 import bs4 as bs
+from selenium.webdriver.support.ui import Select
 
 webdriver = "C:/Users/18602/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/chromedriver.exe"
 
@@ -14,6 +15,14 @@ driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 start_date = "3/30/2020"
 end_date = "3/30/2020"
 bank_name = "bank"
+charter_number = ""
+occ_control_number = ""
+action = "Approved"   # or "All"
+state = ""   # or 2-Letter capitalized state abbreviation (e.g., "CT")
+hq_or_branch = "1"   # "0" == "Bank Headquarters Location"; "1" == "Branch Location"
+
+
+
 
 
 # Function to clear a non-blank text box form entry and replace with defined new text
@@ -27,6 +36,23 @@ clear_and_replace_text("//*[(@id = 'CAAS_Content_txtEndDate')]", end_date)
 
 # Fill Bank Name
 driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtBankName')]").send_keys(bank_name)
+
+# Fill Charter Number (can be Full or Partial)
+driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtCharter')]").send_keys(charter_number)
+
+# Fill OCC Control Number
+driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtControl')]").send_keys(occ_control_number)
+
+# Select Action from drop-down list
+select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_Action_DropDownList')]"))
+select.select_by_visible_text(action)
+
+# Select State from drop-down list
+select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_State_DropDownList')]"))
+select.select_by_visible_text(state)
+
+# Click Radio Button for Headquarters vs. Branch
+driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_HQorBranchLocation_RadioButtonList_" + hq_or_branch + "')]").click()
 
 # Click the "Search" button
 driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_Search_Button')]").click()
