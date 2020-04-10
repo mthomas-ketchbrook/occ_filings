@@ -43,9 +43,9 @@ for row in driver.find_elements_by_css_selector("#CAAS_Content_CAAS_List_GridVie
 data = []
 
 for row in driver.find_elements_by_css_selector("#CAAS_Content_CAAS_List_GridView"):
-	    cell = row.find_elements_by_tag_name("td")
-	    for c in cell:
-		      data.append(c.text)
+	  cell = row.find_elements_by_tag_name("td")
+	  for c in cell:
+		    data.append(c.text)
 
 # Capture the number of rows of data in the table
 num_rows = len(data) / len(headers)
