@@ -4,6 +4,9 @@ import numpy as np
 from selenium.webdriver.common.keys import Keys
 import bs4 as bs
 from selenium.webdriver.support.ui import Select
+import sqlite3
+import datetime
+
 
 webdriver = "C:/Users/18602/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/chromedriver.exe"
 
@@ -11,18 +14,28 @@ driver = Chrome(webdriver)
 
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
+
+# Get system date info
+year = str(datetime.date.today().year)
+month = str(datetime.date.today().month)
+day = str(datetime.date.today().day)
+
+## TODO ##
+# add functionality that determines if it is a Monday
+# if it is a Monday, make sure to get the prior Saturday and Sunday
+# Also, remove the "Details" column from the Pandas dataframe
+# Create two dataframes for headquarters query and then branch locations query
+
 # Define Parameters
-start_date = "3/30/2020"
-end_date = "3/30/2020"
-bank_name = "bank"
-charter_number = ""
-occ_control_number = ""
-action = "Approved"   # or "All"
-state = ""   # or 2-Letter capitalized state abbreviation (e.g., "CT")
-hq_or_branch = "1"   # "0" == "Bank Headquarters Location"; "1" == "Branch Location"
-
-
-
+# start_date = "3/1/2020"
+start_date = month + "/" + day + "/" + year
+end_date = "4/8/2020"
+# bank_name = "bank"
+# charter_number = ""
+# occ_control_number = ""
+# action = "All"   # or "All"
+# state = ""   # or 2-Letter capitalized state abbreviation (e.g., "CT")
+hq_or_branch = "0"   # "0" == "Bank Headquarters Location"; "1" == "Branch Location"
 
 
 # Function to clear a non-blank text box form entry and replace with defined new text
@@ -35,21 +48,21 @@ clear_and_replace_text("//*[(@id = 'CAAS_Content_txtStartDate')]", start_date)
 clear_and_replace_text("//*[(@id = 'CAAS_Content_txtEndDate')]", end_date)
 
 # Fill Bank Name
-driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtBankName')]").send_keys(bank_name)
+# driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtBankName')]").send_keys(bank_name)
 
 # Fill Charter Number (can be Full or Partial)
-driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtCharter')]").send_keys(charter_number)
+# driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtCharter')]").send_keys(charter_number)
 
 # Fill OCC Control Number
-driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtControl')]").send_keys(occ_control_number)
+# driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_txtControl')]").send_keys(occ_control_number)
 
 # Select Action from drop-down list
-select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_Action_DropDownList')]"))
-select.select_by_visible_text(action)
+# select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_Action_DropDownList')]"))
+# select.select_by_visible_text(action)
 
 # Select State from drop-down list
-select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_State_DropDownList')]"))
-select.select_by_visible_text(state)
+# select = Select(driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_State_DropDownList')]"))
+# select.select_by_visible_text(state)
 
 # Click Radio Button for Headquarters vs. Branch
 driver.find_element_by_xpath("//*[(@id = 'CAAS_Content_HQorBranchLocation_RadioButtonList_" + hq_or_branch + "')]").click()
@@ -81,10 +94,14 @@ num_cols = len(headers)
 num_cols = int(num_cols)
 
 # Create a DataFrame containing the table & data
-df = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers)
+df1 = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers)
 
-df.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
+# Write DataFrame to a .csv
+# df.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
+# Create connection to SQLite db
+conn = sqlite3.connect('occ-warehouse.sqlite')
 
-
+# Write first DataFrame to SQLite database
+df1.to_sql(name = 'OCCFilings', con = conn, if_exists = 'append')
 
