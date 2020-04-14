@@ -7,16 +7,13 @@ from selenium.webdriver.support.ui import Select
 import sqlite3
 import datetime
 
-
+# Estbalish browsing session
 webdriver = "C:/Users/18602/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/chromedriver.exe"
-
 driver = Chrome(webdriver)
-
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
-
 # Get Start & End dates based upon the system date
-end_date = datetime.date.today()
+end_date = datetime.date.today() - datetime.timedelta(days = 1)
 end_year = str(end_date.year)
 end_month = str(end_date.month)
 end_day = str(end_date.day)
@@ -34,8 +31,8 @@ start_month = str(start_date.month)
 start_day = str(start_date.day)
 
 # Format the Start Date & End Date appropriately for website
-end_date = month + "/" + day + "/" + year
-start_date = month + "/" + day + "/" + year
+end_date = end_month + "/" + end_day + "/" + end_year
+start_date = start_month + "/" + start_day + "/" + start_year
 
 
 ## TODO ##
@@ -44,8 +41,6 @@ start_date = month + "/" + day + "/" + year
 
 # Define Parameters
 # start_date = "3/1/2020"
-start_date = month + "/" + day + "/" + year
-end_date = month + "/" + day + "/" + year
 # bank_name = "bank"
 # charter_number = ""
 # occ_control_number = ""
@@ -112,12 +107,15 @@ num_cols = int(num_cols)
 # Create a DataFrame containing the table & data
 df1 = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers)
 
+# Drop the first column which contains the "Details" links on the web
+df1 = df1.drop(df1.columns[[0]], axis = 1)
+
 # Write DataFrame to a .csv
-# df.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
+df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
 # Create connection to SQLite db
-conn = sqlite3.connect('occ-warehouse.sqlite')
+# conn = sqlite3.connect('occ-warehouse.sqlite')
 
 # Write first DataFrame to SQLite database
-df1.to_sql(name = 'OCCFilings', con = conn, if_exists = 'append')
+# df1.to_sql(name = 'OCCFilings', con = conn, if_exists = 'append')
 
