@@ -15,21 +15,37 @@ driver = Chrome(webdriver)
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
 
-# Get system date info
-year = str(datetime.date.today().year)
-month = str(datetime.date.today().month)
-day = str(datetime.date.today().day)
+# Get Start & End dates based upon the system date
+end_date = datetime.date.today()
+end_year = str(end_date.year)
+end_month = str(end_date.month)
+end_day = str(end_date.day)
+
+# if the system date is Monday, subtract 2 days for the start date
+# so that we can capture Saturday & Sunday data (assuming this script
+# only runs on weekdays)
+if datetime.date.today().weekday() == 0:
+   start_date = datetime.date.today() - datetime.timedelta(days = 2)
+else: 
+   start_date = end_date
+
+start_year = str(start_date.year)
+start_month = str(start_date.month)
+start_day = str(start_date.day)
+
+# Format the Start Date & End Date appropriately for website
+end_date = month + "/" + day + "/" + year
+start_date = month + "/" + day + "/" + year
+
 
 ## TODO ##
-# add functionality that determines if it is a Monday
-# if it is a Monday, make sure to get the prior Saturday and Sunday
 # Also, remove the "Details" column from the Pandas dataframe
 # Create two dataframes for headquarters query and then branch locations query
 
 # Define Parameters
 # start_date = "3/1/2020"
 start_date = month + "/" + day + "/" + year
-end_date = "4/8/2020"
+end_date = month + "/" + day + "/" + year
 # bank_name = "bank"
 # charter_number = ""
 # occ_control_number = ""
