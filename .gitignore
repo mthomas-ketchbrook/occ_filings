@@ -4,5 +4,3 @@
 .Rproj.user/
 debug.log
 occ-warehouse.sqlite-journal
-occ-warehouse.sqlite
-*.sqlite
