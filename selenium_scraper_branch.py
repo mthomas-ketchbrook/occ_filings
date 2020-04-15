@@ -34,11 +34,6 @@ start_day = str(start_date.day)
 end_date = end_month + "/" + end_day + "/" + end_year
 start_date = start_month + "/" + start_day + "/" + start_year
 
-
-## TODO ##
-# Also, remove the "Details" column from the Pandas dataframe
-# Create two dataframes for headquarters query and then branch locations query
-
 # Define Parameters
 # start_date = "3/1/2020"
 # bank_name = "bank"
@@ -46,7 +41,7 @@ start_date = start_month + "/" + start_day + "/" + start_year
 # occ_control_number = ""
 # action = "All"   # or "All"
 # state = ""   # or 2-Letter capitalized state abbreviation (e.g., "CT")
-hq_or_branch = "0"   # "0" == "Bank Headquarters Location"; "1" == "Branch Location"
+hq_or_branch = "1"   # "0" == "Bank Headquarters Location"; "1" == "Branch Location"
 
 
 # Function to clear a non-blank text box form entry and replace with defined new text
@@ -111,11 +106,11 @@ df1 = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers
 df1 = df1.drop(df1.columns[[0]], axis = 1)
 
 # Write DataFrame to a .csv
-df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
+# df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
 # Create connection to SQLite db
-# conn = sqlite3.connect('occ-warehouse.sqlite')
+conn = sqlite3.connect('occ-warehouse.sqlite')
 
 # Write first DataFrame to SQLite database
-# df1.to_sql(name = 'OCCFilings', con = conn, if_exists = 'append')
+df1.to_sql(name = 'OCCFilingsBranch', con = conn, if_exists = 'append', index = False)
 

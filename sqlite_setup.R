@@ -7,30 +7,52 @@ con <- RSQLite::dbConnect(
   "occ-warehouse.sqlite"
 )
 
-headers <- data.frame(
-  Action = NULL, 
-  Date = NULL, 
-  Type = NULL,
-  `Application Number` = NULL, 
-  `Bank Name` = NULL, 
-  Location = NULL, 
-  City = NULL,
-  State = NULL,
-  County = NULL, 
-  `End Cmt Pd` = NULL
+headers_hq <- tibble::tibble(
+  Action = character(0), 
+  Date = character(0), 
+  Type = character(0), 
+  `Application Number` = character(0), 
+  `Bank Name` = character(0), 
+  Location = character(0), 
+  City = character(0), 
+  State = character(0), 
+  County = character(0), 
+  `End Cmt Pd`  = character(0)
 )
 
+headers_branch <- tibble::tibble(
+  Action = character(0), 
+  Date = character(0), 
+  Type = character(0), 
+  `Application Number` = character(0), 
+  `Branch Name` = character(0), 
+  Location = character(0), 
+  City = character(0), 
+  State = character(0), 
+  County = character(0), 
+  `End Cmt Pd`  = character(0)
+)
+
+# Create HQ Table
 RSQLite::dbWriteTable(
   conn = con, 
-  name = "mtcars", 
-  value = mtcars
+  name = "OCCFilingsHQ", 
+  value = headers_hq
 )
 
+# Create Branch Table
+RSQLite::dbWriteTable(
+  conn = con, 
+  name = "OCCFilingsBranch", 
+  value = headers_branch
+)
 
+# List tables in the database
 RSQLite::dbListTables(conn = con)
 
-RSQLite::dbGetQuery(
-  conn = con, 
-  statement = "SELECT * FROM mtcars"
-)
+# Example query
+# RSQLite::dbGetQuery(
+#   conn = con, 
+#   statement = "SELECT * FROM OCCFilings"
+# )
 
