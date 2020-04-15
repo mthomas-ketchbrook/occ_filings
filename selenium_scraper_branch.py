@@ -105,6 +105,9 @@ df1 = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers
 # Drop the first column which contains the "Details" links on the web
 df1 = df1.drop(df1.columns[[0]], axis = 1)
 
+# Remove whitespace in column names
+df1.columns = df1.columns.str.replace(' ', '')
+
 # Write DataFrame to a .csv
 # df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    

@@ -11,26 +11,26 @@ headers_hq <- tibble::tibble(
   Action = character(0), 
   Date = character(0), 
   Type = character(0), 
-  `Application Number` = character(0), 
-  `Bank Name` = character(0), 
+  ApplicationNumber = character(0), 
+  BankName = character(0), 
   Location = character(0), 
   City = character(0), 
   State = character(0), 
   County = character(0), 
-  `End Cmt Pd`  = character(0)
+  EndCmtPd  = character(0)
 )
 
 headers_branch <- tibble::tibble(
   Action = character(0), 
   Date = character(0), 
   Type = character(0), 
-  `Application Number` = character(0), 
-  `Branch Name` = character(0), 
+  ApplicationNumber = character(0), 
+  BranchName = character(0), 
   Location = character(0), 
   City = character(0), 
   State = character(0), 
   County = character(0), 
-  `End Cmt Pd`  = character(0)
+  EndCmtPd  = character(0)
 )
 
 # Create HQ Table
