@@ -34,18 +34,18 @@ headers_branch <- tibble::tibble(
 )
 
 # Create HQ Table
-RSQLite::dbWriteTable(
-  conn = con, 
-  name = "OCCFilingsHQ", 
-  value = headers_hq
-)
+# RSQLite::dbWriteTable(
+#   conn = con, 
+#   name = "OCCFilingsHQ", 
+#   value = headers_hq
+# )
 
 # Create Branch Table
-RSQLite::dbWriteTable(
-  conn = con, 
-  name = "OCCFilingsBranch", 
-  value = headers_branch
-)
+# RSQLite::dbWriteTable(
+#   conn = con, 
+#   name = "OCCFilingsBranch", 
+#   value = headers_branch
+# )
 
 # List tables in the database
 RSQLite::dbListTables(conn = con)
