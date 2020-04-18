@@ -3,9 +3,11 @@ library(RSocrata)
 
 ct_farms <- RSocrata::read.socrata(url = "https://data.ct.gov/resource/hma6-9xbg.csv")
 
-new <- ct_farms %>% 
+farms <- ct_farms %>% 
   tibble::as_tibble() %>% 
+  dplyr::filter(stringr::str_detect(location_1, "[(]")) %>% 
   dplyr::mutate(
+    index = 1:n(), 
     farm_name = ifelse(farm_name == "", NA, farm_name), 
     category = stringr::str_to_title(category), 
     item = stringr::str_to_title(item), 
@@ -23,5 +25,10 @@ new <- ct_farms %>%
       category == "Nursery" ~ "Nursery/Greenhouse", 
       TRUE ~ category
     )
+  ) %>% 
+  tidyr::unnest(location_1) %>% 
+  dplyr::mutate(addy_names = rep(c("address", "citystatezip", "latlon"), n() / 3)) %>% 
+  tidyr::pivot_wider(
+    names_from = addy_names, 
+    values_from = location_1
   )
-  
