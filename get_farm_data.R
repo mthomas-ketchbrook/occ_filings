@@ -8,7 +8,7 @@ farms <- ct_farms %>%
   dplyr::filter(stringr::str_detect(location_1, "[(]")) %>% 
   dplyr::mutate(
     index = 1:n(), 
-    farm_name = ifelse(farm_name == "", NA, farm_name), 
+    # farm_name = ifelse(farm_name == "", NA, farm_name), 
     category = stringr::str_to_title(category), 
     item = stringr::str_to_title(item), 
     zipcode = substr(zipcode, 1, 5), 
@@ -31,4 +31,14 @@ farms <- ct_farms %>%
   tidyr::pivot_wider(
     names_from = addy_names, 
     values_from = location_1
+  ) %>% 
+  dplyr::mutate(
+    lat = stringr::str_extract(
+      string = latlon, 
+      pattern = "(?<=[(])(.*?)(?=,)"   # extract everything after the "(" and before the ","
+    ), 
+    lon = stringr::str_extract(
+      string = latlon, 
+      pattern = "(?<=, )(.*?)(?=[)])"   # extract everything after the ", " and before the ")"
+    )
   )
