@@ -19,10 +19,10 @@ end_month = str(end_date.month)
 end_day = str(end_date.day)
 
 # if the system date is Monday, subtract 2 days for the start date
-# so that we can capture Saturday & Sunday data (assuming this script
+# so that we can capture Friday, Saturday & Sunday data (assuming this script
 # only runs on weekdays)
 if datetime.date.today().weekday() == 0:
-   start_date = datetime.date.today() - datetime.timedelta(days = 2)
+   start_date = datetime.date.today() - datetime.timedelta(days = 3)
 else: 
    start_date = end_date
 
