@@ -13,7 +13,7 @@ driver = Chrome(webdriver)
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
 # Get Start & End dates based upon the system date
-end_date = datetime.date(2020, 4, 14) - datetime.timedelta(days = 1)
+end_date = datetime.date(2020, 4, 22) - datetime.timedelta(days = 1)
 end_year = str(end_date.year)
 end_month = str(end_date.month)
 end_day = str(end_date.day)
