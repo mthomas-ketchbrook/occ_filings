@@ -51,8 +51,8 @@ headers_branch <- tibble::tibble(
 RSQLite::dbListTables(conn = con)
 
 # Example query
-# RSQLite::dbGetQuery(
-#   conn = con, 
-#   statement = "SELECT * FROM OCCFilings"
-# )
+RSQLite::dbGetQuery(
+  conn = con,
+  statement = "SELECT * FROM OCCFilingsBranch"
+) %>% tibble::as_tibble()
 
