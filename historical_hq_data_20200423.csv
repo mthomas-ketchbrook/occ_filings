@@ -1,0 +1,157 @@
+Action,Date,Type,ApplicationNumber,BankName,Location,City,State,County,EndCmtPd
+Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313750,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-10
+Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313751,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-10
+Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313415,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-04-12
+Approved,2020-04-14,Relocation,2020-LB-Relocation-314070,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-04-10
+Approved,2020-04-15,Branch Establishment,2020-LB-BranchNew-313747,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-08
+Consummated/Effective,2020-04-15,Branch Closings,2020-LB-BranchClosing-312669,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Approved,2020-04-16,Branch Establishment,2020-LB-BranchNew-313799,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-15
+Approved,2020-04-16,Branch Establishment,2020-LB-BranchNew-311258,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle,2020-04-02
+Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312728,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312729,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312730,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-04-01,Branch Closings,2020-CE-BranchClosing-314131,"Associated Bank, NA",200 North Adams Street,Green Bay,WI,Brown, 
+Consummated/Effective,2020-04-01,Business Combinations,2019-NE-Combination-312238,Columbia Bank,19-01 Route 208 North,Fair Lawn,NJ,Bergen,2020-01-15
+Consummated/Effective,2020-04-01,Conversions,2019-WE-Conversion-309721,Metabank,5501 South Broadband Lane,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-04-01,Branch Closings,2020-LB-BranchClosing-312726,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-04-02,Subsidiaries & Equities,2020-SO-Subs&Equities-313433,First Citizens NB,200-206 West Court Street,Dyersburg,TN,Dyer, 
+Consummated/Effective,2020-04-02,Subsidiaries & Equities,2020-SO-Subs&Equities-314079,First Citizens NB,200-206 West Court Street,Dyersburg,TN,Dyer, 
+Receipt,2020-04-02,Branch Closings,2020-LB-BranchClosing-314139,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-04-02,Branch Establishment,2018-SO-BranchNew-303286,"Mercantil Bank, NA",220 Alhambra Circle,Coral Gables,FL,Miami-Dade,2018-06-15
+Approved,2020-04-02,Branch Establishment,2020-LB-BranchNew-313222,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-03-22
+Approved,2020-04-02,Branch Establishment,2020-WE-BranchNew-313286,"Sunflower Bank, NA",1400 16th St.,Denver,CO,Denver,2020-03-18
+Consummated/Effective,2020-04-03,Branch Closings,2020-WE-BranchClosing-312522,First NB Alaska,101 West 36th Avenue,Anchorage,AK,Anchorage, 
+Consummated/Effective,2020-04-03,Business Combinations,2020-SO-Combination-313037,"First, A National Banking Association",6480 U.S. Highway 98 West,Hattiesburg,MS,Forrest,2020-03-01
+Consummated/Effective,2020-04-03,Subsidiaries & Equities,2020-SO-Subs&Equities-314010,"First, A National Banking Association",6480 U.S. Highway 98 West,Hattiesburg,MS,Forrest, 
+Consummated/Effective,2020-04-03,Branch Closings,2020-NE-BranchClosing-312525,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Receipt,2020-04-03,Branch Establishment,2020-LB-BranchNew-314144,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-29
+Receipt,2020-04-03,Branch Establishment,2020-LB-BranchNew-314145,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-01
+Receipt,2020-04-03,Branch Establishment,2020-LB-BranchNew-314146,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-01
+Receipt,2020-04-03,Branch Establishment,2020-LB-BranchNew-314147,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-02
+Receipt,2020-04-03,Relocation,2020-LB-Relocation-314152,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga,2020-05-05
+Withdrawn,2020-04-03,Subsidiaries & Equities,2020-NE-Subs&Equities-314094,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Receipt,2020-04-03,Subsidiaries & Equities,2020-NE-Subs&Equities-314158,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311730,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311731,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311732,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311734,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311735,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2019-NE-BranchClosing-311736,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2020-NE-BranchClosing-314168,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2020-NE-BranchClosing-314169,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2020-NE-BranchClosing-314170,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-03,Branch Closings,2020-NE-BranchClosing-314171,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Approved,2020-04-03,Branch Establishment,2020-CE-BranchNew-313394,"Town Bank, NA",850 West North Shore Drive,Hartland,WI,Waukesha,2020-03-23
+Approved,2020-04-03,Branch Establishment,2020-CE-BranchNew-313360,"Wintrust Bank, NA",231 South LaSalle Street,Chicago,IL,Cook,2020-03-21
+Approved,2020-04-03,Branch Establishment,2020-SO-BranchNew-312431,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-04-01
+Approved,2020-04-03,Branch Establishment,2020-SO-BranchNew-312432,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-03-31
+Approved,2020-04-03,Branch Establishment,2020-SO-BranchNew-312458,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-04-01
+Consummated/Effective,2020-04-04,Branch Closings,2020-NE-BranchClosing-314172,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-04-04,Branch Closings,2020-NE-BranchClosing-314173,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Approved,2020-04-06,Relocation,2020-WE-Relocation-313607,Cortrust Bank NA,100 E. Havens & Main,Mitchell,SD,Davison,2020-03-26
+Consummated/Effective,2020-04-06,Relocation,2020-WE-Relocation-313607,Cortrust Bank NA,100 E. Havens & Main,Mitchell,SD,Davison,2020-03-26
+Receipt,2020-04-06,Branch Establishment,2020-LB-BranchNew-314159,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-03
+Receipt,2020-04-06,Business Combinations,2020-CE-Combination-314287,Merchants Bank NA,102 Plaza East,Winona,MN,Winona,2020-05-08
+Approved,2020-04-06,Branch Establishment,2020-WE-BranchNew-313332,Midwest Bank NA,114 West Main Street,Pierce,NE,Pierce,2020-03-25
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314168,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314169,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314170,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314171,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314172,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314173,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Approved,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314124,Sterling FSB,110 E 4th St,Sterling,IL,Whiteside, 
+Consummated/Effective,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314124,Sterling FSB,110 E 4th St,Sterling,IL,Whiteside, 
+Approved,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314125,Sterling FSB,110 E 4th St,Sterling,IL,Whiteside, 
+Consummated/Effective,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314125,Sterling FSB,110 E 4th St,Sterling,IL,Whiteside, 
+Receipt,2020-04-06,5.53 Substantial Change in Assets,2020-WE-5.53-314163,"Transact Bank, NA",700 17th Street,Denver,CO,Denver, 
+Receipt,2020-04-06,Business Combinations,2020-LB-Combination-314186,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-05-08
+Consummated/Effective,2020-04-07,Branch Closings,2019-LB-BranchClosing-312097,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Approved,2020-04-07,Branch Establishment,2020-LB-BranchNew-313610,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-04-02
+Approved,2020-04-07,Branch Establishment,2020-LB-BranchNew-313616,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-04-03
+Approved,2020-04-07,215a-3: Mergers with Non-Bank Affiliates,2020-HQ-215a3-313606,"First Citizens Bk of Polson, NA",213 First Street West,Polson,MT,Lake, 
+Approved,2020-04-07,5.53 Substantial Change in Assets,2020-HQ-5.53-313605,"First Citizens Bk of Polson, NA",213 First Street West,Polson,MT,Lake, 
+Receipt,2020-04-07,Business Combinations,2020-CE-Combination-314183,Hiawatha NB,N1555 770th Street & Highway 35,Hager City,WI,Pierce,2020-05-09
+Consummated/Effective,2020-04-07,Branch Closings,2020-LB-BranchClosing-312512,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-04-07,Terminations,2019-CE-Termination-312612,Victory Cmnty Bk,"2500 Chamber Center Drive, Suite 100",Ft.Mitchell,KY,Kenton, 
+Approved,2020-04-08,Relocation,2020-CE-Relocation-313548,"Associated Bank, NA",200 North Adams Street,Green Bay,WI,Brown,2020-03-31
+Intent Not to Disapprove (CBCA),2020-04-08,Change in Bank Control,2020-HQ-CBCA-312538,EH NB,"8484 Wilshire Boulevard, Suite 100 and M-1010",Beverly Hills,CA,Los Angeles,2020-01-27
+Receipt,2020-04-08,Branch Establishment,2020-CE-BranchNew-313685,First NB of Kentucky,604 Highland Avenue,Carrollton,KY,Carroll,2020-05-15
+Withdrawn,2020-04-08,Branch Establishment,2019-LB-BranchNew-308174,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-04-19
+Withdrawn,2020-04-08,Branch Establishment,2019-LB-BranchNew-308407,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-09
+Receipt,2020-04-08,Branch Establishment,2020-LB-BranchNew-314198,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-08
+Receipt,2020-04-08,Branch Establishment,2020-LB-BranchNew-314199,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-08
+Approved,2020-04-08,Business Combinations,2020-CE-Combination-313492,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown,2020-04-03
+Receipt,2020-04-08,Business Combinations,2020-CE-Combination-314178,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown,2020-05-08
+Approved,2020-04-08,Business Combinations,2020-NE-Combination-313418,Northfield Bank,1731 Victory Boulevard,Staten Island,NY,Richmond,2020-03-25
+Receipt,2020-04-09,Relocation,2020-LB-Relocation-314207,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-04-23
+Consummated/Effective,2020-04-09,Branch Establishment,2020-SO-BranchNew-312556,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-02-05
+Consummated/Effective,2020-04-09,Branch Closings,2019-LB-BranchClosing-312418,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-04-09,Branch Closings,2020-LB-BranchClosing-314251,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-04-09,Branch Closings,2020-LB-BranchClosing-314234,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-04-09,Relocation,2020-LB-Relocation-314205,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-11
+Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313679,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-04-08
+Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313680,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-04-08
+Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314238,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314239,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314240,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-04-10,Business Combinations,2020-SO-Combination-313112,First NB,3801 Fairway Boulevard,Wichita Falls,TX,Wichita,2020-03-06
+Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313748,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-09
+Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313749,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-08
+Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314215,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314221,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314222,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Receipt,2020-04-10,Relocation,2020-CE-Relocation-314228,"Lake Forest Bank & TR Company, NA",727 North Bank Lane,Lake Forest,IL,Lake,2020-04-26
+Receipt,2020-04-10,Branch Establishment,2020-CE-BranchNew-314230,"Wintrust Bank, NA",231 South LaSalle Street,Chicago,IL,Cook,2020-05-11
+Consummated/Effective,2020-04-10,Branch Closings,2019-WE-BranchClosing-312167,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Receipt,2020-04-13,Branch Establishment,2020-LB-BranchNew-314244,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-13
+Withdrawn,2020-04-13,Relocation,2020-LB-Relocation-314207,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-04-23
+Approved,2020-04-13,Branch Establishment,2020-NE-BranchNew-313722,"Dollar Bank, FSB","3 Gateway Center, 9-West",Pittsburgh,PA,Allegheny,2020-03-28
+Receipt,2020-04-13,Subsidiaries & Equities,2020-WE-Subs&Equities-314247,"MetaBank, NA",5501 South Broadband Lane,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-04-13,Branch Establishment,2020-SO-BranchNew-312808,Thomasville NB,301 North Broad Street,Thomasville,GA,Thomas,2020-02-13
+Approved,2020-04-13,Branch Establishment,2020-LB-BranchNew-314092,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-04-11
+Withdrawn,2020-04-17,New Bank Charter,2020-NE-Charter-313854,"Altis TR Bank, NA",450 West 33rd Street,New York,NY, ,2020-04-17
+Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314289,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314291,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-04-17,Relocation,2020-LB-Relocation-314290,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-17
+Receipt,2020-04-17,Relocation,2020-LB-Relocation-314293,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-17
+Approved,2020-04-17,Relocation,2020-LB-Relocation-314077,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-04-13
+Receipt,2020-04-17,Subsidiaries & Equities,2020-LB-Subs&Equities-314241,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-04-17,Business Combinations,2020-WE-Combination-312651,First NB in Creston,101 West Adams,Creston,IA,Union,2020-03-06
+Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313263,First NB Minnesota,226 West Nassau Street,St. Peter,MN,Nicollet,2020-03-14
+Intent Not to Disapprove (CBCA),2020-04-17,Change in Bank Control,2020-CE-CBCA-312911,First NB of Germantown,17 N. Main Street,Germantown,OH,Montgomery,2020-03-03
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312785,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312791,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312792,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312793,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312794,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312795,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312796,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312797,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312798,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312799,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312801,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312802,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312803,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312805,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312806,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-CE-BranchClosing-312943,"Hinsdale Bank & TR Company, NA",25 East First Street,Hinsdale,IL,Dupage, 
+Approved,2020-04-17,Branch Establishment,2020-LB-BranchNew-313931,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-16
+Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313283,Old Plank Trail Community Bank NA,20012 Wolf Road,Mokena,IL,Will,2020-03-15
+Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312653,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312654,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314220,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-04-17,Relocation,2020-LB-Relocation-314223,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-17
+Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312638,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle, 
+Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312645,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle, 
+Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313281,"Wintrust Bank, NA",231 South LaSalle Street,Chicago,IL,Cook,2020-03-15
+Approved,2020-04-20,Branch Establishment,2020-CE-BranchNew-313954,Cornerstone NB & Tr Co,One West Northwest Highway,Palatine,IL,Cook,2020-04-15
+Consummated/Effective,2020-04-20,Branch Establishment,2019-WE-BranchNew-309220,Security NB of Omaha,1120 S. 101st Street,Omaha,NE,Douglas,2019-07-02
+Approved,2020-04-21,Branch Establishment,2020-SO-BranchNew-313673,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-04-11
+Approved,2020-04-21,Relocation,2020-LB-Relocation-313840,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax,2020-04-18
+Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313933,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-18
+Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313934,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-18
+Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313935,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-18
+Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-314061,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-19
+Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-314066,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-19
+Approved,2020-04-21,Branch Establishment,2020-SO-BranchNew-313407,Lone Star NB,206 West Ferguson,Pharr,TX,Hidalgo,2020-04-14
+Approved,2020-04-22,Branch Establishment,2020-LB-BranchNew-313898,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-04-19
