@@ -53,6 +53,7 @@ RSQLite::dbListTables(conn = con)
 # Example query
 RSQLite::dbGetQuery(
   conn = con,
-  statement = "SELECT * FROM OCCFilingsBranch"
-) %>% tibble::as_tibble()
+  statement = "SELECT * FROM OCCFilingsHQ"
+) %>% 
+  tibble::as_tibble()
 
