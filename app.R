@@ -76,9 +76,13 @@ ui <- shiny::fluidPage(
       
       shiny::column(
         width = 8, 
-        DT::DTOutput(outputId = "chl_dt")#, 
+        # DT::DTOutput(outputId = "chl_dt"), 
         # shiny::plotOutput(outputId = "chloropleth_chart"), 
-        # plotly::plotlyOutput(outputId = "chloropleth_plotly")
+        # shiny::br(), 
+        shiny::div(
+          class = "container", 
+          plotly::plotlyOutput(outputId = "chloropleth_plotly")
+        )
       )
       
     ), 
@@ -129,21 +133,13 @@ server <- function(input, output, session) {
     chloropleth_data()
   })
 
-  # output$chloropleth_chart <- shiny::renderPlot({
-  #   generate_chloropleth_chart(
-  #     chloropleth_data = chloropleth_data(),
-  #     gg_data = gg_data
-  #   )
-  # })
-  # 
-  # output$chloropleth_plotly <- plotly::renderPlotly({
-  # 
-  #   generate_chloropleth_chart(
-  #     chloropleth_data = chloropleth_data(),
-  #     gg_data = gg_data
-  #   )
-  # 
-  # })
+  output$chloropleth_plotly <- plotly::renderPlotly({
+
+    generate_chloropleth_chart(
+      chloropleth_data = chloropleth_data()
+    )
+
+  })
   
   
 }

@@ -53,28 +53,42 @@ generate_chloropleth_data <- function(data, state_lookup_tbl, action_filter, dat
 }
 
 
-generate_chloropleth_chart <- function(chloropleth_data, gg_data) {
+generate_chloropleth_chart <- function(chloropleth_data) {
   
   plot_data <- chloropleth_data %>% 
     dplyr::mutate(hover = paste(StateName, "<br>", Filings))
   
-  p <- ggplot2::ggplot(
-    chloropleth_data, 
-    ggplot2::aes(fill = `Number of Filings`)
-  ) + 
-    ggplot2::geom_map(
-      ggplot2::aes(map_id = StateName), 
-      map = gg_data
-    ) + 
-    ggplot2::expand_limits(
-      x = gg_data$long, 
-      y = gg_data$lat
-    ) + 
-    ggplot2::ggtitle("Number of Filings by State") + 
-    ggplot2::theme_void()
+  # give state boundaries a white border
+  l <- list(
+    color = plotly::toRGB("white"), 
+    width = 2
+  )
   
-  plotly::ggplotly(p)
+  # specify some map projection/options
+  g <- list(
+    scope = 'usa',
+    projection = list(type = 'albers usa'),
+    showlakes = TRUE,
+    lakecolor = plotly::toRGB('white')
+  )
   
-  # return(p)
+  plotly::plot_geo(
+    plot_data, 
+    locationmode = 'USA-states', 
+    width = 1000
+  ) %>% 
+    plotly::add_trace(
+      z = ~Filings,
+      # text = ~hover, 
+      locations = ~StateAbb,
+      color = ~Filings, 
+      colors = 'Purples'
+    ) %>% 
+    plotly::colorbar(title = "Number of Filings") %>% 
+    plotly::layout(
+      title = 'OCC Filings by State',
+      geo = g, 
+      autosize = F
+    )
   
 }
