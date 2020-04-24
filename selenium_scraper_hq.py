@@ -139,3 +139,4 @@ conn = sqlite3.connect('occ-warehouse.sqlite')
 # Write first DataFrame to SQLite database
 df1.to_sql(name = 'OCCFilingsHQ', con = conn, if_exists = 'append', index = False)
 
+print("Success")
