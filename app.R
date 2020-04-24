@@ -13,6 +13,11 @@ master_tbl <- get_occ_data()
 
 gg_data <- ggplot2::map_data("state")
 
+state_lookup_tbl <- tibble::tibble(
+  StateAbb = state.abb, 
+  StateName = state.name
+)
+
 # UI ----
 ui <- shiny::fluidPage(
   
@@ -55,12 +60,12 @@ ui <- shiny::fluidPage(
             inputId = "action_filter", 
             label = "Select an Action Type", 
             choices = unique(master_tbl$Action), 
-            selected = "Approved", 
+            selected = "Consummated/Effective", 
             multiple = T
           ), 
           shinyWidgets::pickerInput(
             inputId = "type_filter", 
-            label = "Select an Filing Type", 
+            label = "Select a Filing Type", 
             choices = unique(master_tbl$Type), 
             selected = "Branch Closings", 
             multiple = T
@@ -71,7 +76,9 @@ ui <- shiny::fluidPage(
       
       shiny::column(
         width = 8, 
-        plotly::plotlyOutput(outputId = "chloropleth_plotly")
+        DT::DTOutput(outputId = "chl_dt")#, 
+        # shiny::plotOutput(outputId = "chloropleth_chart"), 
+        # plotly::plotlyOutput(outputId = "chloropleth_plotly")
       )
       
     ), 
@@ -110,6 +117,7 @@ server <- function(input, output, session) {
   chloropleth_data <- shiny::reactive({
     generate_chloropleth_data(
       data = master_tbl, 
+      state_lookup_tbl = state_lookup_tbl, 
       action_filter = input$action_filter, 
       type_filter = input$type_filter, 
       date_1 = input$date_filter[1], 
@@ -117,14 +125,25 @@ server <- function(input, output, session) {
     )
   })
   
-  output$chloropleth_plotly <- plotly::renderPlotly({
-    generate_chloropleth_chart(
-      chloropleth_data = chloropleth_data(), 
-      gg_data = gg_data
-    )
+  output$chl_dt <- DT::renderDT({
+    chloropleth_data()
   })
-  
-  
+
+  # output$chloropleth_chart <- shiny::renderPlot({
+  #   generate_chloropleth_chart(
+  #     chloropleth_data = chloropleth_data(),
+  #     gg_data = gg_data
+  #   )
+  # })
+  # 
+  # output$chloropleth_plotly <- plotly::renderPlotly({
+  # 
+  #   generate_chloropleth_chart(
+  #     chloropleth_data = chloropleth_data(),
+  #     gg_data = gg_data
+  #   )
+  # 
+  # })
   
   
 }

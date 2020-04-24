@@ -34,50 +34,47 @@ get_occ_data <- function() {
 }
 
 
-generate_chloropleth_data <- function(data, action_filter, date_1, date_2, type_filter) {
+generate_chloropleth_data <- function(data, state_lookup_tbl, action_filter, date_1, date_2, type_filter) {
   
   data %>% 
-    dplyr::filter(Action %in% action_filter) %>% 
-    dplyr::filter(Date >= date_1 & Date <= date_2) %>% 
-    dplyr::filter(Type %in% type_filter) %>% 
-    dplyr::filter(!is.na(State)) %>% 
-    dplyr::mutate(state = tolower(State)) %>%
-    dplyr::count(state, name = "Number of Filings")
+    dplyr::filter(Action %in% action_filter) %>%
+    dplyr::filter(Date >= date_1 & Date <= date_2) %>%
+    dplyr::filter(Type %in% type_filter) %>%
+    dplyr::filter(!is.na(State)) %>%
+    dplyr::count(State, name = "Filings") %>% 
+    dplyr::full_join(
+      state_lookup_tbl, 
+      by = c("State" = "StateAbb")
+    ) %>% 
+    dplyr::mutate(Filings = ifelse(is.na(Filings), 0, Filings)) %>% 
+    dplyr::rename(StateAbb = State) %>% 
+    dplyr::arrange(StateName)
   
 }
 
 
 generate_chloropleth_chart <- function(chloropleth_data, gg_data) {
   
+  plot_data <- chloropleth_data %>% 
+    dplyr::mutate(hover = paste(StateName, "<br>", Filings))
+  
   p <- ggplot2::ggplot(
     chloropleth_data, 
     ggplot2::aes(fill = `Number of Filings`)
   ) + 
     ggplot2::geom_map(
-      ggplot2::aes(map_id = state), 
+      ggplot2::aes(map_id = StateName), 
       map = gg_data
     ) + 
     ggplot2::expand_limits(
       x = gg_data$long, 
       y = gg_data$lat
     ) + 
-    ggplot2::ggtitle(
-      glue::glue(
-        "Number of Filings by State", 
-        .sep = "\n"
-      )
-    )+ 
-    ggplot2::theme(
-      axis.title.x = ggplot2::element_blank(), 
-      axis.text.x = ggplot2::element_blank(), 
-      axis.ticks.x = ggplot2::element_blank(), 
-      axis.title.y = ggplot2::element_blank(), 
-      axis.text.y = ggplot2::element_blank(), 
-      axis.ticks.y = ggplot2::element_blank() 
-    )
+    ggplot2::ggtitle("Number of Filings by State") + 
+    ggplot2::theme_void()
   
-  p <- plotly::ggplotly(p)
+  plotly::ggplotly(p)
   
-  return(p)
+  # return(p)
   
 }
