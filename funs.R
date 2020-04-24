@@ -82,7 +82,7 @@ generate_chloropleth_chart <- function(chloropleth_data) {
       # text = ~hover, 
       locations = ~StateAbb,
       color = ~Filings, 
-      colors = 'Purples'
+      colors = 'Blues'
     ) %>% 
     plotly::colorbar(title = "Number of Filings") %>% 
     plotly::layout(
