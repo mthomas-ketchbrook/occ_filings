@@ -1,24 +1,17 @@
 library(tidyverse)
 library(shiny)
-# library(shinyWidgets)
+library(shinyWidgets)
 library(shinythemes)
 # library(shinyjs)
 library(RSQLite)
 library(DT)
+library(plotly)
 
-# Create SQLite database
-branch_data <- RSQLite::dbConnect(
-  drv = RSQLite::SQLite(), 
-  "occ-warehouse.sqlite"
-) %>% 
-  # Example query
-  RSQLite::dbGetQuery(
-    statement = "SELECT * FROM OCCFilingsBranch"
-  ) %>% tibble::as_tibble()
+source("funs.R")
 
+master_tbl <- get_occ_data()
 
-
-
+gg_data <- ggplot2::map_data("state")
 
 # UI ----
 ui <- shiny::fluidPage(
@@ -34,7 +27,7 @@ ui <- shiny::fluidPage(
       shiny::a(
         href = "https://www.ketchbrookanalytics.com/", 
         target = "_blank", 
-        style = "font-color: white;"
+        style = "color: white;"
       ), 
     
     collapsible = T, 
@@ -47,6 +40,38 @@ ui <- shiny::fluidPage(
       
       shiny::h1(
         "OCC Filings Dashboard"
+      ), 
+      
+      shiny::column(
+        width = 4, 
+        shiny::wellPanel(
+          shiny::dateRangeInput(
+            inputId = "date_filter", 
+            label = "Set Start & End Dates", 
+            start = min(master_tbl$Date), 
+            end = max(master_tbl$Date)
+          ), 
+          shinyWidgets::pickerInput(
+            inputId = "action_filter", 
+            label = "Select an Action Type", 
+            choices = unique(master_tbl$Action), 
+            selected = "Approved", 
+            multiple = T
+          ), 
+          shinyWidgets::pickerInput(
+            inputId = "type_filter", 
+            label = "Select an Filing Type", 
+            choices = unique(master_tbl$Type), 
+            selected = "Branch Closings", 
+            multiple = T
+          )
+          
+        )
+      ), 
+      
+      shiny::column(
+        width = 8, 
+        plotly::plotlyOutput(outputId = "chloropleth_plotly")
       )
       
     ), 
@@ -75,8 +100,32 @@ ui <- shiny::fluidPage(
 server <- function(input, output, session) {
   
   output$branch_dt <- DT::renderDT({
-    branch_data
+    master_tbl %>% 
+      dplyr::filter(
+        Date >= input$date_filter[1] & 
+          Date <= input$date_filter[2]
+      )
   })
+  
+  chloropleth_data <- shiny::reactive({
+    generate_chloropleth_data(
+      data = master_tbl, 
+      action_filter = input$action_filter, 
+      type_filter = input$type_filter, 
+      date_1 = input$date_filter[1], 
+      date_2 = input$date_filter[2]
+    )
+  })
+  
+  output$chloropleth_plotly <- plotly::renderPlotly({
+    generate_chloropleth_chart(
+      chloropleth_data = chloropleth_data(), 
+      gg_data = gg_data
+    )
+  })
+  
+  
+  
   
 }
 
