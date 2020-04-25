@@ -1,25 +1,28 @@
 # Function to load data from SQLite database
 get_occ_data <- function() {
   
-  # Get Branch filings
-  branch_data <- RSQLite::dbConnect(
+  con <- RSQLite::dbConnect(
     drv = RSQLite::SQLite(), 
     "occ-warehouse.sqlite"
-  ) %>% 
-    # Example query
-    RSQLite::dbGetQuery(
-      statement = "SELECT * FROM OCCFilingsBranch"
-    ) %>% tibble::as_tibble()
+  )
+  
+  print("Connected to SQLite database")
+  
+  # Get Branch filings
+  branch_data <- RSQLite::dbGetQuery(
+    conn = con, 
+    statement = "SELECT * FROM OCCFilingsBranch"
+  ) %>% tibble::as_tibble()
   
   # Get HQ filings
-  hq_data <- RSQLite::dbConnect(
-    drv = RSQLite::SQLite(), 
-    "occ-warehouse.sqlite"
-  ) %>% 
-    # Example query
-    RSQLite::dbGetQuery(
-      statement = "SELECT * FROM OCCFilingsHQ"
-    ) %>% tibble::as_tibble()
+  hq_data <- RSQLite::dbGetQuery(
+    conn = con, 
+    statement = "SELECT * FROM OCCFilingsHQ"
+  ) %>% tibble::as_tibble()
+  
+  RSQLite::dbDisconnect(conn = con)
+  
+  print("Disconnected from SQLite database")
   
   branch_data %>% 
     dplyr::left_join(
@@ -67,9 +70,8 @@ generate_chloropleth_chart <- function(chloropleth_data) {
   # specify some map projection/options
   g <- list(
     scope = 'usa',
-    projection = list(type = 'albers usa'),
-    showlakes = TRUE,
-    lakecolor = plotly::toRGB('white')
+    projection = list(type = 'albers usa'), 
+    showlakes = F
   )
   
   plotly::plot_geo(
