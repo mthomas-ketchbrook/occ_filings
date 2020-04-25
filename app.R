@@ -47,42 +47,61 @@ ui <- shiny::fluidPage(
         "OCC Filings Dashboard"
       ), 
       
-      shiny::column(
-        width = 4, 
-        shiny::wellPanel(
-          shiny::dateRangeInput(
-            inputId = "date_filter", 
-            label = "Set Start & End Dates", 
-            start = min(master_tbl$Date), 
-            end = max(master_tbl$Date)
-          ), 
-          shinyWidgets::pickerInput(
-            inputId = "action_filter", 
-            label = "Select an Action Type", 
-            choices = unique(master_tbl$Action), 
-            selected = "Consummated/Effective", 
-            multiple = T
-          ), 
-          shinyWidgets::pickerInput(
-            inputId = "type_filter", 
-            label = "Select a Filing Type", 
-            choices = unique(master_tbl$Type), 
-            selected = "Branch Closings", 
-            multiple = T
+      shiny::hr(), 
+      
+      shiny::fluidRow(
+        
+        shiny::column(
+          width = 4, 
+          shiny::wellPanel(
+            shiny::dateRangeInput(
+              inputId = "date_filter", 
+              label = "Set Start & End Dates", 
+              start = min(master_tbl$Date), 
+              end = max(master_tbl$Date)
+            ), 
+            shinyWidgets::pickerInput(
+              inputId = "action_filter", 
+              label = "Select an Action Type", 
+              choices = unique(master_tbl$Action), 
+              selected = "Consummated/Effective", 
+              multiple = T
+            ), 
+            shinyWidgets::pickerInput(
+              inputId = "type_filter", 
+              label = "Select a Filing Type", 
+              choices = unique(master_tbl$Type), 
+              selected = "Branch Closings", 
+              multiple = T
+            )
+            
+          )
+          
+        ), 
+        
+        shiny::column(
+          width = 8, 
+          # DT::DTOutput(outputId = "chl_dt"), 
+          # shiny::plotOutput(outputId = "chloropleth_chart"), 
+          # shiny::br(), 
+          shiny::tabsetPanel(
+            id = "tabset_geoms", 
+            
+            shiny::tabPanel(
+              title = "State Level", 
+              shiny::br(), 
+              shiny::br(), 
+              plotly::plotlyOutput(outputId = "chloropleth_plotly")
+            ), 
+            
+            shiny::tabPanel(
+              title = "Actual Locations"
+            )
+            
           )
           
         )
-      ), 
-      
-      shiny::column(
-        width = 8, 
-        # DT::DTOutput(outputId = "chl_dt"), 
-        # shiny::plotOutput(outputId = "chloropleth_chart"), 
-        # shiny::br(), 
-        shiny::div(
-          class = "container", 
-          plotly::plotlyOutput(outputId = "chloropleth_plotly")
-        )
+        
       )
       
     ), 
@@ -106,6 +125,7 @@ ui <- shiny::fluidPage(
   )
   
 )
+
 
 # Server ----
 server <- function(input, output, session) {
@@ -132,13 +152,13 @@ server <- function(input, output, session) {
   output$chl_dt <- DT::renderDT({
     chloropleth_data()
   })
-
+  
   output$chloropleth_plotly <- plotly::renderPlotly({
-
+    
     generate_chloropleth_chart(
       chloropleth_data = chloropleth_data()
     )
-
+    
   })
   
   
