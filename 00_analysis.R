@@ -1,31 +1,25 @@
 library(tidyverse)
 library(RSQLite)
 
-# Get Branch filings
-branch_data <- RSQLite::dbConnect(
+con <- RSQLite::dbConnect(
   drv = RSQLite::SQLite(), 
   "occ-warehouse.sqlite"
-) %>% 
-  # Example query
-  RSQLite::dbGetQuery(
-    statement = "SELECT * FROM OCCFilingsBranch"
-  ) %>% tibble::as_tibble()
+)
+
+# Get Branch filings
+branch_data <- RSQLite::dbGetQuery(
+  conn = con,
+  statement = "SELECT * FROM OCCFilingsBranch"
+) %>% tibble::as_tibble()
 
 # Get HQ filings
-hq_data <- RSQLite::dbConnect(
-  drv = RSQLite::SQLite(), 
-  "occ-warehouse.sqlite"
-) %>% 
-  # Example query
-  RSQLite::dbGetQuery(
-    statement = "SELECT * FROM OCCFilingsHQ"
-  ) %>% tibble::as_tibble()
+hq_data <- RSQLite::dbGetQuery(
+  conn = con,
+  statement = "SELECT * FROM OCCFilingsHQ"
+) %>% tibble::as_tibble()
 
 RSQLite::dbDisconnect(
-  RSQLite::dbConnect(
-    drv = RSQLite::SQLite(), 
-    "occ-warehouse.sqlite"
-  )
+  conn = con
 )
 
 master_tbl <- branch_data %>% 
