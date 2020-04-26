@@ -106,22 +106,6 @@ ui <- shiny::fluidPage(
         
       )
       
-    ), 
-    
-    # "About" tab on the navbar ----
-    shiny::tabPanel(
-      title = "Raw Data", 
-      value = "nav_page_2", 
-      
-      shiny::h1(
-        "Data Table of OCC Filings"
-      ), 
-      
-      shiny::div(
-        class = "container", 
-        DT::DTOutput("branch_dt")
-      )
-      
     )
     
   )
@@ -132,13 +116,13 @@ ui <- shiny::fluidPage(
 # Server ----
 server <- function(input, output, session) {
   
-  output$branch_dt <- DT::renderDT({
-    master_tbl %>% 
-      dplyr::filter(
-        Date >= input$date_filter[1] & 
-          Date <= input$date_filter[2]
-      )
-  })
+  # output$branch_dt <- DT::renderDT({
+  #   master_tbl %>% 
+  #     dplyr::filter(
+  #       Date >= input$date_filter[1] & 
+  #         Date <= input$date_filter[2]
+  #     )
+  # })
   
   chloropleth_data <- shiny::reactive({
     generate_chloropleth_data(
