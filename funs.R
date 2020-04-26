@@ -37,6 +37,19 @@ get_occ_data <- function() {
 }
 
 
+generate_DT_data <- function(data, state_lookup_tbl, action_filter, date_1, date_2, type_filter) {
+  
+  data %>% 
+    dplyr::filter(Action %in% action_filter) %>%
+    dplyr::filter(Date >= date_1 & Date <= date_2) %>%
+    dplyr::filter(Type %in% type_filter) %>% 
+    dplyr::mutate(CoordsAvail = ifelse(is.na(Coordinates), "No", "Yes")) %>% 
+    dplyr::rename(`Coordinates Available` = CoordsAvail) %>% 
+    dplyr::select(Date, Action, Type, BankName, Location, City, State, `Coordinates Available`)
+  
+}
+
+
 generate_chloropleth_data <- function(data, state_lookup_tbl, action_filter, date_1, date_2, type_filter) {
   
   data %>% 
@@ -95,6 +108,7 @@ generate_chloropleth_chart <- function(chloropleth_data) {
   
 }
 
+
 generate_bubble_data <- function(data, action_filter, date_1, date_2, type_filter) {
   
   data %>% 
@@ -115,6 +129,7 @@ generate_bubble_data <- function(data, action_filter, date_1, date_2, type_filte
     dplyr::select(Action, Type, Date, BankName, lat, lon)
   
 }
+
 
 generate_bubble_labels <- function(data) {
   

@@ -104,6 +104,12 @@ ui <- shiny::fluidPage(
           
         )
         
+      ), 
+      
+      shiny::fluidRow(
+        
+        DT::DTOutput(outputId = "dt_main")
+        
       )
       
     )
@@ -116,13 +122,22 @@ ui <- shiny::fluidPage(
 # Server ----
 server <- function(input, output, session) {
   
-  # output$branch_dt <- DT::renderDT({
-  #   master_tbl %>% 
-  #     dplyr::filter(
-  #       Date >= input$date_filter[1] & 
-  #         Date <= input$date_filter[2]
-  #     )
-  # })
+  dt_data <- shiny::reactive({
+    generate_DT_data(
+      data = master_tbl, 
+      action_filter = input$action_filter, 
+      type_filter = input$type_filter, 
+      date_1 = input$date_filter[1], 
+      date_2 = input$date_filter[2]
+    )
+  })
+  
+  output$dt_main <- DT::renderDT(
+    dt_data(), 
+    filter = "top", 
+    options = list(scrollx = TRUE), 
+    rownames = FALSE
+  )
   
   chloropleth_data <- shiny::reactive({
     generate_chloropleth_data(
@@ -172,7 +187,6 @@ server <- function(input, output, session) {
       )
   })
   
-  
 }
 
-shinyApp(ui, server)
+shiny::shinyApp(ui = ui, server = server)
