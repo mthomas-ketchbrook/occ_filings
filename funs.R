@@ -94,3 +94,34 @@ generate_chloropleth_chart <- function(chloropleth_data) {
     )
   
 }
+
+generate_bubble_data <- function(data, action_filter, date_1, date_2, type_filter) {
+  
+  data %>% 
+    dplyr::filter(!is.na(Coordinates)) %>% 
+    dplyr::filter(Action %in% action_filter) %>%
+    dplyr::filter(Date >= date_1 & Date <= date_2) %>%
+    dplyr::filter(Type %in% type_filter) %>%
+    dplyr::mutate(
+      lat = stringr::str_extract(
+        string = Coordinates, 
+        pattern = "(?<=[(])(.*?)(?=,)"   # extract everything after the "(" and before the ","
+      ) %>% as.numeric(), 
+      lon = stringr::str_extract(
+        string = Coordinates, 
+        pattern = "(?<=, )(.*?)(?=[,])"   # extract everything after the ", " and before the ")"
+      ) %>% as.numeric()
+    ) %>% 
+    dplyr::select(Action, Type, Date, BankName, lat, lon)
+  
+}
+
+generate_bubble_labels <- function(data) {
+  
+  sprintf(
+    "<strong>%s</strong><br/>%s<br/>%s",
+    data$BankName, data$Action, data$Type
+  ) %>% lapply(shiny::HTML)
+  
+}
+  

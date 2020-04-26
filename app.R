@@ -6,6 +6,7 @@ library(shinythemes)
 library(RSQLite)
 library(DT)
 library(plotly)
+library(leaflet)
 
 source("funs.R")
 
@@ -81,9 +82,7 @@ ui <- shiny::fluidPage(
         
         shiny::column(
           width = 8, 
-          # DT::DTOutput(outputId = "chl_dt"), 
-          # shiny::plotOutput(outputId = "chloropleth_chart"), 
-          # shiny::br(), 
+          
           shiny::tabsetPanel(
             id = "tabset_geoms", 
             
@@ -95,7 +94,10 @@ ui <- shiny::fluidPage(
             ), 
             
             shiny::tabPanel(
-              title = "Actual Locations"
+              title = "Actual Locations", 
+              shiny::br(), 
+              shiny::br(), 
+              leaflet::leafletOutput(outputId = "bubble_leaflet")
             )
             
           )
@@ -154,11 +156,36 @@ server <- function(input, output, session) {
   })
   
   output$chloropleth_plotly <- plotly::renderPlotly({
-    
     generate_chloropleth_chart(
       chloropleth_data = chloropleth_data()
     )
-    
+  })
+  
+  bubble_data <- shiny::reactive({
+    generate_bubble_data(
+      data = master_tbl, 
+      action_filter = input$action_filter, 
+      type_filter = input$type_filter, 
+      date_1 = input$date_filter[1], 
+      date_2 = input$date_filter[2]
+    )
+  })
+  
+  bubble_labels <- shiny::reactive({
+    generate_bubble_labels(data = bubble_data())
+  })
+  
+  output$bubble_leaflet <- leaflet::renderLeaflet({
+    leaflet::leaflet() %>% 
+      leaflet::addProviderTiles(provider = providers$Esri) %>% 
+      leaflet::addCircleMarkers(
+        data = bubble_data(),
+        lng = ~lon, 
+        lat = ~lat, 
+        weight = 10, 
+        radius = 5,
+        label = bubble_labels()
+      )
   })
   
   
