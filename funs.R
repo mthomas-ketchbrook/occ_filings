@@ -119,8 +119,8 @@ generate_bubble_data <- function(data, action_filter, date_1, date_2, type_filte
 generate_bubble_labels <- function(data) {
   
   sprintf(
-    "<strong>%s</strong><br/>%s<br/>%s",
-    data$BankName, data$Action, data$Type
+    "<strong>%s</strong><br/>%s<br/>%s<br/>Filed On: %s",
+    data$BankName, data$Action, data$Type, data$Date
   ) %>% lapply(shiny::HTML)
   
 }
