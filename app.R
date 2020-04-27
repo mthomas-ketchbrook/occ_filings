@@ -7,6 +7,7 @@ library(DT)
 library(plotly)
 library(leaflet)
 library(ggthemes)
+library(glue)
 
 source("funs.R")
 
@@ -79,8 +80,36 @@ ui <- shiny::fluidPage(
           ), 
           
           shiny::wellPanel(
-            shiny::p("Notes about this Page:")
+            shiny::p(
+              class = "lead", 
+              "Notes about this Page:"
+            ), 
+            shiny::p(
+              "After altering a map visual, double-clicking anywhere on the map will return it to the default zoom."
+            ), 
+            shiny::p(
+              "Only data where the value for `Coordinates Available` is marked \"Yes\" (in the table below) will display in the map on the ", 
+              shiny::strong("Actual Locations"), 
+              "tab."
+            ), 
+            shiny::span(
+              glue::glue(
+                "Data is available from", 
+                "{format(min(as.Date(master_tbl$Date)), \"%b %d, %Y\")}", 
+                "through", 
+                "{format(max(as.Date(master_tbl$Date)), \"%b %d, %Y\")}.", 
+                "For additional history, please contact", 
+                .sep = " "
+              ), 
+              shiny::a(
+                href = "mailto:info@ketchbrookanalytics.com", 
+                target = "_blank", 
+                "Ketchbrook Analytics."
+              )
+            )
+            
           )
+          
         ), 
         
         shiny::column(
