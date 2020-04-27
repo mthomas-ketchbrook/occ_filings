@@ -169,7 +169,7 @@ generate_trend_chart <- function(data) {
     ggplot2::scale_fill_brewer(palette = "Set3") + 
     ggplot2::xlab("") + 
     ggplot2::ggtitle("Number of Filings by Date") +
-    ggthemes::theme_economist()
+    ggthemes::theme_few()
 
   plotly::ggplotly(p)
   
@@ -205,7 +205,7 @@ generate_bar_chart <- function(data) {
     ggplot2::xlab("") + 
     ggplot2::ggtitle("Number of Filings by Action & Filing Type") + 
     ggplot2::coord_flip() + 
-    ggthemes::theme_economist()
+    ggthemes::theme_few()
   
   plotly::ggplotly(p)
   
