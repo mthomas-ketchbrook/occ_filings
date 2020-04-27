@@ -249,9 +249,9 @@ server <- function(input, output, session) {
     )
   })
   
-  output$chl_dt <- DT::renderDT({
-    chloropleth_data()
-  })
+  # output$chl_dt <- DT::renderDT({
+  #   chloropleth_data()
+  # })
   
   output$chloropleth_plotly <- plotly::renderPlotly({
     generate_chloropleth_chart(
