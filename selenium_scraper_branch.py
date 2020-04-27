@@ -127,6 +127,8 @@ coords2 = coords.apply(lambda loc: tuple(loc.point) if loc else None)
 
 df1['Coordinates'] = coords2
 
+df1['Coordinates'] = df1.Coordinates.astype(str)
+
 # Drop the 'FullAddress' temporary column
 df1 = df1.drop(df1.columns[[10]], axis = 1)
 
