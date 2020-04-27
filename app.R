@@ -2,11 +2,11 @@ library(tidyverse)
 library(shiny)
 library(shinyWidgets)
 library(shinythemes)
-# library(shinyjs)
 library(RSQLite)
 library(DT)
 library(plotly)
 library(leaflet)
+library(ggthemes)
 
 source("funs.R")
 
@@ -54,6 +54,7 @@ ui <- shiny::fluidPage(
         
         shiny::column(
           width = 4, 
+          
           shiny::wellPanel(
             shiny::dateRangeInput(
               inputId = "date_filter", 
@@ -75,9 +76,11 @@ ui <- shiny::fluidPage(
               selected = "Branch Closings", 
               multiple = T
             )
-            
-          )
+          ), 
           
+          shiny::wellPanel(
+            shiny::p("Notes about this Page:")
+          )
         ), 
         
         shiny::column(
@@ -96,8 +99,19 @@ ui <- shiny::fluidPage(
             shiny::tabPanel(
               title = "Actual Locations", 
               shiny::br(), 
-              shiny::br(), 
               leaflet::leafletOutput(outputId = "bubble_leaflet")
+            ), 
+            
+            shiny::tabPanel(
+              title = "Trend", 
+              shiny::br(), 
+              plotly::plotlyOutput(outputId = "trend_chart")
+            ), 
+            
+            shiny::tabPanel(
+              title = "Count", 
+              shiny::br(), 
+              plotly::plotlyOutput(outputId = "bar_chart")
             )
             
           )
@@ -106,9 +120,65 @@ ui <- shiny::fluidPage(
         
       ), 
       
+      shiny::br(), 
+      shiny::hr(), 
+      
       shiny::fluidRow(
         
         DT::DTOutput(outputId = "dt_main")
+        
+      ), 
+      
+      shiny::br(), 
+      shiny::br()
+      
+    ), 
+    
+    shiny::tabPanel(
+      title = "About", 
+      value = "nav_page_2", 
+      
+      # JumboTron Ad for Ketchbrook ----
+      shiny::fluidRow(
+        shiny::div(
+          class = "jumbotron", 
+          shiny::h1("Enjoying This App?"), 
+          shiny::p(
+            class = "lead", 
+            "Check out what else Ketchbrook Analytics can do for you."
+          ), 
+          shiny::a(
+            class = "btn btn-primary btn-lg", 
+            href = "https://www.ketchbrookanalytics.com/", 
+            target = "_blank", 
+            "Visit Us"
+          )
+        )
+      ), 
+      
+      shiny::fluidRow(
+        
+        shiny::column(
+          width = 12, 
+          class = "well", 
+          
+          shiny::p(
+            class = "lead", 
+            "About this Application"
+          ), 
+          
+          shiny::span(
+            paste(
+              "The data displayed in this application uses data made publicly available by the Office of the Comptroller of the Currency. ", 
+              "You can find the public filings "
+            ), 
+            shiny::a(
+              href = "https://apps.occ.gov/CAAS_CATS/CAAS_List.aspx", 
+              target = "_blank", 
+              "here."
+            )
+          )
+        )
         
       )
       
@@ -175,6 +245,21 @@ server <- function(input, output, session) {
   })
   
   output$bubble_leaflet <- leaflet::renderLeaflet({
+    
+    shiny::validate(
+      
+      shiny::need(
+        input$action_filter, 
+        message = "No data to display"
+      ), 
+      
+      shiny::need(
+        input$type_filter, 
+        message = "No data to display"
+      )
+      
+    )
+    
     leaflet::leaflet() %>% 
       leaflet::addProviderTiles(provider = providers$Esri) %>% 
       leaflet::addCircleMarkers(
@@ -185,6 +270,34 @@ server <- function(input, output, session) {
         radius = 5,
         label = bubble_labels()
       )
+  })
+  
+  trend_data <- shiny::reactive({
+    generate_trend_data(
+      data = master_tbl, 
+      action_filter = input$action_filter, 
+      type_filter = input$type_filter, 
+      date_1 = input$date_filter[1], 
+      date_2 = input$date_filter[2]
+    )
+  })
+  
+  output$trend_chart <- plotly::renderPlotly({
+    generate_trend_chart(data = trend_data())
+  })
+  
+  bar_data <- shiny::reactive({
+    generate_bar_data(
+      data = master_tbl, 
+      action_filter = input$action_filter, 
+      type_filter = input$type_filter, 
+      date_1 = input$date_filter[1], 
+      date_2 = input$date_filter[2]
+    )
+  })
+  
+  output$bar_chart <- plotly::renderPlotly({
+    generate_bar_chart(data = bar_data())
   })
   
 }

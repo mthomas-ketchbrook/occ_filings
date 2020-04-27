@@ -140,3 +140,73 @@ generate_bubble_labels <- function(data) {
   
 }
   
+
+generate_trend_data <- function(data, action_filter, date_1, date_2, type_filter) {
+  
+  data %>% 
+    dplyr::filter(Action %in% action_filter) %>%
+    dplyr::filter(Date >= date_1 & Date <= date_2) %>%
+    dplyr::filter(Type %in% type_filter) %>% 
+    dplyr::count(Date, Type, name = "Number of Filings")
+  
+}
+
+
+generate_trend_chart <- function(data) {
+  
+  p <- data %>% 
+    dplyr::rename(`Filing Type` = Type) %>% 
+    ggplot2::ggplot(
+      ggplot2::aes(
+        x = Date, 
+        y = `Number of Filings`, 
+        fill = `Filing Type`
+      )
+    ) + 
+    ggplot2::geom_col(
+      alpha = 0.7
+    ) + 
+    ggplot2::scale_fill_brewer(palette = "Set3") + 
+    ggplot2::xlab("") + 
+    ggplot2::ggtitle("Number of Filings by Date") +
+    ggthemes::theme_economist()
+
+  plotly::ggplotly(p)
+  
+}
+
+
+generate_bar_data <- function(data, action_filter, date_1, date_2, type_filter) {
+  
+  data %>% 
+    dplyr::filter(Action %in% action_filter) %>%
+    dplyr::filter(Date >= date_1 & Date <= date_2) %>%
+    dplyr::filter(Type %in% type_filter) %>% 
+    dplyr::count(Action, Type, name = "Number of Filings")
+  
+}
+
+
+generate_bar_chart <- function(data) {
+  
+  p <- data %>% 
+    dplyr::rename(`Filing Type` = Type) %>% 
+    ggplot2::ggplot(
+      ggplot2::aes(
+        x = `Filing Type`, 
+        y = `Number of Filings`, 
+        fill = Action
+      )
+    ) + 
+    ggplot2::geom_col(
+      alpha = 0.7
+    ) + 
+    ggplot2::scale_fill_brewer(palette = "Set3") + 
+    ggplot2::xlab("") + 
+    ggplot2::ggtitle("Number of Filings by Action & Filing Type") + 
+    ggplot2::coord_flip() + 
+    ggthemes::theme_economist()
+  
+  plotly::ggplotly(p)
+  
+}
