@@ -129,6 +129,8 @@ df1['Coordinates'] = coords2
 
 df1['Coordinates'] = df1.Coordinates.astype(str)
 
+df1 = df1.replace({'Coordinates': {"None": None}})
+
 # Drop the 'FullAddress' temporary column
 df1 = df1.drop(df1.columns[[10]], axis = 1)
 
