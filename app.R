@@ -2,16 +2,21 @@ library(tidyverse)
 library(shiny)
 library(shinyWidgets)
 library(shinythemes)
-library(RSQLite)
+# library(RSQLite)
 library(DT)
 library(plotly)
 library(leaflet)
 library(ggthemes)
 library(glue)
+library(maps)
 
 source("funs.R")
 
-master_tbl <- get_occ_data()
+# master_tbl <- get_occ_data()
+
+master_tbl <- readr::read_csv(
+  file = "https://raw.githubusercontent.com/mthomas-ketchbrook/occ_filings/master/current_data.csv"
+)
 
 gg_data <- ggplot2::map_data("state")
 
