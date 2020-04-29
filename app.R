@@ -290,6 +290,11 @@ server <- function(input, output, session) {
       shiny::need(
         input$type_filter, 
         message = "No data to display"
+      ), 
+      
+      shiny::need(
+        nrow(bubble_data()) > 0, 
+        message = "No data to display"
       )
       
     )
