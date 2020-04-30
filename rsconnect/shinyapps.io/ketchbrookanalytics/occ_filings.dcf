@@ -5,9 +5,9 @@ account: ketchbrookanalytics
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2197621
-bundleId: 3074588
+bundleId: 3081782
 url: https://ketchbrookanalytics.shinyapps.io/occ_filings/
-when: 1588033290.58346
+when: 1588172704.59089
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: 00_analysis.R|adhoc_geocoding.py|adhoc_geocoding_update_tables.R|check_sqlite_conn.py|current_data.csv|debug.log|get_current_data.R|get_farm_data.R|historical_branch_data_20200423.csv|historical_branch_data_geo_20200423.csv|historical_hq_data_20200423.csv|historical_hq_data_geo_20200423.csv|navbar.R|occ-warehouse.sqlite|README.md|selenium_scraper_branch.py|selenium_scraper_branch_historic.py|selenium_scraper_hq.py|selenium_scraper_hq_historic.py|sqlite_setup.R
