@@ -28,7 +28,7 @@ state_lookup_tbl <- tibble::tibble(
 # UI ----
 ui <- shiny::fluidPage(
   
-  theme = shinythemes::shinytheme(theme = "spacelab"), 
+  theme = shinythemes::shinytheme(theme = "spacelab"),
   
   title = "OCC Filings Dashboard", 
   
