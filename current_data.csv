@@ -1,60 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Receipt,2020-04-06,5.53 Substantial Change in Assets,2020-WE-5.53-314163,NA,NA,NA,NA,NA,NA,NA,"Transact Bank, NA"
-Receipt,2020-04-06,Business Combinations,2020-LB-Combination-314186,NA,NA,NA,NA,NA,2020-05-08,NA,U.S. Bank NA
-Receipt,2020-04-06,Business Combinations,2020-CE-Combination-314287,NA,NA,NA,NA,NA,2020-05-08,NA,Merchants Bank NA
-Approved,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314124,NA,NA,NA,NA,NA,NA,NA,Sterling FSB
-Consummated/Effective,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314124,NA,NA,NA,NA,NA,NA,NA,Sterling FSB
-Approved,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314125,NA,NA,NA,NA,NA,NA,NA,Sterling FSB
-Consummated/Effective,2020-04-06,Subsidiaries & Equities,2020-CE-Subs&Equities-314125,NA,NA,NA,NA,NA,NA,NA,Sterling FSB
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314171,Chadwick Square Branch,9 West Boylston Street,Worcester,MA,Worcester,NA,"(42.3622013, -71.78163380891333, 0.0)","People's United Bank, NA"
-Receipt,2020-04-06,Branch Establishment,2020-LB-BranchNew-314159,Farrs Bridge Road,SWC Farrs Bridge Road aka Rte 18 and West Parker Rd,Greenville,SC,Greenville,2020-05-03,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314169,Main Street Glastonbury Branch,2670 Main Street,Glastonbury,CT,Hartford,NA,"(41.717231348852174, -72.61242507767584, 0.0)","People's United Bank, NA"
-Approved,2020-04-06,Branch Establishment,2020-WE-BranchNew-313332,Norfolk - Admin,2601 West Cooper Drive,Norfolk,NE,Madison,2020-03-25,NA,Midwest Bank NA
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314168,South Windsor Branch,1645 Ellington Road,South Windsor,CT,Hartford,NA,"(41.82686928457184, -72.55846318024018, 0.0)","People's United Bank, NA"
-Approved,2020-04-06,Relocation,2020-WE-Relocation-313607,Tabor,100 LIDICE,TABOR,SD,Bon Homme,2020-03-26,"(42.950123, -97.659047, 0.0)",Cortrust Bank NA
-Consummated/Effective,2020-04-06,Relocation,2020-WE-Relocation-313607,Tabor,100 LIDICE,TABOR,SD,Bon Homme,2020-03-26,"(42.950123, -97.659047, 0.0)",Cortrust Bank NA
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314170,United Bank,151 Asylum Street,Hartford,CT,Hartford,NA,"(41.76716507291397, -72.67638832048954, 0.0)","People's United Bank, NA"
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314172,Vernon Circle Branch,"35 Talcottville Road, Tri City Plaza",Vernon,CT,Tolland,NA,NA,"People's United Bank, NA"
-Receipt,2020-04-06,Branch Closings,2020-NE-BranchClosing-314173,West Springfield Branch,85 Elm Street,West Springfield,MA,Hampden,NA,"(42.106035, -72.622278, 0.0)","People's United Bank, NA"
-Approved,2020-04-07,215a-3: Mergers with Non-Bank Affiliates,2020-HQ-215a3-313606,NA,NA,NA,NA,NA,NA,NA,"First Citizens Bk of Polson, NA"
-Approved,2020-04-07,5.53 Substantial Change in Assets,2020-HQ-5.53-313605,NA,NA,NA,NA,NA,NA,NA,"First Citizens Bk of Polson, NA"
-Receipt,2020-04-07,Business Combinations,2020-CE-Combination-314183,NA,NA,NA,NA,NA,2020-05-09,NA,Hiawatha NB
-Approved,2020-04-07,Branch Establishment,2020-LB-BranchNew-313610,Linwood Square,4355 East 10th Street,Indianapolis,IN,Marion,2020-04-02,"(39.781364655737704, -86.09522308196722, 0.0)","Bank of America, NA"
-Approved,2020-04-07,Branch Establishment,2020-LB-BranchNew-313616,Marketplace at 18th,"1868 S. 300 West, Suite C",Salt Lake City,UT,Salt Lake,2020-04-03,NA,"Bank of America, NA"
-Consummated/Effective,2020-04-07,Branch Closings,2019-LB-BranchClosing-312097,Not Given,8100 FORSYTH,CLAYTON,MO,St Louis City,NA,"(38.650667350000006, -90.34323697002014, 0.0)","Bank of America, NA"
-Consummated/Effective,2020-04-07,Branch Closings,2020-LB-BranchClosing-312512,Totem Hill Fred Meyer,12221 120TH AVE NE,KIRKLAND,WA,King,NA,"(47.7083941, -122.1840301, 0.0)","JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-04-07,Terminations,2019-CE-Termination-312612,Victory Cmnty Bk - Florence Branch,8735 US Hwy 42,Florence,KY,Boone,NA,NA,Victory Cmnty Bk
-Consummated/Effective,2020-04-07,Terminations,2019-CE-Termination-312612,Victory Cmnty Bk - Fort Thomas Branch,602 S Ft Thomas Ave,Fort Thomas,KY,Campbell,NA,"(39.0710855, -84.44583349999999, 0.0)",Victory Cmnty Bk
-Approved,2020-04-08,Business Combinations,2020-NE-Combination-313418,NA,NA,NA,NA,NA,2020-03-25,NA,Northfield Bank
-Approved,2020-04-08,Business Combinations,2020-CE-Combination-313492,NA,NA,NA,NA,NA,2020-04-03,NA,Nicolet NB
-Receipt,2020-04-08,Business Combinations,2020-CE-Combination-314178,NA,NA,NA,NA,NA,2020-05-08,NA,Nicolet NB
-Intent Not to Disapprove (CBCA),2020-04-08,Change in Bank Control,2020-HQ-CBCA-312538,NA,NA,NA,NA,NA,2020-01-27,NA,EH NB
-Approved,2020-04-08,Relocation,2020-CE-Relocation-313548,Bank Mut - Mequon Branch,11249 North Port Washington Road,Mequon,WI,Ozaukee,2020-03-31,"(43.1983037, -87.9243083, 0.0)","Associated Bank, NA"
-Withdrawn,2020-04-08,Branch Establishment,2019-LB-BranchNew-308174,Main and Monarch,NWC East Main Street and North Monarch Street,Aspen,CO,Pitkin,2019-04-19,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-08,Branch Establishment,2020-LB-BranchNew-314199,Pacific Highway and SW Dartmouth Street,SEC Pacific Hwy aka Hwy 99 W and SW Dartmouth St,Tigard,OR,Washington,2020-05-08,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-04-08,Branch Establishment,2019-LB-BranchNew-308407,Parker Road and East Mainstreet,SWC South Parker Road and East Mainstreet,Parker,CO,Douglas,2019-05-09,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-08,Branch Establishment,2020-LB-BranchNew-314198,Rose Crossing,SWC North Rose Avenue and Lockwood Street,Oxnard,CA,Ventura,2020-05-08,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-08,Branch Establishment,2020-CE-BranchNew-313685,Warsaw Branch,300 West Main Street,Warsaw,KY,Gallatin,2020-05-15,"(38.781694, -84.905847, 0.0)",First NB of Kentucky
-Receipt,2020-04-09,Branch Closings,2020-LB-BranchClosing-314234,Cache Valley Mall Branch,1320 NORTH MAIN STREET,LOGAN,UT,Cache,NA,"(41.75610283939915, -111.83430453278572, 0.0)","Wells Fargo Bank, N.A."
-Receipt,2020-04-09,Relocation,2020-LB-Relocation-314205,Cache Valley Mall Branch,1320 NORTH MAIN STREET,LOGAN,UT,Cache,2020-05-11,"(41.75610283939915, -111.83430453278572, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-04-09,Branch Establishment,2020-SO-BranchNew-312556,Copperas Cove branch inside Walmart,2720 E. Highway 190,Copperas Cove,TX,Coryell,2020-02-05,"(31.11814635, -97.87076209949646, 0.0)",First NB Texas
-Receipt,2020-04-09,Relocation,2020-LB-Relocation-314207,Hyde Park Shaw's,1377 HYDE PARK AVE,HYDE PARK,MA,Suffolk,2020-04-23,"(42.25155, -71.125639, 0.0)","Citizens Bank, NA"
-Consummated/Effective,2020-04-09,Branch Closings,2019-LB-BranchClosing-312418,Okeechobee,6835 OKEECHOBEE BLVD,WEST PALM BEACH,FL,Palm Beach,NA,"(26.70807492546026, -80.15083442264516, 0.0)","JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-04-09,Branch Closings,2020-LB-BranchClosing-314251,Renton Center Fred Meyer,"365 RENTON CENTER WAY SW, STE E",RENTON,WA,King,NA,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-04-10,Business Combinations,2020-SO-Combination-313112,NA,NA,NA,NA,NA,2020-03-06,NA,First NB
-Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314238,NA,NA,NA,NA,NA,NA,NA,"Capital One, NA"
-Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314239,NA,NA,NA,NA,NA,NA,NA,"Capital One, NA"
-Receipt,2020-04-10,Subsidiaries & Equities,2020-LB-Subs&Equities-314240,NA,NA,NA,NA,NA,NA,NA,"Capital One, NA"
-Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313748,Durham 9th Street,NEC West Main Street and 9th Street,Durham,NC,Durham,2020-04-09,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313749,East Lake Sammamish Pkwy SE and 62nd Street,NWC East Lake Sammamish Pkwy SE and SE 62nd Street,Issaquah,WA,King,2020-04-08,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313679,Germantown,7665 Poplar Avenue,Germantown,TN,Shelby,2020-04-08,"(35.09208928419564, -89.80767617221834, 0.0)","Bank of America, NA"
-Consummated/Effective,2020-04-10,Branch Closings,2019-WE-BranchClosing-312167,North Scottsdale Branch,21070 NORTH PIMA RD,SCOTTSDALE,AZ,Maricopa,NA,"(33.631814, -111.8897881, 0.0)","Zions Bancorporation, NA"
-Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314222,Pentagon City,SEC South Hayes Street and 12th Street South,Arlington,VA,Arlington,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-10,Relocation,2020-CE-Relocation-314228,Waukegan Community Bank,2706 Grand Avenue,Waukegan,IL,Lake,2020-04-26,"(42.3704112631579, -87.86764557894736, 0.0)","Lake Forest Bank & TR Company, NA"
-Approved,2020-04-10,Branch Establishment,2020-LB-BranchNew-313680,Westlake Hills,Bee Caves Road and Knollwood Drive,Austin,TX,Travis,2020-04-08,NA,"Bank of America, NA"
-Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314221,White Oak Shopping Center,NEC New Hampshire Avenue aka Rte 650 and Lockwood Drive,Silver Spring,MD,Montgomery,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-10,Branch Establishment,2020-LB-BranchNew-314215,Willlingboro Route 130,SWC Burlington Pike aka Route 130 and Edgewater Blvd,Willingboro,NJ,Burlington,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Receipt,2020-04-10,Branch Establishment,2020-CE-BranchNew-314230,Wintrust Bank - Ogden Commons,2642 W. Ogden Ave.,Chicago,IL,Cook,2020-05-11,"(41.8634206, -87.6896779, 0.0)","Wintrust Bank, NA"
 Receipt,2020-04-13,Subsidiaries & Equities,2020-WE-Subs&Equities-314247,NA,NA,NA,NA,NA,NA,NA,"MetaBank, NA"
 Approved,2020-04-13,Branch Establishment,2020-LB-BranchNew-314092,Broomfield CO,4660 W. 121st Ave.,Broomfield,CO,Broomfield,2020-04-11,"(39.9145991, -105.0480716, 0.0)",U.S. Bank NA
 Receipt,2020-04-13,Branch Establishment,2020-LB-BranchNew-314244,Foothill Village,1414 Foothill Drive #5,Salt Lake City,UT,Salt Lake,2020-05-13,"(40.73920465, -111.82529725, 0.0)","Bank of America, NA"
@@ -161,3 +105,5 @@ Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314146,South Robert S
 Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313342,Tribeca,90 WEST BROADWAY,NEW YORK,NY,New York, ,"(40.7154435, -74.0094889, 0.0)","Capital One, NA"
 Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313355,West 34th,11097A NORTHWEST FREEWAY,HOUSTON,TX,Harris, ,"(29.8185994, -95.4699804, 0.0)","Capital One, NA"
 Approved,2020-05-06,Branch Establishment,2020-WE-BranchNew-313955,The Compass at Centennial Hills,4140 Centennial Hills Blvd,Casper,WY,Natrona,2020-04-26,"(42.834796593790806, -106.27061417246993, 0.0)",Hilltop NB
+Approved,2020-05-11,Business Combinations,2020-CE-Combination-314287, , , , , ,2020-05-08,NA,Merchants Bank NA
+Approved,2020-05-11,Branch Establishment,2020-SO-BranchNew-312831,First Liberty National Bank Dayton Mortgage Center,900 Highway 146,Dayton,TX,Liberty,2020-05-07,NA,First Liberty NB
