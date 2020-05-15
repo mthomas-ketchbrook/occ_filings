@@ -1,10 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Receipt,2020-04-13,Subsidiaries & Equities,2020-WE-Subs&Equities-314247,NA,NA,NA,NA,NA,NA,NA,"MetaBank, NA"
-Approved,2020-04-13,Branch Establishment,2020-LB-BranchNew-314092,Broomfield CO,4660 W. 121st Ave.,Broomfield,CO,Broomfield,2020-04-11,"(39.9145991, -105.0480716, 0.0)",U.S. Bank NA
-Receipt,2020-04-13,Branch Establishment,2020-LB-BranchNew-314244,Foothill Village,1414 Foothill Drive #5,Salt Lake City,UT,Salt Lake,2020-05-13,"(40.73920465, -111.82529725, 0.0)","Bank of America, NA"
-Approved,2020-04-13,Branch Establishment,2020-NE-BranchNew-313722,Greenbrier Square,"1720 Sentinel Drive, Suite 100",Chesapeake,VA,Chesapeake City,2020-03-28,NA,"Dollar Bank, FSB"
-Withdrawn,2020-04-13,Relocation,2020-LB-Relocation-314207,Hyde Park Shaw's,1377 HYDE PARK AVE,HYDE PARK,MA,Suffolk,2020-04-23,"(42.25155, -71.125639, 0.0)","Citizens Bank, NA"
-Consummated/Effective,2020-04-13,Branch Establishment,2020-SO-BranchNew-312808,Tallahassee National Bank,1637 Metropolitan Blvd.,Tallahassee,FL,Leon,2020-02-13,"(30.4986735, -84.2539003, 0.0)",Thomasville NB
 Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313415,1521 N Cockrell Hill,1521 N Cockrell Hill Road,Dallas,TX,Dallas,2020-04-12,"(32.76263815, -96.89736805708586, 0.0)",PNC Bank NA
 Approved,2020-04-14,Relocation,2020-LB-Relocation-314070,Broadway and Grand,463 BROADWAY,NEW YORK,NY,New York,2020-04-10,"(41.92703502716705, -73.99783960462238, 0.0)","Wells Fargo Bank, N.A."
 Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313750,Herlong Avenue and Ebenezer Road,NWC Herlong Ave (aka Hwy 86) and Ebenezer Rd (aka Hwy 274),Rock Hill,SC,York,2020-04-10,NA,"JPMorgan Chase Bank, NA"
@@ -126,3 +120,6 @@ Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313190,Te
 Approved,2020-05-13,Relocation,2020-LB-Relocation-314152,University,1300 NE 45TH STREET,SEATTLE,WA,King,2020-05-05,"(47.661437, -122.3140225, 0.0)",KeyBank NA
 Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313189,Wheatland Branch,874 GILCHRIST STREET,WHEATLAND,WY,Platte, ,"(42.054632049999995, -104.9530635294573, 0.0)","Wells Fargo Bank, N.A."
 Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313191,Wilshire and Western,3800 WILSHIRE BOULEVARD,LOS ANGELES,CA,Los Angeles, ,"(34.0423181, -118.4696749, 0.0)","Wells Fargo Bank, N.A."
+Approved,2020-05-14,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
+Approved,2020-05-14,Business Combinations,2020-CE-Combination-314183, , , , , ,2020-05-09,NA,Hiawatha NB
+Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313221,Westinghouse,"1000 WESTINGHOUSE DRIVE, SUITE 106A",CRANBERRY TOWNSHIP,PA,Butler, ,NA,PNC Bank NA
