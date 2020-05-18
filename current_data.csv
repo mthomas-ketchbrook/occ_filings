@@ -1,8 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313415,1521 N Cockrell Hill,1521 N Cockrell Hill Road,Dallas,TX,Dallas,2020-04-12,"(32.76263815, -96.89736805708586, 0.0)",PNC Bank NA
-Approved,2020-04-14,Relocation,2020-LB-Relocation-314070,Broadway and Grand,463 BROADWAY,NEW YORK,NY,New York,2020-04-10,"(41.92703502716705, -73.99783960462238, 0.0)","Wells Fargo Bank, N.A."
-Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313750,Herlong Avenue and Ebenezer Road,NWC Herlong Ave (aka Hwy 86) and Ebenezer Rd (aka Hwy 274),Rock Hill,SC,York,2020-04-10,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-14,Branch Establishment,2020-LB-BranchNew-313751,Nashua North,NEC Amherst Street (aka Hwy 101A) and Profile Circle,Nashua,NH,Hillsborough,2020-04-10,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-04-15,Branch Establishment,2020-LB-BranchNew-313747,Aksarben Village,NWC Mercy Road and South 67th Street,Omaha,NE,Douglas,2020-04-08,NA,"JPMorgan Chase Bank, NA"
 Consummated/Effective,2020-04-15,Branch Closings,2020-LB-BranchClosing-312669,Albertson's Washington Office,915 WEST RED CLIFF BOULEVARD,WASHINGTON,UT,Washington,NA,NA,"Wells Fargo Bank, N.A."
 Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312729,First Bank Valley City,220 FOURTH STREET,VALLEY CITY,ND,Barnes,NA,NA,U.S. Bank NA
@@ -123,3 +119,21 @@ Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313191,Wi
 Approved,2020-05-14,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
 Approved,2020-05-14,Business Combinations,2020-CE-Combination-314183, , , , , ,2020-05-09,NA,Hiawatha NB
 Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313221,Westinghouse,"1000 WESTINGHOUSE DRIVE, SUITE 106A",CRANBERRY TOWNSHIP,PA,Butler, ,NA,PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313147,Broad & Loudon,4753 NORTH BROAD STREET,PHILADELPHIA,PA,Philadelphia, ,"(40.0162096, -75.1496842, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313155,Carroll Valley,815 WAYNESBORO PIKE,FAIRFIELD,PA,Adams, ,NA,PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313156,Churubusco,101 NORTH LINE STREET,CHURUBUSCO,IN,Whitley, ,"(41.230721, -85.319381, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313157,Colonial,1715 W. MT. HOPE,LANSING,MI,Ingham, ,NA,PNC Bank NA
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314259,Fairway,NWC Shawnee Mission Pkwy aka US Hwy 169 and Norwood St,Fairway,KS,Johnson,2020-05-14,NA,"JPMorgan Chase Bank, NA"
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313158,Finksburg,2926 Baltimore Blvd,FINKSBURG,MD,Carroll, ,"(39.49667, -76.892402, 0.0)",PNC Bank NA
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314244,Foothill Village,1414 Foothill Drive #5,Salt Lake City,UT,Salt Lake,2020-05-13,"(40.73920465, -111.82529725, 0.0)","Bank of America, NA"
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313159,Fort Pierce Indian River,603 NORTH INDIAN RIVER DRIVE,FORT PIERCE,FL,St. Lucie, ,"(27.45432097909158, -80.32486659744553, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313161,Laurel Lake Office,200 LAUREL LAKE DRIVE,HUDSON,OH,Summit, ,"(41.24551, -81.471282, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313167,Media Branch,1114 W State St,Media,PA,Delaware, ,"(39.9183022, -75.392008, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313166,Pocono Pines Office,1950 ROUTE 940,POCONO PINES,PA,Monroe, ,NA,PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313168,Prospect,401 SOUTH JEFFERSON STREET-PROSPECT PLAZA SHOPPING CENTER,FREDERICK,MD,Frederick, ,NA,PNC Bank NA
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314260,Skyland Town Center,NEC Alabama Avenue SE and Good Hope Road SE,Washington,DC,District of Columbia,2020-05-14,NA,"JPMorgan Chase Bank, NA"
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313169,Sunbury Plaza,5939 SUNBURY,WESTERVILLE,OH,Franklin, ,"(40.08330667676768, -82.89575209090908, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313170,Twin Rivers,620 Route 33 E,EAST WINDSOR,NJ,Middlesex, ,NA,PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313171,Tyler Center,12609 TAYLORSVILLE ROAD,LOUISVILLE,KY,Jefferson, ,"(38.188092499999996, -85.51803128830554, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313218,Vicksburg,119 NORTH MAIN STREET,VICKSBURG,MI,Kalamazoo, ,"(42.120495450315744, -85.53229809517408, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313220,Wadesboro,1109 E Caswell Street,Wadesboro,NC,Anson, ,"(34.96494711902938, -80.05946728239594, 0.0)",PNC Bank NA
