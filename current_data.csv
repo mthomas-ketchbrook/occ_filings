@@ -1,46 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-04-15,Branch Establishment,2020-LB-BranchNew-313747,Aksarben Village,NWC Mercy Road and South 67th Street,Omaha,NE,Douglas,2020-04-08,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-04-15,Branch Closings,2020-LB-BranchClosing-312669,Albertson's Washington Office,915 WEST RED CLIFF BOULEVARD,WASHINGTON,UT,Washington,NA,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312729,First Bank Valley City,220 FOURTH STREET,VALLEY CITY,ND,Barnes,NA,NA,U.S. Bank NA
-Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312730,Fremont Downtown Office,400 WEST STATE STREET,FREMONT,OH,Sandusky,NA,"(41.347728, -83.114415, 0.0)",U.S. Bank NA
-Approved,2020-04-16,Branch Establishment,2020-LB-BranchNew-313799,Latham,NEC New Loudon Rd & Erin St (aka Shopping Ctr Access Rd),Latham,NY,Albany,2020-04-15,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-16,Branch Establishment,2020-LB-BranchNew-311258,Miami - Brickell Ave,"1401 Brickell Avenue, Suite #100",Miami,FL,Miami-Dade,2020-04-02,NA,"Santander Bank, NA"
-Consummated/Effective,2020-04-16,Branch Closings,2020-LB-BranchClosing-312728,Richmond-Lancaster Office,1100 LANCASTER ROAD,RICHMOND,KY,Madison,NA,"(37.72721492929293, -84.31009242424243, 0.0)",U.S. Bank NA
-Consummated/Effective,2020-04-17,Business Combinations,2020-WE-Combination-312651,NA,NA,NA,NA,NA,2020-03-06,NA,First NB in Creston
-Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313263,NA,NA,NA,NA,NA,2020-03-14,NA,First NB Minnesota
-Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313281,NA,NA,NA,NA,NA,2020-03-15,NA,"Wintrust Bank, NA"
-Consummated/Effective,2020-04-17,Business Combinations,2020-CE-Combination-313283,NA,NA,NA,NA,NA,2020-03-15,NA,Old Plank Trail Community Bank NA
-Intent Not to Disapprove (CBCA),2020-04-17,Change in Bank Control,2020-CE-CBCA-312911,NA,NA,NA,NA,NA,2020-03-03,NA,First NB of Germantown
-Receipt,2020-04-17,Subsidiaries & Equities,2020-LB-Subs&Equities-314241,NA,NA,NA,NA,NA,NA,NA,"Fifth Third Bank, NA"
-Approved,2020-04-17,Relocation,2020-LB-Relocation-314077,47333 Port Village BC,498 River Highway,Mooresville,NC,Iredell,2020-04-13,"(35.59500865, -80.86533148632513, 0.0)","Fifth Third Bank, NA"
-Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314220,5th Avenue Naples,"405 FIFTH AVENUE SOUTH, SUITE 405A",NAPLES,FL,Collier,NA,NA,PNC Bank NA
-Receipt,2020-04-17,Relocation,2020-LB-Relocation-314223,5th Avenue Naples,"405 FIFTH AVENUE SOUTH, SUITE 405A",NAPLES,FL,Collier,2020-05-17,NA,PNC Bank NA
-Withdrawn,2020-04-17,New Bank Charter,2020-NE-Charter-313854,"Altis TR Bank, NA",450 West 33rd Street,New York,NY,NA,2020-04-17,"(40.75352114285714, -73.99891471428572, 0.0)","Altis TR Bank, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312785,Aurora,215 West Garfield Road,Aurora,OH,Portage,NA,NA,First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312794,Blacksburg,207 W Cherokee St,Blacksburg,SC,Cherokee,NA,"(35.11993670106155, -81.51833267136058, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312793,Centerville,580 CENTERVILLE ROAD,LANCASTER,PA,Lancaster,NA,"(40.055702961110576, -76.39846166840657, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-CE-BranchClosing-312943,Chicago,3323 N. Clark St.,Chicago,IL,Cook,NA,"(41.9424126, -87.6524676, 0.0)","Hinsdale Bank & TR Company, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312653,Dayton Mall Branch,8220 SPRINGBORO PIKE,MIAMISBURG,OH,Montgomery,NA,"(39.6370295, -84.225265, 0.0)",PNC Bank NA
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312792,Downtown Elkin,110 W Market St,Elkin,NC,Surry,NA,"(36.244716999999994, -80.85197936734694, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312791,Duncansville,520 THIRD AVENUE,DUNCANSVILLE,PA,Blair,NA,NA,First NB of Pennsylvania
-Approved,2020-04-17,Branch Establishment,2020-LB-BranchNew-313931,Eagle Island Marketplace,NEC North Linder Road and West Chinden Blvd,Eagle,ID,Ada,2020-04-16,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312795,Engelhard,35050 US Highway 264,Engelhard,NC,Hyde,NA,NA,First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312796,Essex,515 Eastern Blvd.,Baltimore,MD,Baltimore,NA,"(39.3083864, -76.475139, 0.0)",First NB of Pennsylvania
-Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314291,K Street Office,"1801 K STREET, N. W.",WASHINGTON,DC,District of Columbia,NA,NA,"Bank of America, NA"
-Receipt,2020-04-17,Relocation,2020-LB-Relocation-314293,K Street Office,"1801 K STREET, N. W.",WASHINGTON,DC,District of Columbia,2020-05-17,NA,"Bank of America, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312797,Marshville,7003 E Marshville Blvd,Marshville,NC,Union,NA,NA,First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312798,Midway,11492 Old US Hwy 52,Winston-Salem,NC,Davidson,NA,"(36.258918, -80.3135172, 0.0)",First NB of Pennsylvania
-Receipt,2020-04-17,Branch Closings,2020-LB-BranchClosing-314289,Montgomery Village,19226 Montgomery Village Ave,Gaithersburg,MD,Montgomery,NA,"(39.1536547, -77.2107261, 0.0)","Bank of America, NA"
-Receipt,2020-04-17,Relocation,2020-LB-Relocation-314290,Montgomery Village,19226 Montgomery Village Ave,Gaithersburg,MD,Montgomery,2020-05-17,"(39.1536547, -77.2107261, 0.0)","Bank of America, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312645,Morris Avenue,540 MORRIS AVENUE,ELIZABETH,NJ,Union,NA,"(40.67357060869565, -74.22404517391304, 0.0)","Santander Bank, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312799,Mount Union,16-20 E. SHIRLEY STREET,MOUNT UNION,PA,Huntingdon,NA,"(40.383755666666666, -77.88173333333334, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312803,Mt. Washington,55 Wyoming Street,Pittsburgh,PA,Allegheny,NA,"(40.429596, -80.0063, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312654,Murray Avenue,4301 MURRAY AVE,PITTSBURGH PA,PA,Westmoreland,NA,"(40.42182, -79.928731, 0.0)",PNC Bank NA
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312802,Roaring Spring,98 NASON DRIVE,ROARING SPRING,PA,Blair,NA,"(40.338182292649655, -78.38971481692346, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312801,Shillington Road,2701 Shillington Road,Sinking Spring,PA,Berks,NA,"(40.317261703750944, -76.00345996998014, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-LB-BranchClosing-312638,Southbridge,249 MAIN STREET,SOUTHBRIDGE,MA,Worcester,NA,"(42.07438465, -72.03302161094548, 0.0)","Santander Bank, NA"
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312806,Stoystown Branch,100 EAST MAIN ST,STOYSTOWN,PA,Somerset,NA,"(40.102642, -78.953419, 0.0)",First NB of Pennsylvania
-Consummated/Effective,2020-04-17,Branch Closings,2020-NE-BranchClosing-312805,Windber Branch,415 PARK PLACE,WINDBER,PA,Somerset,NA,"(40.23649503240045, -78.83372009772795, 0.0)",First NB of Pennsylvania
 Approved,2020-04-20,Branch Establishment,2020-CE-BranchNew-313954,Cornerstone National Bank & Trust Company - Schaumburg IL Branch,"650 East Algonquin Road, Suite 100",Schaumburg,IL,Cook,2020-04-15,NA,Cornerstone NB & Tr Co
 Consummated/Effective,2020-04-20,Branch Establishment,2019-WE-BranchNew-309220,Jordan Creek,200 S Jordan Creek Parkway,West Des Moines,IA,Dallas,2019-07-02,"(41.568633, -93.809405, 0.0)",Security NB of Omaha
 Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-314066,Cherrydale Point,SEC Poinsett Hwy aka Hwy 276 & N Pleasantburg Dr aka Hwy 29,Greenville,SC,Greenville,2020-04-19,NA,"JPMorgan Chase Bank, NA"
@@ -137,3 +95,6 @@ Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313170,Tw
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313171,Tyler Center,12609 TAYLORSVILLE ROAD,LOUISVILLE,KY,Jefferson, ,"(38.188092499999996, -85.51803128830554, 0.0)",PNC Bank NA
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313218,Vicksburg,119 NORTH MAIN STREET,VICKSBURG,MI,Kalamazoo, ,"(42.120495450315744, -85.53229809517408, 0.0)",PNC Bank NA
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313220,Wadesboro,1109 E Caswell Street,Wadesboro,NC,Anson, ,"(34.96494711902938, -80.05946728239594, 0.0)",PNC Bank NA
+Consummated/Effective,2020-05-18,Business Combinations,2019-CE-Combination-311833, , , , , ,2019-12-13,NA,FCN Bank NA
+Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-313685,Warsaw Branch,300 West Main Street,Warsaw,KY,Gallatin,2020-05-15,"(38.781694, -84.905847, 0.0)",First NB of Kentucky
+Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-314230,Wintrust Bank - Ogden Commons,2642 W. Ogden Ave.,Chicago,IL,Cook,2020-05-11,"(41.862489454545454, -87.69175790909091, 0.0)","Wintrust Bank, NA"
