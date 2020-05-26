@@ -1,14 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-04-20,Branch Establishment,2020-CE-BranchNew-313954,Cornerstone National Bank & Trust Company - Schaumburg IL Branch,"650 East Algonquin Road, Suite 100",Schaumburg,IL,Cook,2020-04-15,NA,Cornerstone NB & Tr Co
-Consummated/Effective,2020-04-20,Branch Establishment,2019-WE-BranchNew-309220,Jordan Creek,200 S Jordan Creek Parkway,West Des Moines,IA,Dallas,2019-07-02,"(41.568633, -93.809405, 0.0)",Security NB of Omaha
-Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-314066,Cherrydale Point,SEC Poinsett Hwy aka Hwy 276 & N Pleasantburg Dr aka Hwy 29,Greenville,SC,Greenville,2020-04-19,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313934,Fifth and Atwood,SWC 5th Avenue and Atwood Street,Pittsburgh,PA,Allegheny,2020-04-18,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-21,Branch Establishment,2020-SO-BranchNew-313673,First Convenience Bank - Austin -Congress Avenue,8801 South Congress Ave.,Austin,TX,Travis,2020-04-11,"(30.169631, -97.787114, 0.0)",First NB Texas
-Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-314061,Market Station,SEC 17th Street and Blake Street,Denver,CO,Denver,2020-04-19,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-21,Branch Establishment,2020-SO-BranchNew-313407,Mortgage Center,4500 N. 10th St.,McAllen,TX,Hidalgo,2020-04-14,"(26.2877506, -98.215735, 0.0)",Lone Star NB
-Approved,2020-04-21,Relocation,2020-LB-Relocation-313840,Northern Boulevard Branch,220-40 Northern Boulevard,Flushing,NY,Queens,2020-04-18,"(40.7650902, -73.819836, 0.0)",HSBC Bank USA NA
-Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313933,The Shoppes at University Place,SWC North Tryon Street and J W Clay Blvd,Charlotte,NC,Mecklenburg,2020-04-18,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-21,Branch Establishment,2020-LB-BranchNew-313935,Wilkinsburg,NEC Penn Avenue and Pitt Street,Pittsburgh,PA,Allegheny,2020-04-18,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-04-22,Branch Establishment,2020-LB-BranchNew-313898,One Flatbush,1 Flatbush Avenue,Brooklyn,NY,Kings,2020-04-19,"(40.6882763, -73.98016939053673, 0.0)","Bank of America, NA"
 Approved,2020-04-24,Branch Establishment,2020-LB-BranchNew-314063,George St and Church,NEC George Street and Bayard Street,New Brunswick,NJ,Middlesex,2020-04-23,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-04-24,Branch Establishment,2020-LB-BranchNew-314096,Glassboro Delsea Drive,NWC Donald Barger Blvd and Delsea Dr aka Rte 47,Glassboro,NJ,Gloucester,2020-04-23,NA,"JPMorgan Chase Bank, NA"
@@ -111,3 +101,6 @@ Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-31405
 Approved,2020-05-20,Relocation,2020-LB-Relocation-314293,K Street Office,"1801 K STREET, N. W.",WASHINGTON,DC,District of Columbia,2020-05-17,NA,"Bank of America, NA"
 Approved,2020-05-20,Relocation,2020-LB-Relocation-314290,Montgomery Village,19226 Montgomery Village Ave,Gaithersburg,MD,Montgomery,2020-05-17,"(39.1536547, -77.2107261, 0.0)","Bank of America, NA"
 Approved,2020-05-20,Branch Establishment,2020-LB-BranchNew-314265,Woodmere,27950 Chagrin Blvd,Woodmere,OH,Cuyahoga,2020-05-16,"(41.462255454545456, -81.4809955151515, 0.0)","Bank of America, NA"
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314264,PNC Mobile Cook County IL,n/a,n/a,IL,Cook,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314263,PNC Mobile Kane County IL,n/a,n/a,IL,Kane,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314261,PNC Mobile Lake County IL,n/a,n/a,IL,Lake,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
