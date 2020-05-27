@@ -1,8 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-04-22,Branch Establishment,2020-LB-BranchNew-313898,One Flatbush,1 Flatbush Avenue,Brooklyn,NY,Kings,2020-04-19,"(40.6882763, -73.98016939053673, 0.0)","Bank of America, NA"
-Approved,2020-04-24,Branch Establishment,2020-LB-BranchNew-314063,George St and Church,NEC George Street and Bayard Street,New Brunswick,NJ,Middlesex,2020-04-23,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-24,Branch Establishment,2020-LB-BranchNew-314096,Glassboro Delsea Drive,NWC Donald Barger Blvd and Delsea Dr aka Rte 47,Glassboro,NJ,Gloucester,2020-04-23,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-04-24,Branch Establishment,2020-LB-BranchNew-314068,Michigan and Trumbull,NWC Michigan Avenue and Trumbull Avenue,Detroit,MI,Wayne,2020-04-22,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-04-27,Subsidiaries & Equities,2020-NE-Subs&Equities-314158, , , , , , ,NA,"OceanFirst Bank, NA"
 Approved,2020-04-28,Branch Establishment,2020-LB-BranchNew-314099,Avon Rd and Benchmark Rd,NEC Beaver Creek Place and East Benchmark Rd,Avon,CO,Eagle,2020-04-25,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-04-28,Branch Establishment,2020-LB-BranchNew-314115,Haywood Road and Woods Crossing,SEC Woods Crossing Road and Haywood Road,Greenville,SC,Greenville,2020-04-26,NA,"JPMorgan Chase Bank, NA"
@@ -104,3 +100,4 @@ Approved,2020-05-20,Branch Establishment,2020-LB-BranchNew-314265,Woodmere,27950
 Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314264,PNC Mobile Cook County IL,n/a,n/a,IL,Cook,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
 Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314263,PNC Mobile Kane County IL,n/a,n/a,IL,Kane,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
 Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314261,PNC Mobile Lake County IL,n/a,n/a,IL,Lake,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
+Approved,2020-05-26,Branch Establishment,2020-LB-BranchNew-314315,Valley Fair Mall,"3601 South 2700 West, Ste G128",West Valley City,UT,Salt Lake,2020-05-22,NA,"Bank of America, NA"
