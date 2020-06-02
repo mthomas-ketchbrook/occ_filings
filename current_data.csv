@@ -1,9 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-04-29,Business Combinations,2020-WE-Combination-314121, , , , , ,2020-04-26,NA,Community NB & TR
-Withdrawn,2020-04-29,Subsidiaries & Equities,2020-LB-Subs&Equities-314332, , , , , , ,NA,"Capital One, NA"
-Approved,2020-04-29,Relocation,2020-LB-Relocation-313805,Wyndmoor,800 E. WILLOW GROVE AVENUE,WYNDMOOR,PA,Montgomery,2020-04-25,"(40.081221, -75.189859, 0.0)","Santander Bank, NA"
-Consummated/Effective,2020-04-30,Subsidiaries & Equities,2020-SO-Subs&Equities-313761, , , , , , ,NA,Home Fed Bk of TN
-Consummated/Effective,2020-04-30,Subsidiaries & Equities,2020-SO-Subs&Equities-313762, , , , , , ,NA,Home Fed Bk of TN
 Consummated/Effective,2020-05-01,Relocation,2019-NE-Relocation-311576,1185 Avenue of The Americas Branch,1185 AVENUE OF THE AMERICAS,NEW YORK,NY,New York,2019-11-20,"(40.758044, -73.9822212, 0.0)",HSBC Bank USA NA
 Consummated/Effective,2020-05-01,Branch Closings,2020-NE-BranchClosing-313031,Legacy Place Branch,"11280 LEGACY AVENUE, SUITE 100",PALM BEACH GARDENS,FL,Palm Beach, ,NA,HSBC Bank USA NA
 Approved,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241, , , , , , ,NA,"Fifth Third Bank, NA"
@@ -107,3 +102,12 @@ Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314324,SE 82nd Drive 
 Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-312928,Timberline & Custer,2804 SOUTH TIMBERLINE ROAD,FORT COLLINS,CO,Larimer, ,"(40.55062096721311, -105.03910553278689, 0.0)","JPMorgan Chase Bank, NA"
 Approved,2020-05-28,Relocation,2020-LB-Relocation-314470,Rockefeller Plaza Branch,ONE ROCKEFELLER PLAZA,NEW YORK CITY,NY,New York,2020-05-26,"(40.757951899999995, -73.97894817381228, 0.0)",Citibank NA
 Approved,2020-05-29,Branch Establishment,2020-LB-BranchNew-314334,Progress Ridge Townsquare,"14925 SW Barrows Road, Ste 115",Beaverton,OR,Washington,2020-05-27,"(45.4269186, -122.84485772289378, 0.0)","Bank of America, NA"
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Clarendon Branch,1000 N. Highland Street,Arlington,VA,Arlington, ,"(38.8846286, -77.0947874, 0.0)",Mainstreet Bk
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,DC Branch,"1130 Connecticut Avenue, NW",Washington,DC,District of Columbia, ,NA,Mainstreet Bk
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Fairfax City Branch,4029 Chain Bridge Road,Fairfax,VA,Fairfax City, ,"(38.8627284, -77.307544, 0.0)",Mainstreet Bk
+Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314392,Gastonia,NEC Cox Road and E Franklin Blvd,Gastonia,NC,Gaston,2020-05-29,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314387,Harrisburg,SEC Harrisburg Veterans Road and NC Hwy 49,Harrisburg,NC,Cabarrus,2020-05-31,NA,"JPMorgan Chase Bank, NA"
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Herndon Branch,727 Elden Street,Herndon,VA,Fairfax, ,"(38.969636559374074, -77.38532414400314, 0.0)",Mainstreet Bk
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Leesburg Branch,307 E. Market Street,Leesburg,VA,Loudoun, ,"(28.81142942857143, -81.87671110204082, 0.0)",Mainstreet Bk
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,McLean Branch,1354 Old Chain Bridge Road,McLean,VA,Fairfax, ,"(38.9375704, -77.1761238, 0.0)",Mainstreet Bk
+Consummated/Effective,2020-06-01,Branch Establishment,2017-SO-BranchNew-301229,TNB - San Juan,920 W. Interstate 2,San Juan,TX,Hidalgo,2018-02-02,NA,Texas NB
