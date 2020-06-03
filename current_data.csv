@@ -1,6 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-05-01,Relocation,2019-NE-Relocation-311576,1185 Avenue of The Americas Branch,1185 AVENUE OF THE AMERICAS,NEW YORK,NY,New York,2019-11-20,"(40.758044, -73.9822212, 0.0)",HSBC Bank USA NA
-Consummated/Effective,2020-05-01,Branch Closings,2020-NE-BranchClosing-313031,Legacy Place Branch,"11280 LEGACY AVENUE, SUITE 100",PALM BEACH GARDENS,FL,Palm Beach, ,NA,HSBC Bank USA NA
 Approved,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241, , , , , , ,NA,"Fifth Third Bank, NA"
 Consummated/Effective,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241, , , , , , ,NA,"Fifth Third Bank, NA"
 Approved,2020-05-04,Branch Establishment,2020-LB-BranchNew-314159,Farrs Bridge Road,SWC Farrs Bridge Road aka Rte 18 and West Parker Rd,Greenville,SC,Greenville,2020-05-03,NA,"JPMorgan Chase Bank, NA"
@@ -111,3 +109,8 @@ Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Herndon Branch,727 El
 Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Leesburg Branch,307 E. Market Street,Leesburg,VA,Loudoun, ,"(28.81142942857143, -81.87671110204082, 0.0)",Mainstreet Bk
 Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,McLean Branch,1354 Old Chain Bridge Road,McLean,VA,Fairfax, ,"(38.9375704, -77.1761238, 0.0)",Mainstreet Bk
 Consummated/Effective,2020-06-01,Branch Establishment,2017-SO-BranchNew-301229,TNB - San Juan,920 W. Interstate 2,San Juan,TX,Hidalgo,2018-02-02,NA,Texas NB
+Approved,2020-06-02,Business Combinations,2020-NE-Combination-314330, , , , , ,2020-05-24,NA,Webster Bank NA
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314367,Freedom Drive,NWC Freedom Drive and Alleghany Street,Charlotte,NC,Mecklenburg,2020-05-30,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314364,Marco Island South,SEC San Marco Road and South Barfield Drive,Marco Island,FL,Collier,2020-05-29,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314266,Mayfield Heights,1318 SOM Center Road,Mayfield Heights,OH,Cuyahoga,2020-05-20,NA,"Bank of America, NA"
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314363,Northport West Villages,SWC US Highway 41 and West Villages Parkway,Venice,FL,Sarasota,2020-05-29,NA,"JPMorgan Chase Bank, NA"
