@@ -1,30 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241, , , , , , ,NA,"Fifth Third Bank, NA"
-Consummated/Effective,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241, , , , , , ,NA,"Fifth Third Bank, NA"
-Approved,2020-05-04,Branch Establishment,2020-LB-BranchNew-314159,Farrs Bridge Road,SWC Farrs Bridge Road aka Rte 18 and West Parker Rd,Greenville,SC,Greenville,2020-05-03,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313320,18th & M NW,"1800 M STREET, NW",WASHINGTON,DC,District of Columbia, ,"(39.040026, -76.834564, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313331,69TH & 3rd,1180 Third AVENUE@69TH STREET,NEW YORK,NY,New York, ,NA,"Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313333,Bay Terrace,211-47 26TH AVENUE,BAYSIDE,NY,Queens, ,"(40.7729988, -73.7958985, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313344,Bent Tree,17561 DALLAS PARKWAY,DALLAS,TX,Dallas, ,"(32.989694, -96.82964424944558, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313347,Elysian Fields Branch,115 MAIN STREET,ELYSIAN FIELDS,TX,Harrison, ,"(32.368438, -94.180862, 0.0)","Capital One, NA"
-Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314145,Gallatin and Greenwood,SEC Gallatin Avenue and Greenwood Avenue,Nashville,TN,Davidson,2020-05-01,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313325,Great Falls,9863 GEORGETOWN PIKE,GREAT FALLS,VA,Fairfax, ,"(38.9965715, -77.2872098, 0.0)","Capital One, NA"
-Approved,2020-05-05,Relocation,2020-LB-Relocation-314081,Greeley,1025 NINTH AVENUE,GREELEY,CO,Weld,2020-05-03,NA,"Wells Fargo Bank, N.A."
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313376,Haynesville Drive-Up Office,9999 Highway 79,Haynesville,LA,Claiborne, ,NA,"Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313375,Haynesville Office,1914 Main Street,Haynesville,LA,Claiborne, ,"(32.96023844347209, -93.14279256668505, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313316,Homer Office,617 WEST MAIN STREET,HOMER,LA,Claiborne, ,"(42.147712279482526, -84.81571178925856, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313348,Longview Branch,1701 NORTH WEST LOOP 281,LONGVIEW,TX,Gregg, ,NA,"Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313353,Marshall,100 NORTH BOLIVAR STREET,MARSHALL,TX,Tyler, ,"(32.545465, -94.366208, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313337,Mill Basin,2102-2128 RALPH AVENUE,BROOKLYN,NY,Kings, ,NA,"Capital One, NA"
-Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314144,North Quincy,NWC W. Squantum Street and Hancock Street,Quincy,MA,Norfolk,2020-04-29,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313310,Northwest Office,315 NORTHWEST BOULEVARD,FRANKLIN,LA,St Mary, ,"(29.81085199855625, -91.51577146598846, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313318,Oakdale Office,117 NORTH ELEVENTH STREET,OAKDALE,LA,Allen, ,NA,"Capital One, NA"
-Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314147,Ponce De Leon,SEC Ponce De Leon Avenue NE and Barnett Street NE,Atlanta,GA,Fulton,2020-05-02,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313322,Rehoboth,19268 OLD LANDING ROAD,REHOBOTH,DE,Sussex, ,NA,"Capital One, NA"
-Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314146,South Robert Street West St Paul,NWC Mendota Road and South Robert Street aka Hwy 952,Saint Paul,MN,Dakota,2020-05-01,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313342,Tribeca,90 WEST BROADWAY,NEW YORK,NY,New York, ,"(40.7154435, -74.0094889, 0.0)","Capital One, NA"
-Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313355,West 34th,11097A NORTHWEST FREEWAY,HOUSTON,TX,Harris, ,"(29.8185994, -95.4699804, 0.0)","Capital One, NA"
-Approved,2020-05-06,Branch Establishment,2020-WE-BranchNew-313955,The Compass at Centennial Hills,4140 Centennial Hills Blvd,Casper,WY,Natrona,2020-04-26,"(42.834796593790806, -106.27061417246993, 0.0)",Hilltop NB
 Approved,2020-05-11,Business Combinations,2020-CE-Combination-314287, , , , , ,2020-05-08,NA,Merchants Bank NA
 Approved,2020-05-11,Branch Establishment,2020-SO-BranchNew-312831,First Liberty National Bank Dayton Mortgage Center,900 Highway 146,Dayton,TX,Liberty,2020-05-07,NA,First Liberty NB
 Approved,2020-05-12,Relocation,2020-HQ-Relocation-313136, , , , , ,2020-03-07,NA,ETHIC
@@ -117,3 +91,5 @@ Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314363,Northport West
 Disapproved (CBCA),2020-06-04,Change in Bank Control,2020-NE-CBCA-314119, , , , , ,2020-04-13,NA,Bessemer Tr Co NA
 Approved,2020-06-04,Branch Establishment,2020-LB-BranchNew-314391,Covington Square,SWC SE 272nd Street (aka Hwy 516) and 172nd Ave SE,Covington,WA,King,2020-06-03,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-04,Relocation,2020-LB-Relocation-314533,South Hills,1248 South Atherton Street,State College,PA,Centre,2020-05-29,"(40.784040649999994, -77.84665205906087, 0.0)","Citizens Bank, NA"
+Consummated/Effective,2020-06-08,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
+Approved,2020-06-08,Relocation,2020-SO-Relocation-314557,Gaslight Branch,1873 WEST FRANK STREET,LUFKIN,TX,Angelina,2020-06-04,NA,"Commercial Bank of Texas, NA"
