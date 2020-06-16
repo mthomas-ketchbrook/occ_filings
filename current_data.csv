@@ -1,28 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-05-11,Business Combinations,2020-CE-Combination-314287, , , , , ,2020-05-08,NA,Merchants Bank NA
-Approved,2020-05-11,Branch Establishment,2020-SO-BranchNew-312831,First Liberty National Bank Dayton Mortgage Center,900 Highway 146,Dayton,TX,Liberty,2020-05-07,NA,First Liberty NB
-Approved,2020-05-12,Relocation,2020-HQ-Relocation-313136, , , , , ,2020-03-07,NA,ETHIC
-Approved,2020-05-12,Relocation,2020-HQ-Relocation-313145,None Given,579 Boylston Street,Boston,MA,Suffolk,2020-03-07,"(42.3504885, -71.0766916, 0.0)",ETHIC
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314199,Pacific Highway and SW Dartmouth Street,SEC Pacific Hwy aka Hwy 99 W and SW Dartmouth St,Tigard,OR,Washington,2020-05-08,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314222,Pentagon City,SEC South Hayes Street and 12th Street South,Arlington,VA,Arlington,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314198,Rose Crossing,SWC North Rose Avenue and Lockwood Street,Oxnard,CA,Ventura,2020-05-08,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314221,White Oak Shopping Center,NEC New Hampshire Avenue aka Rte 650 and Lockwood Drive,Silver Spring,MD,Montgomery,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314215,Willlingboro Route 130,SWC Burlington Pike aka Route 130 and Edgewater Blvd,Willingboro,NJ,Burlington,2020-05-09,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314262,Wyandanch Village,SEC Station Drive and Straight Path,Wyandanch,NY,Suffolk,2020-05-08,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-13,Business Combinations,2020-LB-Combination-314186, , , , , ,2020-05-08,NA,U.S. Bank NA
-Approved,2020-05-13,Relocation,2020-LB-Relocation-314205,Cache Valley Mall Branch,1320 NORTH MAIN STREET,LOGAN,UT,Cache,2020-05-11,"(41.75610283939915, -111.83430453278572, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313197,Eppley Airport,"4501 ABBOTT DRIVE, SUITE 2400",OMAHA,NE,Douglas, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313198,Hasbrouck Heights,181 BOULEVARD,HASBROUCK HEIGHTS,NJ,Bergen, ,"(40.860754, -74.079543, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313196,Kendrick Office,501 EAST MAIN STREET,KENDRICK,ID,Latah, ,"(46.612669, -116.661228, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313201,Mission Oaks Boulevard Branch,5275 MISSION OAK BOULEVARD,CAMARILLO,CA,Ventura, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313187,Pocatello Main Office,333 SOUTH MAIN STREET,POCATELLO,ID,Bannock, ,"(42.8603803877551, -112.44877424489795, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313190,Texas A & M Corpus Christi,"6300 OCEAN DRIVE, UNIVERSITY CENTER, ROOM 108",CORPUS CHRISTI,TX,Nueces, ,NA,"Wells Fargo Bank, N.A."
-Approved,2020-05-13,Relocation,2020-LB-Relocation-314152,University,1300 NE 45TH STREET,SEATTLE,WA,King,2020-05-05,"(47.661437, -122.3140225, 0.0)",KeyBank NA
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313189,Wheatland Branch,874 GILCHRIST STREET,WHEATLAND,WY,Platte, ,"(42.054632049999995, -104.9530635294573, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313191,Wilshire and Western,3800 WILSHIRE BOULEVARD,LOS ANGELES,CA,Los Angeles, ,"(34.0423181, -118.4696749, 0.0)","Wells Fargo Bank, N.A."
-Approved,2020-05-14,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
-Approved,2020-05-14,Business Combinations,2020-CE-Combination-314183, , , , , ,2020-05-09,NA,Hiawatha NB
-Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313221,Westinghouse,"1000 WESTINGHOUSE DRIVE, SUITE 106A",CRANBERRY TOWNSHIP,PA,Butler, ,NA,PNC Bank NA
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313147,Broad & Loudon,4753 NORTH BROAD STREET,PHILADELPHIA,PA,Philadelphia, ,"(40.0162096, -75.1496842, 0.0)",PNC Bank NA
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313155,Carroll Valley,815 WAYNESBORO PIKE,FAIRFIELD,PA,Adams, ,NA,PNC Bank NA
 Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313156,Churubusco,101 NORTH LINE STREET,CHURUBUSCO,IN,Whitley, ,"(41.230721, -85.319381, 0.0)",PNC Bank NA
@@ -121,3 +97,6 @@ Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313732,Wh
 Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313718,Yale & Monaco Branch,6460 EAST YALE AVENUE,DENVER,CO,Denver, ,"(39.6659236, -104.9139731, 0.0)","Wells Fargo Bank, N.A."
 Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313660,Bismarck Ar,6677 HIGHWAY 7,BISMARCK,AR,Hot Spring, ,NA,U.S. Bank NA
 Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313659,Northtown WA,123 E Queen Ave,Spokane,WA,Spokane, ,"(47.704366524702685, -117.40806534767228, 0.0)",U.S. Bank NA
+Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Aurora Banking Center,444 SOUTH RINKER,AURORA,MO,Lawrence, ,NA,Community NB
+Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Messenger Service,901 HIGHWAY 60,MONETT,MO,Barry, ,NA,Community NB
+Approved,2020-06-15,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
