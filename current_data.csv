@@ -1,22 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313147,Broad & Loudon,4753 NORTH BROAD STREET,PHILADELPHIA,PA,Philadelphia, ,"(40.0162096, -75.1496842, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313155,Carroll Valley,815 WAYNESBORO PIKE,FAIRFIELD,PA,Adams, ,NA,PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313156,Churubusco,101 NORTH LINE STREET,CHURUBUSCO,IN,Whitley, ,"(41.230721, -85.319381, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313157,Colonial,1715 W. MT. HOPE,LANSING,MI,Ingham, ,NA,PNC Bank NA
-Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314259,Fairway,NWC Shawnee Mission Pkwy aka US Hwy 169 and Norwood St,Fairway,KS,Johnson,2020-05-14,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313158,Finksburg,2926 Baltimore Blvd,FINKSBURG,MD,Carroll, ,"(39.49667, -76.892402, 0.0)",PNC Bank NA
-Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314244,Foothill Village,1414 Foothill Drive #5,Salt Lake City,UT,Salt Lake,2020-05-13,"(40.73920465, -111.82529725, 0.0)","Bank of America, NA"
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313159,Fort Pierce Indian River,603 NORTH INDIAN RIVER DRIVE,FORT PIERCE,FL,St. Lucie, ,"(27.45432097909158, -80.32486659744553, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313161,Laurel Lake Office,200 LAUREL LAKE DRIVE,HUDSON,OH,Summit, ,"(41.24551, -81.471282, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313167,Media Branch,1114 W State St,Media,PA,Delaware, ,"(39.9183022, -75.392008, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313166,Pocono Pines Office,1950 ROUTE 940,POCONO PINES,PA,Monroe, ,NA,PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313168,Prospect,401 SOUTH JEFFERSON STREET-PROSPECT PLAZA SHOPPING CENTER,FREDERICK,MD,Frederick, ,NA,PNC Bank NA
-Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314260,Skyland Town Center,NEC Alabama Avenue SE and Good Hope Road SE,Washington,DC,District of Columbia,2020-05-14,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313169,Sunbury Plaza,5939 SUNBURY,WESTERVILLE,OH,Franklin, ,"(40.08330667676768, -82.89575209090908, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313170,Twin Rivers,620 Route 33 E,EAST WINDSOR,NJ,Middlesex, ,NA,PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313171,Tyler Center,12609 TAYLORSVILLE ROAD,LOUISVILLE,KY,Jefferson, ,"(38.188092499999996, -85.51803128830554, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313218,Vicksburg,119 NORTH MAIN STREET,VICKSBURG,MI,Kalamazoo, ,"(42.120495450315744, -85.53229809517408, 0.0)",PNC Bank NA
-Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313220,Wadesboro,1109 E Caswell Street,Wadesboro,NC,Anson, ,"(34.96494711902938, -80.05946728239594, 0.0)",PNC Bank NA
 Consummated/Effective,2020-05-18,Business Combinations,2019-CE-Combination-311833, , , , , ,2019-12-13,NA,FCN Bank NA
 Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-313685,Warsaw Branch,300 West Main Street,Warsaw,KY,Gallatin,2020-05-15,"(38.781694, -84.905847, 0.0)",First NB of Kentucky
 Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-314230,Wintrust Bank - Ogden Commons,2642 W. Ogden Ave.,Chicago,IL,Cook,2020-05-11,"(41.862489454545454, -87.69175790909091, 0.0)","Wintrust Bank, NA"
@@ -100,3 +82,13 @@ Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313659,No
 Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Aurora Banking Center,444 SOUTH RINKER,AURORA,MO,Lawrence, ,NA,Community NB
 Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Messenger Service,901 HIGHWAY 60,MONETT,MO,Barry, ,NA,Community NB
 Approved,2020-06-15,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
+Approved,2020-06-16,Conversions,2020-CE-Conversion-314328, , , , , , ,NA,Mid Central FSB
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314542,32nd and Park Avenue Branch,475 PARK AVENUE SOUTH,NEW YORK,NY,New York,2020-06-14,"(40.7453743, -73.9822453, 0.0)","TD Bank, NA"
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314606,Beacon,364 MAIN STREET,BEACON,NY,Dutchess,2020-06-04,"(41.5040443, -73.9678195, 0.0)","Citizens Bank, NA"
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314540,Bellevue,SEC Highway 70 S and Coley Davis Road,Nashville,TN,Davidson,2020-06-12,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314454,Boston - Nubian Square,2181 Washington Street,Roxbury,MA,Suffolk,2020-06-13,"(42.331306, -71.082598, 0.0)","Santander Bank, NA"
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314449,Hyde Park Shaw's,1377 HYDE PARK AVE,HYDE PARK,MA,Suffolk,2020-06-06,"(42.25155, -71.125639, 0.0)","Citizens Bank, NA"
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314507,Maple Avenue Shopping Center,SEC Maple Avenue East aka Hwy 123 and Glyndon Street SE,Vienna,VA,Fairfax,2020-06-12,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-16,Branch Establishment,2020-NE-BranchNew-314537,Roseneath Office,1401 Roseneath Road,Richmond,VA,Richmond City,2020-06-15,"(37.5690594, -77.4744356, 0.0)",Virginia NB
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314541,Sewickley,NWC Beaver Street and Broad Street,Sewickley,PA,Allegheny,2020-06-13,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314508,Tysons Greensboro,SWC Greensboro Drive and International Drive aka Hwy 684,McLean,VA,Fairfax,2020-06-12,NA,"JPMorgan Chase Bank, NA"
