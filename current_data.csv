@@ -1,7 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-05-18,Business Combinations,2019-CE-Combination-311833, , , , , ,2019-12-13,NA,FCN Bank NA
-Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-313685,Warsaw Branch,300 West Main Street,Warsaw,KY,Gallatin,2020-05-15,"(38.781694, -84.905847, 0.0)",First NB of Kentucky
-Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-314230,Wintrust Bank - Ogden Commons,2642 W. Ogden Ave.,Chicago,IL,Cook,2020-05-11,"(41.862489454545454, -87.69175790909091, 0.0)","Wintrust Bank, NA"
 Approved,2020-05-19,5.53 Substantial Change in Assets,2020-CE-5.53-314051, , , , , , ,NA,Neighborhood NB
 Withdrawn,2020-05-19,Business Combinations,2020-CE-Combination-313492, , , , , ,2020-04-03,NA,Nicolet NB
 Approved,2020-05-19,Relocation,2020-LB-Relocation-314223,5th Avenue Naples,"405 FIFTH AVENUE SOUTH, SUITE 405A",NAPLES,FL,Collier,2020-05-17,NA,PNC Bank NA
@@ -95,3 +92,8 @@ Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314508,Tysons Greensb
 Approved,2020-06-17,Relocation,2020-LB-Relocation-314731,50th & Broadway Branch,1633 BROADWAY,NEW YORK,NY,New York,2020-06-16,"(40.762093, -73.98465589588142, 0.0)","TD Bank, NA"
 Approved,2020-06-17,Branch Establishment,2020-LB-BranchNew-314539,Hamburg Place,1808 Alysheba Way,Lexington,KY,Fayette,2020-06-14,"(38.016811849999996, -84.4202765130732, 0.0)","Bank of America, NA"
 Approved,2020-06-17,Relocation,2020-LB-Relocation-314607,North Haven,127 WASHINGTON AVE.,HAMDEN,CT,New Haven,2020-06-05,"(41.386682, -72.898101, 0.0)","Citizens Bank, NA"
+Approved,2020-06-18,Business Combinations,2020-CE-Combination-314530, , , , , ,2020-06-10,NA,First NB of Waterloo
+Approved,2020-06-18,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
+Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-313911,Lexington Vine Street,301 EAST MAIN STREET,LEXINGTON,KY,Fayette, ,"(38.0433118, -84.4930428, 0.0)",PNC Bank NA
+Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-312652,Roanoke Rapids,1001 Hamilton St,Roanoke Rapids,NC,Halifax, ,"(36.454573, -77.656654, 0.0)",PNC Bank NA
+Withdrawn,2020-06-19,Branch Establishment,2018-LB-BranchNew-305351,Shaw Florida Avenue and 7th Street NW,NEC Georgia Avenue NW and Florida Avenue NW,Washington,DC,District of Columbia,2018-10-19,NA,"JPMorgan Chase Bank, NA"
