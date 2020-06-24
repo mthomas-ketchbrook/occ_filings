@@ -1,20 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-05-19,5.53 Substantial Change in Assets,2020-CE-5.53-314051, , , , , , ,NA,Neighborhood NB
-Withdrawn,2020-05-19,Business Combinations,2020-CE-Combination-313492, , , , , ,2020-04-03,NA,Nicolet NB
-Approved,2020-05-19,Relocation,2020-LB-Relocation-314223,5th Avenue Naples,"405 FIFTH AVENUE SOUTH, SUITE 405A",NAPLES,FL,Collier,2020-05-17,NA,PNC Bank NA
-Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Aitkin Branch,15 MINNESOTA AVENUE SOUTH,AITKIN,MN,Aitkin, ,"(46.531724, -93.706692, 0.0)",Neighborhood NB
-Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Alexandria,803 North Nokomis NE,Alexandria,MN,Douglas, ,"(45.9141903, -95.3710597, 0.0)",Neighborhood NB
-Approved,2020-05-19,Branch Establishment,2020-LB-BranchNew-314273,Connecticut Avenue and Porter Street,SEC Connecticut Avenue NW and Porter Street NW,Washington,DC,District of Columbia,2020-05-15,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-19,Branch Establishment,2020-LB-BranchNew-314274,Mall 205,NEC SE Stark Street and SE 103rd Drive,Portland,OR,Multnomah,2020-05-15,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Mora Branch,710 FRANKIE LANE,MORA,MN,Kanabec, ,"(45.86862453571428, -93.29153608928571, 0.0)",Neighborhood NB
-Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Peoples National Bank,601 WEST WASHINGTON STREET,BRAINERD,MN,Crow Wing, ,"(46.358212, -94.200482, 0.0)",Neighborhood NB
-Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Peoples National Bank of Mora Branch,5481 ST. CROIX TRAIL,NORTH BRANCH,MN,Chisago, ,"(45.51012096395233, -92.99949592574808, 0.0)",Neighborhood NB
-Approved,2020-05-20,Relocation,2020-LB-Relocation-314293,K Street Office,"1801 K STREET, N. W.",WASHINGTON,DC,District of Columbia,2020-05-17,NA,"Bank of America, NA"
-Approved,2020-05-20,Relocation,2020-LB-Relocation-314290,Montgomery Village,19226 Montgomery Village Ave,Gaithersburg,MD,Montgomery,2020-05-17,"(39.1536547, -77.2107261, 0.0)","Bank of America, NA"
-Approved,2020-05-20,Branch Establishment,2020-LB-BranchNew-314265,Woodmere,27950 Chagrin Blvd,Woodmere,OH,Cuyahoga,2020-05-16,"(41.462255454545456, -81.4809955151515, 0.0)","Bank of America, NA"
-Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314264,PNC Mobile Cook County IL,n/a,n/a,IL,Cook,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
-Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314263,PNC Mobile Kane County IL,n/a,n/a,IL,Kane,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
-Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314261,PNC Mobile Lake County IL,n/a,n/a,IL,Lake,2020-05-21,"(33.8979626, 35.4841988, 0.0)",PNC Bank NA
 Approved,2020-05-26,Branch Establishment,2020-LB-BranchNew-314315,Valley Fair Mall,"3601 South 2700 West, Ste G128",West Valley City,UT,Salt Lake,2020-05-22,NA,"Bank of America, NA"
 Approved,2020-05-27,Relocation,2020-LB-Relocation-314446,Abington,1359 Old York Roads,Abington,PA,Montgomery,2020-05-22,NA,"Citizens Bank, NA"
 Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314306,Berea Drive Thru,31 E. Bridge St.,Berea,OH,Cuyahoga,2020-05-24,"(41.36635079411764, -81.852495, 0.0)",Huntington NB
@@ -97,3 +81,4 @@ Approved,2020-06-18,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 Sou
 Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-313911,Lexington Vine Street,301 EAST MAIN STREET,LEXINGTON,KY,Fayette, ,"(38.0433118, -84.4930428, 0.0)",PNC Bank NA
 Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-312652,Roanoke Rapids,1001 Hamilton St,Roanoke Rapids,NC,Halifax, ,"(36.454573, -77.656654, 0.0)",PNC Bank NA
 Withdrawn,2020-06-19,Branch Establishment,2018-LB-BranchNew-305351,Shaw Florida Avenue and 7th Street NW,NEC Georgia Avenue NW and Florida Avenue NW,Washington,DC,District of Columbia,2018-10-19,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-06-23,Branch Establishment,2020-LB-BranchNew-314600,University and Lorraine,SEC University Parkway and Lorraine Road,Lakewood Ranch,FL,Sarasota,2020-06-19,NA,"JPMorgan Chase Bank, NA"
