@@ -1,17 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-05-26,Branch Establishment,2020-LB-BranchNew-314315,Valley Fair Mall,"3601 South 2700 West, Ste G128",West Valley City,UT,Salt Lake,2020-05-22,NA,"Bank of America, NA"
-Approved,2020-05-27,Relocation,2020-LB-Relocation-314446,Abington,1359 Old York Roads,Abington,PA,Montgomery,2020-05-22,NA,"Citizens Bank, NA"
-Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314306,Berea Drive Thru,31 E. Bridge St.,Berea,OH,Cuyahoga,2020-05-24,"(41.36635079411764, -81.852495, 0.0)",Huntington NB
-Approved,2020-05-27,Relocation,2020-LB-Relocation-314217,Bethel Park,5035 LIBRARY ROAD,BETHEL PARK PA,PA,Allegheny,2020-05-24,"(40.3524275, -80.02942290815128, 0.0)",PNC Bank NA
-Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314322,Cornell and Murray,NEC NW Cornell Road and NW Trail Avenue,Portland,OR,Washington,2020-05-22,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-05-27,Relocation,2020-LB-Relocation-314295,Financial District,2 GOLD STREET,NEW YORK,NY,New York,2020-05-24,"(40.707381, -74.00693290377643, 0.0)","Santander Bank, NA"
-Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314314,Forestville,7765 Beechmont Ave,Cincinnati,OH,Hamilton,2020-05-22,"(39.1203911, -84.4176356, 0.0)","Bank of America, NA"
-Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314323,Greenway Town Center,SWC SW Scholls Ferry Road aka Hwy 210 & SW 121st Ave,Tigard,OR,Washington,2020-05-22,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-313079,Marengo,200 EAST GRANT HIGHWAY,MARENGO,IL,McHenry, ,"(42.247912, -88.606332, 0.0)","JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-312930,North Chelsea Banking Center,245 7TH AVENUE,NEW YORK,NY,New York, ,"(40.7448017, -73.99476829442347, 0.0)","JPMorgan Chase Bank, NA"
-Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314324,SE 82nd Drive and Highway 212,SWC SE 82nd Drive and Highway 212,Clackamas,OR,Clackamas,2020-05-22,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-312928,Timberline & Custer,2804 SOUTH TIMBERLINE ROAD,FORT COLLINS,CO,Larimer, ,"(40.55062096721311, -105.03910553278689, 0.0)","JPMorgan Chase Bank, NA"
-Approved,2020-05-28,Relocation,2020-LB-Relocation-314470,Rockefeller Plaza Branch,ONE ROCKEFELLER PLAZA,NEW YORK CITY,NY,New York,2020-05-26,"(40.757951899999995, -73.97894817381228, 0.0)",Citibank NA
 Approved,2020-05-29,Branch Establishment,2020-LB-BranchNew-314334,Progress Ridge Townsquare,"14925 SW Barrows Road, Ste 115",Beaverton,OR,Washington,2020-05-27,"(45.4269186, -122.84485772289378, 0.0)","Bank of America, NA"
 Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Clarendon Branch,1000 N. Highland Street,Arlington,VA,Arlington, ,"(38.8846286, -77.0947874, 0.0)",Mainstreet Bk
 Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,DC Branch,"1130 Connecticut Avenue, NW",Washington,DC,District of Columbia, ,NA,Mainstreet Bk
@@ -88,3 +75,5 @@ Approved,2020-06-25,Relocation,2020-WE-Relocation-314647,Downtown Office,1600 4T
 Approved,2020-06-26,Branch Establishment,2020-LB-BranchNew-314686,Alpharetta Street and Holcomb Bridge Road,SEC Alpharetta St aka Hwy 9 & Holcomb Bridge Rd aka Hwy 140,Roswell,GA,Fulton,2020-06-25,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-26,Branch Establishment,2020-NE-BranchNew-314586,Biltmore Park Office,One Town Square Boulevard,Asheville,NC,Buncombe,2020-06-19,NA,First NB of Pennsylvania
 Approved,2020-06-26,Relocation,2020-LB-Relocation-314611,Broad and Erie,3711 Germantown Avenue,Philadelphia,PA,Philadelphia,2020-06-19,"(40.01019893877551, -75.15124752040816, 0.0)","Citizens Bank, NA"
+Consummated/Effective,2020-06-29,Business Combinations,2020-CE-Combination-314530, , , , , ,2020-06-10,NA,First NB of Waterloo
+Deleted,2020-06-29,Branch Closings,2020-CE-BranchClosing-315032,Post Oak Crossing Branch,3401 HIGHWAY 1417,SHERMAN,TX,Grayson, ,NA,First Texoma NB
