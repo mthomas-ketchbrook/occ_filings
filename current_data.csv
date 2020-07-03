@@ -1,13 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Clarendon Branch,1000 N. Highland Street,Arlington,VA,Arlington, ,"(38.8846286, -77.0947874, 0.0)",Mainstreet Bk
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,DC Branch,"1130 Connecticut Avenue, NW",Washington,DC,District of Columbia, ,NA,Mainstreet Bk
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Fairfax City Branch,4029 Chain Bridge Road,Fairfax,VA,Fairfax City, ,"(38.8627284, -77.307544, 0.0)",Mainstreet Bk
-Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314392,Gastonia,NEC Cox Road and E Franklin Blvd,Gastonia,NC,Gaston,2020-05-29,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314387,Harrisburg,SEC Harrisburg Veterans Road and NC Hwy 49,Harrisburg,NC,Cabarrus,2020-05-31,NA,"JPMorgan Chase Bank, NA"
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Herndon Branch,727 Elden Street,Herndon,VA,Fairfax, ,"(38.969636559374074, -77.38532414400314, 0.0)",Mainstreet Bk
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Leesburg Branch,307 E. Market Street,Leesburg,VA,Loudoun, ,"(28.81142942857143, -81.87671110204082, 0.0)",Mainstreet Bk
-Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,McLean Branch,1354 Old Chain Bridge Road,McLean,VA,Fairfax, ,"(38.9375704, -77.1761238, 0.0)",Mainstreet Bk
-Consummated/Effective,2020-06-01,Branch Establishment,2017-SO-BranchNew-301229,TNB - San Juan,920 W. Interstate 2,San Juan,TX,Hidalgo,2018-02-02,NA,Texas NB
 Approved,2020-06-02,Business Combinations,2020-NE-Combination-314330, , , , , ,2020-05-24,NA,Webster Bank NA
 Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314367,Freedom Drive,NWC Freedom Drive and Alleghany Street,Charlotte,NC,Mecklenburg,2020-05-30,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314364,Marco Island South,SEC San Marco Road and South Barfield Drive,Marco Island,FL,Collier,2020-05-29,NA,"JPMorgan Chase Bank, NA"
@@ -78,3 +69,6 @@ Consummated/Effective,2020-06-29,Business Combinations,2020-CE-Combination-31453
 Deleted,2020-06-29,Branch Closings,2020-CE-BranchClosing-315032,Post Oak Crossing Branch,3401 HIGHWAY 1417,SHERMAN,TX,Grayson, ,NA,First Texoma NB
 Approved,2020-06-30,Branch Establishment,2020-LB-BranchNew-314742,Moorestown W Main Street,SWC West Main Street and North Close,Moorestown,NJ,Burlington,2020-06-27,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-07-01,Business Combinations,2020-NE-Combination-314690, , , , , ,2020-05-19,NA,"Patriot Bank, NA"
+Approved,2020-07-02,Relocation,2020-CE-Relocation-314655, , , , , ,2020-06-27,NA,First NB of Le Center
+Approved,2020-07-02,Relocation,2020-NE-Relocation-314842,Cliffside Park Branch,742 Anderson Ave,Cliffside Park,NJ,Bergen,2020-06-25,"(40.830047111111114, -73.98563888888889, 0.0)",Valley NB
+Approved,2020-07-02,Branch Establishment,2020-CE-BranchNew-314818,Le Center,10 West Minnesota St.,Minneapolis,MN,Le Sueur,2020-06-27,NA,First NB of Le Center
