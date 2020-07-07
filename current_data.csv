@@ -1,12 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-06-02,Business Combinations,2020-NE-Combination-314330, , , , , ,2020-05-24,NA,Webster Bank NA
-Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314367,Freedom Drive,NWC Freedom Drive and Alleghany Street,Charlotte,NC,Mecklenburg,2020-05-30,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314364,Marco Island South,SEC San Marco Road and South Barfield Drive,Marco Island,FL,Collier,2020-05-29,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314266,Mayfield Heights,1318 SOM Center Road,Mayfield Heights,OH,Cuyahoga,2020-05-20,NA,"Bank of America, NA"
-Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314363,Northport West Villages,SWC US Highway 41 and West Villages Parkway,Venice,FL,Sarasota,2020-05-29,NA,"JPMorgan Chase Bank, NA"
-Disapproved (CBCA),2020-06-04,Change in Bank Control,2020-NE-CBCA-314119, , , , , ,2020-04-13,NA,Bessemer Tr Co NA
-Approved,2020-06-04,Branch Establishment,2020-LB-BranchNew-314391,Covington Square,SWC SE 272nd Street (aka Hwy 516) and 172nd Ave SE,Covington,WA,King,2020-06-03,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-04,Relocation,2020-LB-Relocation-314533,South Hills,1248 South Atherton Street,State College,PA,Centre,2020-05-29,"(40.784040649999994, -77.84665205906087, 0.0)","Citizens Bank, NA"
 Consummated/Effective,2020-06-08,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
 Approved,2020-06-08,Relocation,2020-SO-Relocation-314557,Gaslight Branch,1873 WEST FRANK STREET,LUFKIN,TX,Angelina,2020-06-04,NA,"Commercial Bank of Texas, NA"
 Approved,2020-06-09,Subsidiaries & Equities,2020-LB-Subs&Equities-314642, , , , , , ,NA,Huntington NB
@@ -72,3 +64,8 @@ Approved,2020-07-01,Business Combinations,2020-NE-Combination-314690, , , , , ,2
 Approved,2020-07-02,Relocation,2020-CE-Relocation-314655, , , , , ,2020-06-27,NA,First NB of Le Center
 Approved,2020-07-02,Relocation,2020-NE-Relocation-314842,Cliffside Park Branch,742 Anderson Ave,Cliffside Park,NJ,Bergen,2020-06-25,"(40.830047111111114, -73.98563888888889, 0.0)",Valley NB
 Approved,2020-07-02,Branch Establishment,2020-CE-BranchNew-314818,Le Center,10 West Minnesota St.,Minneapolis,MN,Le Sueur,2020-06-27,NA,First NB of Le Center
+Approved,2020-07-06,Relocation,2020-SO-Relocation-314785, , , , , ,2020-07-03,NA,"First Century Bank, NA"
+Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-312456,Birmingham (Walmart) - AL - Branch,9248 Parkway E,Birmingham,AL,Jefferson,2020-06-28,"(33.590204, -86.70022, 0.0)",Woodforest NB
+Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-314733,First National Bank Emory,105 Tawakoni Drive,Emory,TX,Rains,2020-07-02,NA,First NB of Gilmer
+Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314707,Mass. Ave. Branch,183 Massachusetts Avenue,Boston,MA,Suffolk,2020-06-28,"(42.3455003, -71.0870902, 0.0)","Citizens Bank, NA"
+Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314278,Midtown BC,1715 West End Avenue,Nashville,TN,Davidson,2020-06-25,"(36.153564673947706, -86.79467669451563, 0.0)","Fifth Third Bank, NA"
