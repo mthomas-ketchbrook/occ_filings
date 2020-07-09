@@ -15,18 +15,15 @@ driver = Chrome(webdriver)
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
 # Get Start & End dates based upon the system date
-end_date = datetime.date(2020, 4, 1) - datetime.timedelta(days = 1)
+end_date = datetime.date(2020, 7, 7)
 end_year = str(end_date.year)
 end_month = str(end_date.month)
 end_day = str(end_date.day)
 
 # if the system date is Monday, subtract 2 days for the start date
-# so that we can capture Saturday & Sunday data (assuming this script
+# so that we can capture Friday, Saturday & Sunday data (assuming this script
 # only runs on weekdays)
-if end_date.weekday() == 6:
-   start_date = end_date - datetime.timedelta(days = 2)
-else: 
-   start_date = end_date
+start_date = end_date
 
 start_year = str(start_date.year)
 start_month = str(start_date.month)
@@ -125,23 +122,22 @@ coords2 = coords.apply(lambda loc: tuple(loc.point) if loc else None)
 
 # print(coords2)
 
-df1['Coords'] = coords2
+df1['Coordinates'] = coords2
+
+df1['Coordinates'] = df1.Coordinates.astype(str)
+
+df1 = df1.replace({'Coordinates': {"None": None}})
 
 # Drop the 'FullAddress' temporary column
 df1 = df1.drop(df1.columns[[10]], axis = 1)
 
-# Split point column into latitude, longitude and altitude columns
-# df1[['Latitude', 'Longitude', 'Altitude']] = pd.DataFrame(df1['point'].tolist(), index = df1.index)
-
-
 # Write DataFrame to a .csv
-df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
+# df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
 # Create connection to SQLite db
-# conn = sqlite3.connect('occ-warehouse.sqlite')
+conn = sqlite3.connect('occ-warehouse.sqlite')
 
 # Write first DataFrame to SQLite database
-# df1.to_sql(name = 'OCCFilingsBranch', con = conn, if_exists = 'append', index = False)
+df1.to_sql(name = 'OCCFilingsBranch', con = conn, if_exists = 'append', index = False)
 
 print("Success")
-

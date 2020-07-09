@@ -6,6 +6,8 @@ import bs4 as bs
 from selenium.webdriver.support.ui import Select
 import sqlite3
 import datetime
+import geopy
+from geopy.extra.rate_limiter import RateLimiter
 
 # Estbalish browsing session
 webdriver = "C:/Users/18602/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/chromedriver.exe"
@@ -13,18 +15,15 @@ driver = Chrome(webdriver)
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
 # Get Start & End dates based upon the system date
-end_date = datetime.date(2020, 4, 22) - datetime.timedelta(days = 1)
+end_date = datetime.date(2020, 7, 7)
 end_year = str(end_date.year)
 end_month = str(end_date.month)
 end_day = str(end_date.day)
 
 # if the system date is Monday, subtract 2 days for the start date
-# so that we can capture Saturday & Sunday data (assuming this script
+# so that we can capture Friday, Saturday & Sunday data (assuming this script
 # only runs on weekdays)
-if end_date.weekday() == 6:
-   start_date = end_date - datetime.timedelta(days = 2)
-else: 
-   start_date = end_date
+start_date = end_date
 
 start_year = str(start_date.year)
 start_month = str(start_date.month)
@@ -108,6 +107,30 @@ df1 = df1.drop(df1.columns[[0]], axis = 1)
 # Remove whitespace in column names
 df1.columns = df1.columns.str.replace(' ', '')
 
+# Create new "FullAddress" temporary column
+df1['FullAddress'] = df1['Location'] + "," + df1['City'] + "," + df1['State']
+
+# Set up API calls
+locator = geopy.Nominatim(user_agent = "myGeocoder")
+geocode = RateLimiter(locator.geocode, min_delay_seconds = 1)
+
+# Get Lat/Lon/Ele data
+coords = df1['FullAddress'].apply(geocode)
+
+# Create longitude, latitude and altitude from location column (returns tuple)
+coords2 = coords.apply(lambda loc: tuple(loc.point) if loc else None)
+
+# print(coords2)
+
+df1['Coordinates'] = coords2
+
+df1['Coordinates'] = df1.Coordinates.astype(str)
+
+df1 = df1.replace({'Coordinates': {"None": None}})
+
+# Drop the 'FullAddress' temporary column
+df1 = df1.drop(df1.columns[[10]], axis = 1)
+
 # Write DataFrame to a .csv
 # df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
 		    
@@ -117,3 +140,4 @@ conn = sqlite3.connect('occ-warehouse.sqlite')
 # Write first DataFrame to SQLite database
 df1.to_sql(name = 'OCCFilingsHQ', con = conn, if_exists = 'append', index = False)
 
+print("Success")
