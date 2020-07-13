@@ -1,19 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-06-08,Business Combinations,2020-SO-Combination-313656, , , , , ,2020-04-04,NA,"CenterState Bank, NA"
-Approved,2020-06-08,Relocation,2020-SO-Relocation-314557,Gaslight Branch,1873 WEST FRANK STREET,LUFKIN,TX,Angelina,2020-06-04,NA,"Commercial Bank of Texas, NA"
-Approved,2020-06-09,Subsidiaries & Equities,2020-LB-Subs&Equities-314642, , , , , , ,NA,Huntington NB
-Approved,2020-06-09,Relocation,2020-CE-Relocation-314556,Columbus Main Branch,501 Washington Street,Columbus,IN,Bartholomew,2020-06-05,"(39.203614, -85.921024, 0.0)",Old NB
-Approved,2020-06-09,Branch Establishment,2020-SO-BranchNew-314377,Community National Bank,12509 Quaker Avenue,Lubbock,TX,Lubbock,2020-06-05,"(33.48191810437037, -101.9048364956922, 0.0)",Community NB
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314433,Doylestown,NWC North Main Street and Spruce Street,Doylestown,PA,Bucks,2020-06-05,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314438,Guilderland,NEC Western Avenue and New Kamer Road,Guilderland,NY,Albany,2020-06-05,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-WE-BranchNew-314457,Jordan Downs,9901 South Alameda Street,Los Angeles,CA,Los Angeles,2020-06-03,"(34.0439189, -118.2380919, 0.0)","CIT Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314349,New Albany,5438 N Hamilton Road,Columbus,OH,Franklin,2020-05-30,"(40.1038395, -82.8471289, 0.0)","Bank of America, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314432,Portsmouth,SEC Woodbury Avenue and Commerce Way,Portsmouth,NH,Rockingham,2020-06-05,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314435,Saint Charles,SEC Zumbehl Road and Regency Parkway,Saint Charles,MO,St Charles,2020-06-05,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314434,Tualatin Sherwood,SWC SW Tualatin Sherwood Road and SW Boones Ferry Road,Tualatin,OR,Washington,2020-06-05,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314348,Village at the Peaks,1246 S. Hover St.,Longmont,CO,Boulder,2020-05-29,"(40.18008627513215, -105.13079107308721, 0.0)","Bank of America, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314299,West End BC,656 South Main Street,Greenville,SC,Greenville,2020-06-05,"(34.793443626030175, -82.31414192751248, 0.0)","Fifth Third Bank, NA"
-Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314436,Wethersfield,SWC Mill Street and Silas Deane Highway,Wethersfield,CT,Hartford,2020-06-05,NA,"JPMorgan Chase Bank, NA"
 Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313725,Alamance Crossing,1796 GLIDEWELL DRIVE,BURLINGTON,NC,Alamance, ,"(36.06838183020602, -79.51784719784467, 0.0)","Wells Fargo Bank, N.A."
 Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313720,Citizens Banking Center,1641 TENNESSEE AVENUE,DALHART,TX,Hartley, ,NA,"Wells Fargo Bank, N.A."
 Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313700,East Portland,310 S. EAST TAYLOR,PORTLAND,OR,Multnomah, ,NA,"Wells Fargo Bank, N.A."
@@ -79,3 +64,5 @@ Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314704,Midtown Broadw
 Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314793,Mount Pleasant Muhlenbergia Drive,"1135 Muhlenbergia Drive, Suite 102",Mount Pleasant,SC,Charleston,2020-07-05,NA,"TD Bank, NA"
 Deleted,2020-07-08,Branch Closings,2020-NE-BranchClosing-314980,Canal,93 CANAL ST,NEW YORK,NY,New York, ,"(40.7156017, -73.99361103742311, 0.0)",Valley NB
 Withdrawn,2020-07-08,Branch Establishment,2020-LB-BranchNew-314997,University of Minnesota,612 Washington Ave SE,Minneapolis,MN,Hennepin,2020-07-19,"(44.97358571428572, -93.22997753061225, 0.0)","Wells Fargo Bank, N.A."
+Approved,2020-07-10,Branch Establishment,2020-LB-BranchNew-314826,Commons at Southtowne,10495 S. State St.,Sandy,UT,Salt Lake,2020-07-09,"(40.56092716657692, -111.89068717400762, 0.0)","Bank of America, NA"
+Approved,2020-07-10,Relocation,2020-LB-Relocation-314970,Germantown,5500 Germantown Avenue,Philadelphia,PA,Philadelphia,2020-07-02,"(40.034374, -75.172903, 0.0)","Citizens Bank, NA"
