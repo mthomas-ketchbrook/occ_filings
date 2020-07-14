@@ -1,21 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313725,Alamance Crossing,1796 GLIDEWELL DRIVE,BURLINGTON,NC,Alamance, ,"(36.06838183020602, -79.51784719784467, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313720,Citizens Banking Center,1641 TENNESSEE AVENUE,DALHART,TX,Hartley, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313700,East Portland,310 S. EAST TAYLOR,PORTLAND,OR,Multnomah, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313731,Imperial Point Office,6245 NORTH FEDERAL HIGHWAY,FORT LAUDERDALE,FL,Broward, ,"(26.124338, -80.1372619, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313703,Lakehills Office,FM 1283 AT PARK ROAD 37,LAKEHILLS,TX,Bandera, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313702,Lancaster Office,"LANCASTER MALL, 831 LANCASTER DRIVE",SALEM,OR,Marion, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313699,North Temple,1955 WEST NORTH TEMPLE,SALT LAKE CITY,UT,Salt Lake, ,"(40.7710812, -111.946421425, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313719,Orangethorpe Branch,"1661 NORTH RAYMOND, SUITE 102",ANAHEIM,CA,Orange, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313723,Riverside,803 LOMAX STREET,JACKSONVILLE,FL,Duval, ,"(30.31364319282767, -81.68034423219434, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-314280,The Matador,18111 NORDHOFF STREET,NORTHRIDGE,CA,Los Angeles, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313704,Washington Twp.,500 HURFFVILLE-CROSS KEYS RD.,SEWELL,NJ,Gloucester, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313732,Whitehouse Office,416 ROUTE 22,WHITEHOUSE STATION,NJ,Hunterdon, ,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313718,Yale & Monaco Branch,6460 EAST YALE AVENUE,DENVER,CO,Denver, ,"(39.6659236, -104.9139731, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313660,Bismarck Ar,6677 HIGHWAY 7,BISMARCK,AR,Hot Spring, ,NA,U.S. Bank NA
-Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313659,Northtown WA,123 E Queen Ave,Spokane,WA,Spokane, ,"(47.704366524702685, -117.40806534767228, 0.0)",U.S. Bank NA
-Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Aurora Banking Center,444 SOUTH RINKER,AURORA,MO,Lawrence, ,NA,Community NB
-Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Messenger Service,901 HIGHWAY 60,MONETT,MO,Barry, ,NA,Community NB
 Approved,2020-06-15,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
 Approved,2020-06-16,Conversions,2020-CE-Conversion-314328, , , , , , ,NA,Mid Central FSB
 Approved,2020-06-16,Relocation,2020-LB-Relocation-314542,32nd and Park Avenue Branch,475 PARK AVENUE SOUTH,NEW YORK,NY,New York,2020-06-14,"(40.7453743, -73.9822453, 0.0)","TD Bank, NA"
@@ -66,3 +49,6 @@ Deleted,2020-07-08,Branch Closings,2020-NE-BranchClosing-314980,Canal,93 CANAL S
 Withdrawn,2020-07-08,Branch Establishment,2020-LB-BranchNew-314997,University of Minnesota,612 Washington Ave SE,Minneapolis,MN,Hennepin,2020-07-19,"(44.97358571428572, -93.22997753061225, 0.0)","Wells Fargo Bank, N.A."
 Approved,2020-07-10,Branch Establishment,2020-LB-BranchNew-314826,Commons at Southtowne,10495 S. State St.,Sandy,UT,Salt Lake,2020-07-09,"(40.56092716657692, -111.89068717400762, 0.0)","Bank of America, NA"
 Approved,2020-07-10,Relocation,2020-LB-Relocation-314970,Germantown,5500 Germantown Avenue,Philadelphia,PA,Philadelphia,2020-07-02,"(40.034374, -75.172903, 0.0)","Citizens Bank, NA"
+Consummated/Effective,2020-07-13,Relocation,2020-CE-Relocation-313120,Colonial Plaza Office,401 EAST MAIN STREET,CANFIELD,OH,Mahoning,2020-03-10,"(41.024654, -80.749574, 0.0)",Farmers' NB of Canfield
+Approved,2020-07-13,Branch Establishment,2020-SO-BranchNew-314816,El Paso First National Bank Texas,"501 Executive Center, Suite 101",El Paso,TX,El Paso,2020-07-11,NA,First NB Texas
+Consummated/Effective,2020-07-13,Branch Establishment,2019-NE-BranchNew-310265,Nineteenth Street Branch,900 19th Street NW,Washington,DC,District of Columbia,2019-09-05,"(38.9016624, -77.0438689, 0.0)",First NB of Pennsylvania
