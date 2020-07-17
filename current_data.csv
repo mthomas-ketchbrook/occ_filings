@@ -1,5 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-06-15,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
 Approved,2020-06-16,Conversions,2020-CE-Conversion-314328, , , , , , ,NA,Mid Central FSB
 Approved,2020-06-16,Relocation,2020-LB-Relocation-314542,32nd and Park Avenue Branch,475 PARK AVENUE SOUTH,NEW YORK,NY,New York,2020-06-14,"(40.7453743, -73.9822453, 0.0)","TD Bank, NA"
 Approved,2020-06-16,Relocation,2020-LB-Relocation-314606,Beacon,364 MAIN STREET,BEACON,NY,Dutchess,2020-06-04,"(41.5040443, -73.9678195, 0.0)","Citizens Bank, NA"
@@ -62,3 +61,6 @@ Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314255,Fo
 Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314256,Great Falls Downtown Motor Bank,200 3RD AVENUE NORTH,GREAT FALLS,MT,Cascade, ,"(47.508539, -111.30408, 0.0)","Wells Fargo Bank, N.A."
 Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314254,Gulfport,2001 49TH STREET SOUTH,GULFPORT,FL,Pinellas, ,"(27.751027151515153, -82.69979745454546, 0.0)","Wells Fargo Bank, N.A."
 Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-313729,Penn Valley,17446 PENN VALLEY DRIVE,PENN VALLEY,CA,Nevada, ,"(39.20012, -121.2227517, 0.0)","Wells Fargo Bank, N.A."
+Approved,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281, , , , , , ,NA,Liberty NB
+Consummated/Effective,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281, , , , , , ,NA,Liberty NB
+Approved,2020-07-16,Branch Establishment,2020-SO-BranchNew-313067,Winter Park Branch,862 South Orlando Avenue,Winter Park,FL,Orange,2020-03-06,NA,"Axiom Bank, NA"
