@@ -1,12 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-06-17,Relocation,2020-LB-Relocation-314731,50th & Broadway Branch,1633 BROADWAY,NEW YORK,NY,New York,2020-06-16,"(40.762093, -73.98465589588142, 0.0)","TD Bank, NA"
-Approved,2020-06-17,Branch Establishment,2020-LB-BranchNew-314539,Hamburg Place,1808 Alysheba Way,Lexington,KY,Fayette,2020-06-14,"(38.016811849999996, -84.4202765130732, 0.0)","Bank of America, NA"
-Approved,2020-06-17,Relocation,2020-LB-Relocation-314607,North Haven,127 WASHINGTON AVE.,HAMDEN,CT,New Haven,2020-06-05,"(41.386682, -72.898101, 0.0)","Citizens Bank, NA"
-Approved,2020-06-18,Business Combinations,2020-CE-Combination-314530, , , , , ,2020-06-10,NA,First NB of Waterloo
-Approved,2020-06-18,Relocation,2020-CE-Relocation-313285,Clayton Branch,"225 South Meramec Avenue, Suite 302",Clayton,MO,St Louis,2020-06-13,NA,"First Mid Bank & Trust, NA"
-Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-313911,Lexington Vine Street,301 EAST MAIN STREET,LEXINGTON,KY,Fayette, ,"(38.0433118, -84.4930428, 0.0)",PNC Bank NA
-Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-312652,Roanoke Rapids,1001 Hamilton St,Roanoke Rapids,NC,Halifax, ,"(36.454573, -77.656654, 0.0)",PNC Bank NA
-Withdrawn,2020-06-19,Branch Establishment,2018-LB-BranchNew-305351,Shaw Florida Avenue and 7th Street NW,NEC Georgia Avenue NW and Florida Avenue NW,Washington,DC,District of Columbia,2018-10-19,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-23,Branch Establishment,2020-LB-BranchNew-314600,University and Lorraine,SEC University Parkway and Lorraine Road,Lakewood Ranch,FL,Sarasota,2020-06-19,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-24,Branch Establishment,2020-SO-BranchNew-314615,First American National bank,105 South Main Street,Amory,MS,Monroe,2020-06-19,"(33.98435778567897, -88.48830730384594, 0.0)",First American Natl Bank
 Withdrawn,2020-06-25,Branch Establishment,2019-LB-BranchNew-307380,Clarksville,NEC Clarksville Pike and Great Star Drive,Clarksville,MD,Howard,2019-02-28,NA,"JPMorgan Chase Bank, NA"
@@ -59,3 +51,5 @@ Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314893,East 9th Stree
 Approved,2020-07-17,Relocation,2020-CE-Relocation-314819,"Jackson County Banking Center, VCNB Financial Family","920 Veterans Drive, Suite E",Jackson,OH,Jackson,2020-07-16,NA,The Vinton County National Bank
 Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314931,Norristown,SWC West Main Street and Hamilton Street,Norristown,PA,Montgomery,2020-07-16,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314973,Prices Corner Shopping Center,SEC Kirkwood Hwy aka Hwy 41 and Albertson Blvd,Wilmington,DE,New Castle,2020-07-16,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-07-20,Branch Establishment,2020-SO-BranchNew-315345,Cherokee Branch,105 North Grand Avenue,Cherokee,OK,Alfalfa,2020-07-04,"(36.75793035341513, -98.3572000216868, 0.0)","BancCentral, NA"
+Approved,2020-07-20,Branch Establishment,2020-LB-BranchNew-314982,PWM Kansas City,4600 Madison Avenue,Kansas City,MO,Jackson,2020-07-17,"(39.04454765, -94.5980751784337, 0.0)",U.S. Bank NA
