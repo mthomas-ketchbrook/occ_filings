@@ -1,5 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-06-23,Branch Establishment,2020-LB-BranchNew-314600,University and Lorraine,SEC University Parkway and Lorraine Road,Lakewood Ranch,FL,Sarasota,2020-06-19,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-24,Branch Establishment,2020-SO-BranchNew-314615,First American National bank,105 South Main Street,Amory,MS,Monroe,2020-06-19,"(33.98435778567897, -88.48830730384594, 0.0)",First American Natl Bank
 Withdrawn,2020-06-25,Branch Establishment,2019-LB-BranchNew-307380,Clarksville,NEC Clarksville Pike and Great Star Drive,Clarksville,MD,Howard,2019-02-28,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-06-25,Relocation,2020-WE-Relocation-314647,Downtown Office,1600 4TH AVENUE,ROCK ISLAND,IL,Rock Island, ,"(41.507579, -90.515352, 0.0)",American Bank & Tr Co NA
@@ -67,3 +66,4 @@ Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315289, , , , 
 Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315290, , , , , , ,NA,"Fifth Third Bank, NA"
 Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314956,Prosperity Church,5920 Highlands Shoppes Dr,Charlotte,NC,Mecklenburg,2020-07-17,NA,"Wells Fargo Bank, N.A."
 Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314951,The Shoppes at Kingsgate,1319 Kingwood Dr,Kingwood,TX,Harris,2020-07-17,"(30.049351548855306, -95.23374993066423, 0.0)","Wells Fargo Bank, N.A."
+Consummated/Effective,2020-07-24,Branch Closings,2020-LB-BranchClosing-314212,South Park Branch,2777 SOUTH PARK ROAD,BETHEL PARK,PA,Allegheny, ,"(40.32774773676558, -80.03326006946001, 0.0)",PNC Bank NA
