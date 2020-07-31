@@ -1,6 +1,4 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Consummated/Effective,2020-06-29,Business Combinations,2020-CE-Combination-314530, , , , , ,2020-06-10,NA,First NB of Waterloo
-Deleted,2020-06-29,Branch Closings,2020-CE-BranchClosing-315032,Post Oak Crossing Branch,3401 HIGHWAY 1417,SHERMAN,TX,Grayson, ,NA,First Texoma NB
 Approved,2020-06-30,Branch Establishment,2020-LB-BranchNew-314742,Moorestown W Main Street,SWC West Main Street and North Close,Moorestown,NJ,Burlington,2020-06-27,NA,"JPMorgan Chase Bank, NA"
 Approved,2020-07-01,Business Combinations,2020-NE-Combination-314690, , , , , ,2020-05-19,NA,"Patriot Bank, NA"
 Approved,2020-07-02,Relocation,2020-CE-Relocation-314655, , , , , ,2020-06-27,NA,First NB of Le Center
@@ -72,3 +70,4 @@ Consummated/Effective,2020-07-28,Relocation,2018-SO-Relocation-304309,First Nati
 Approved,2020-07-29,New Bank Charter,2020-SO-Charter-314136,"Agility Bank, NA",2222 North Shepherd,Houston,TX, ,2020-05-03,NA,"Agility Bank, NA"
 Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-308248,Flatiron Branch,71 Fifth Avenue,New York,NY,New York,2019-05-01,"(43.058057, -74.335753, 0.0)",City NB
 Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-307848,Park Avenue South Branch,440 Park Avenue South,New York,NY,New York,2019-04-24,"(40.744405, -73.983524, 0.0)",City NB
+Approved,2020-07-30,Relocation,2020-NE-Relocation-314979,Canal,93 CANAL ST,NEW YORK,NY,New York,2020-07-23,"(40.7156017, -73.99361103742311, 0.0)",Valley NB
