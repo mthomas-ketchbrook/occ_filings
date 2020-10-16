@@ -1,0 +1,1306 @@
+Action,Date,Type,ApplicationNumber,BankName,Location,City,State,County,EndCmtPd
+Receipt,2020-05-01,Branch Closings,2020-LB-BranchClosing-314372,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-05-01,Branch Establishment,2020-SO-BranchNew-314377,Community NB,500 West Illinois,Midland,TX,Midland,2020-06-05
+Consummated/Effective,2020-05-01,Business Combinations,2020-NE-Combination-313021,"Evans Bank, N.A.",8599 Erie Rd,Angola,NY,Erie,2020-02-27
+Receipt,2020-05-01,Branch Establishment,2020-CE-BranchNew-314371,First Citizens NB of Upper Sandusky,100 North Sandusky,Upper Sandusky,OH,Wyandot,2020-06-07
+Consummated/Effective,2020-05-01,Branch Closings,2020-NE-BranchClosing-313031,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-01,Relocation,2019-NE-Relocation-311576,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax,2019-11-20
+Approved,2020-05-01,Relocation,2020-CE-Relocation-314228,"Lake Forest Bank & TR Company, NA",727 North Bank Lane,Lake Forest,IL,Lake,2020-04-26
+Receipt,2020-05-01,Branch Closings,2020-NE-BranchClosing-314382,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-05-01,Branch Closings,2020-LB-BranchClosing-312644,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-04,Branch Establishment,2020-LB-BranchNew-313123,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-03-08
+Consummated/Effective,2020-05-04,Branch Closings,2020-SO-BranchClosing-314486,Fifth Dist Svg Bk,4000 General Degaulle Dr,New Orleans,LA,Orleans, 
+Consummated/Effective,2020-05-04,Branch Establishment,2020-SO-BranchNew-314961,Fifth Dist Svg Bk,4000 General Degaulle Dr,New Orleans,LA,Orleans, 
+Approved,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-04,Subsidiaries & Equities,2020-LB-Subs&Equities-314241,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-05-04,Branch Closings,2020-SO-BranchClosing-314425,Grand Bk For Svg FSB,204 Westover Drive,Hattiesburg,MS,Greene, 
+Approved,2020-05-04,Branch Establishment,2020-LB-BranchNew-314159,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-03
+Receipt,2020-05-04,Branch Establishment,2020-LB-BranchNew-314387,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-31
+Receipt,2020-05-04,Branch Establishment,2020-LB-BranchNew-314391,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-03
+Receipt,2020-05-04,Branch Establishment,2020-LB-BranchNew-314392,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-29
+Receipt,2020-05-04,Subsidiaries & Equities,2020-WE-Subs&Equities-314388,"MetaBank, NA",5501 South Broadband Lane,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-04,Relocation,2018-LB-Relocation-303745,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2018-06-29
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313310,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313316,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313318,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313320,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313322,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313325,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313331,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313333,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313337,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313342,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313344,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313347,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313348,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313353,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313355,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313375,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Withdrawn,2020-05-05,Branch Closings,2020-LB-BranchClosing-313376,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-05,Branch Closings,2020-LB-BranchClosing-314401,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-05-05,Relocation,2020-HQ-Relocation-313136,ETHIC,579 Boylston Street,Boston,MA,Suffolk,2020-03-07
+Consummated/Effective,2020-05-05,Relocation,2020-HQ-Relocation-313145,ETHIC,579 Boylston Street,Boston,MA,Suffolk,2020-03-07
+Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314144,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-04-29
+Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314145,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-01
+Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314146,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-01
+Approved,2020-05-05,Branch Establishment,2020-LB-BranchNew-314147,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-02
+Receipt,2020-05-05,Branch Closings,2020-LB-BranchClosing-314399,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle, 
+Receipt,2020-05-05,Branch Closings,2020-LB-BranchClosing-314402,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314403,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314404,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314405,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314406,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314407,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314409,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314411,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314412,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314413,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314414,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314415,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314416,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314418,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314419,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314420,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314421,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314422,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314423,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-05,Branch Closings,2020-CE-BranchClosing-314424,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Approved,2020-05-05,Relocation,2020-LB-Relocation-314081,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-03
+Receipt,2020-05-06,Branch Closings,2020-SO-BranchClosing-314605,"BankUnited, NA",14817 Oak Lane,Miami Lakes,FL,Miami-Dade, 
+Receipt,2020-05-06,Branch Establishment,2020-LB-BranchNew-314299,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-06-05
+Approved,2020-05-06,Branch Establishment,2020-WE-BranchNew-313955,Hilltop NB,300 Country Club Road,Casper,WY,Natrona,2020-04-26
+Receipt,2020-05-06,Branch Closings,2020-LB-BranchClosing-314431,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-06,Subsidiaries & Equities,2020-SO-Subs&Equities-314598,Yoakum NB,301 W. Grand Avenue,Yoakum,TX,Dewitt, 
+Receipt,2020-05-07,Subsidiaries & Equities,2020-LB-Subs&Equities-314448,Citibank NA,5800 S Corporate Place,Sioux Falls,SD,Lincoln, 
+Receipt,2020-05-07,Branch Closings,2020-LB-BranchClosing-314452,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-05-07,Relocation,2020-LB-Relocation-314446,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-05-22
+Receipt,2020-05-07,Relocation,2020-LB-Relocation-314449,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-06
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314432,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314433,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314434,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314435,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314436,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Receipt,2020-05-07,Branch Establishment,2020-LB-BranchNew-314438,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Consummated/Effective,2020-05-07,Branch Closings,2020-CE-BranchClosing-313140,LCNB NB,2 North Broadway,Lebanon,OH,Warren, 
+Receipt,2020-05-08,Subsidiaries & Equities,2020-LB-Subs&Equities-314456,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-08,Branch Establishment,2020-WE-BranchNew-314457,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles,2020-06-03
+Receipt,2020-05-08,Subsidiaries & Equities,2020-HQ-Subs&Equities-314463,ETHIC,579 Boylston Street,Boston,MA,Suffolk, 
+Withdrawn,2020-05-08,Branch Establishment,2020-CE-BranchNew-314371,First Citizens NB of Upper Sandusky,100 North Sandusky,Upper Sandusky,OH,Wyandot,2020-06-07
+Consummated/Effective,2020-05-08,Branch Closings,2020-SO-BranchClosing-314603,First NB of Hughes Springs,505 E. First,Hughes Springs,TX,Cass, 
+Consummated/Effective,2020-05-08,Branch Closings,2020-NE-BranchClosing-313059,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-05-08,Branch Closings,2020-NE-BranchClosing-313121,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Withdrawn,2020-05-10,5.53 Substantial Change in Assets,2020-HQ-5.53-313872,Home Fed Bk of Hollywood,900 North Federal Highway,Hallandale Beach,FL,Broward, 
+Consummated/Effective,2020-05-11,Branch Establishment,2018-NE-BranchNew-304998,Canandaigua NB & TR CO,72 South Main Street,Canandaigua,NY,Ontario,2018-09-29
+Receipt,2020-05-11,Relocation,2020-LB-Relocation-314470,Citibank NA,5800 S Corporate Place,Sioux Falls,SD,Lincoln,2020-05-26
+Consummated/Effective,2020-05-11,Relocation,2020-SO-Relocation-312842,"Classic Bank, N. A.",102 N. Houston,Cameron,TX,Milam,2020-02-13
+Approved,2020-05-11,Business Combinations,2020-NE-Combination-311909,"Community Bank, NA",45-49 Court Street,Canton,NY,St. Lawrence,2020-02-02
+Receipt,2020-05-11,Branch Closings,2020-SO-BranchClosing-314486,Fifth Dist Svg Bk,4000 General Degaulle Dr,New Orleans,LA,Orleans, 
+Approved,2020-05-11,Branch Establishment,2020-SO-BranchNew-312831,First Liberty NB,1900 Sam Houston Avenue,Liberty,TX,Liberty,2020-05-07
+Receipt,2020-05-11,Branch Closings,2020-LB-BranchClosing-314469,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-05-11,Business Combinations,2020-CE-Combination-314287,Merchants Bank NA,102 Plaza East,Winona,MN,Winona,2020-05-08
+Receipt,2020-05-11,Relocation,2020-LB-Relocation-314476,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-27
+Consummated/Effective,2020-05-12,Branch Closings,2019-LB-BranchClosing-311296,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-05-12,Subsidiaries & Equities,2020-LB-Subs&Equities-314478,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-12,Subsidiaries & Equities,2020-LB-Subs&Equities-314479,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Approved,2020-05-12,Relocation,2020-HQ-Relocation-313136,ETHIC,579 Boylston Street,Boston,MA,Suffolk,2020-03-07
+Approved,2020-05-12,Relocation,2020-HQ-Relocation-313145,ETHIC,579 Boylston Street,Boston,MA,Suffolk,2020-03-07
+Receipt,2020-05-12,Business Combinations,2020-CE-Combination-314530,First NB of Waterloo,228 South Main Street,Waterloo,IL,Monroe,2020-06-10
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314198,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-08
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314199,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-08
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314215,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314221,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314222,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-09
+Approved,2020-05-12,Branch Establishment,2020-LB-BranchNew-314262,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-08
+Receipt,2020-05-12,Business Combinations,2020-NE-Combination-314690,"Patriot Bank, NA",999 Bedford Street,Stamford,CT,Fairfield,2020-05-19
+Receipt,2020-05-13,215a-3: Mergers with Non-Bank Affiliates,2020-NE-215a3-314513,Computershare Tr Co NA,150 Royall Street,Canton,MA,Norfolk, 
+Receipt,2020-05-13,Business Combinations,2020-CE-Combination-314103,"First Mid Bank & Trust, NA",1515 Charleston Avenue,Mattoon,IL,Coles,2020-06-12
+Receipt,2020-05-13,Branch Establishment,2020-LB-BranchNew-314507,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Receipt,2020-05-13,Branch Establishment,2020-LB-BranchNew-314508,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Approved,2020-05-13,Relocation,2020-LB-Relocation-314152,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga,2020-05-05
+Approved,2020-05-13,Business Combinations,2020-LB-Combination-314186,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-05-08
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313187,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313189,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313190,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313191,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313196,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313197,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313198,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-313201,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-314510,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-13,Branch Closings,2020-LB-BranchClosing-314510,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-13,Branch Closings,2020-LB-BranchClosing-314515,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-13,Branch Closings,2020-LB-BranchClosing-314515,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-13,Branch Closings,2020-LB-BranchClosing-314516,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Approved,2020-05-13,Relocation,2020-LB-Relocation-314205,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-11
+Receipt,2020-05-14,Change in Bank Control,2020-NE-CBCA-314526,"Blackrock Institutional Tr Co., N.A.",400 Howard Street,San Francisco,CA,San Francisco, 
+Consummated/Effective,2020-05-14,Subsidiaries & Equities,2020-LB-Subs&Equities-314645,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Approved,2020-05-14,Business Combinations,2020-SO-Combination-313656,"CenterState Bank, NA",1101 First Street South,Winter Haven,FL,Polk,2020-04-04
+Receipt,2020-05-14,Branch Closings,2020-LB-BranchClosing-314536,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-05-14,Relocation,2020-LB-Relocation-314533,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-05-29
+Receipt,2020-05-14,Relocation,2020-LB-Relocation-314535,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-13
+Withdrawn,2020-05-14,Relocation,2020-LB-Relocation-314535,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-13
+Approved,2020-05-14,Subsidiaries & Equities,2020-HQ-Subs&Equities-314463,ETHIC,579 Boylston Street,Boston,MA,Suffolk, 
+Consummated/Effective,2020-05-14,Subsidiaries & Equities,2020-HQ-Subs&Equities-314463,ETHIC,579 Boylston Street,Boston,MA,Suffolk, 
+Approved,2020-05-14,Business Combinations,2020-CE-Combination-314183,Hiawatha NB,N1555 770th Street & Highway 35,Hager City,WI,Pierce,2020-05-09
+Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313221,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-14,Branch Establishment,2020-LB-BranchNew-314454,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle,2020-06-13
+Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313273,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-14,Branch Closings,2020-LB-BranchClosing-313274,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-15,Business Combinations,2019-CE-Combination-312523,"Bank First, NA",402 North 8th Street,Manitowoc,WI,Manitowoc,2020-02-01
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314244,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-13
+Receipt,2020-05-15,Branch Establishment,2020-LB-BranchNew-314539,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-06-14
+Approved,2020-05-15,Change in Bank Control,2020-NE-CBCA-314526,"Blackrock Institutional Tr Co., N.A.",400 Howard Street,San Francisco,CA,San Francisco, 
+Consummated/Effective,2020-05-15,Change in Bank Control,2020-NE-CBCA-314526,"Blackrock Institutional Tr Co., N.A.",400 Howard Street,San Francisco,CA,San Francisco, 
+Consummated/Effective,2020-05-15,Subsidiaries & Equities,2020-LB-Subs&Equities-314643,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-314641,City NB of West Virginia,"3601 Mccorkle Avenue, S.E.",Charleston,WV,Kanawha, 
+Consummated/Effective,2020-05-15,Business Combinations,2020-SO-Combination-313794,"Commercial Bank of Texas, NA",215 E. Main Street,Nacogdoches,TX,Nacogdoches,2020-04-16
+Consummated/Effective,2020-05-15,5.53 Substantial Change in Assets,2020-HQ-5.53-313605,"First Citizens Bk of Polson, NA",213 First Street West,Polson,MT,Lake, 
+Consummated/Effective,2020-05-15,Business Combinations,2019-WE-Combination-312496,"Interim BOSC Bank, NA","12265 El Camino Real, Suite 100",San Diego,CA,San Diego,2020-02-01
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314259,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-14
+Approved,2020-05-15,Branch Establishment,2020-LB-BranchNew-314260,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-14
+Receipt,2020-05-15,Branch Establishment,2020-LB-BranchNew-314540,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Receipt,2020-05-15,Branch Establishment,2020-LB-BranchNew-314541,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-13
+Consummated/Effective,2020-05-15,Business Combinations,2020-CE-Combination-314287,Merchants Bank NA,102 Plaza East,Winona,MN,Winona,2020-05-08
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313205,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313217,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313219,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313236,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313237,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313238,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313239,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313241,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313242,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313243,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313244,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313245,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-NE-BranchClosing-313246,"OceanFirst Bank, NA",975 Hooper Avenue,Toms River,NJ,Ocean, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313147,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313148,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313154,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313155,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313156,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313157,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313158,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313159,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313160,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313161,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313166,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313167,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313168,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313169,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313170,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313171,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313218,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-LB-BranchClosing-313220,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314488,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314491,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314544,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314545,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314546,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314547,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-15,Branch Closings,2020-CE-BranchClosing-314548,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-15,Relocation,2020-LB-Relocation-314542,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-06-14
+Receipt,2020-05-15,Branch Establishment,2020-NE-BranchNew-314537,Virginia NB,222 East Main Street,Charlottesville,VA,Charlottesville City,2020-06-15
+Consummated/Effective,2020-05-18,Relocation,2020-LB-Relocation-312643,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-02-07
+Consummated/Effective,2020-05-18,Business Combinations,2019-CE-Combination-311833,FCN Bank NA,501 Main Street,Brookville,IN,Franklin,2019-12-13
+Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-313685,First NB of Kentucky,604 Highland Avenue,Carrollton,KY,Carroll,2020-05-15
+Consummated/Effective,2020-05-18,Branch Establishment,2019-CE-BranchNew-310370,Old NB,1 Main Street,Evansville,IN,Vanderburgh,2019-09-20
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314488,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314491,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314544,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314545,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314546,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314547,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-05-18,Branch Closings,2020-CE-BranchClosing-314548,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-18,Branch Closings,2019-LB-BranchClosing-307926,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-05-18,Relocation,2019-LB-Relocation-307895,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2019-04-05
+Approved,2020-05-18,Branch Establishment,2020-CE-BranchNew-314230,"Wintrust Bank, NA",231 South LaSalle Street,Chicago,IL,Cook,2020-05-11
+Receipt,2020-05-18,Subsidiaries & Equities,2020-SO-Subs&Equities-314598,Yoakum NB,301 W. Grand Avenue,Yoakum,TX,Dewitt, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313103,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313319,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313323,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313326,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313327,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313334,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313335,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313338,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313339,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313340,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313341,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-19,Relocation,2020-SO-Relocation-314557,"Commercial Bank of Texas, NA",215 E. Main Street,Nacogdoches,TX,Nacogdoches,2020-06-04
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313054,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-19,Branch Closings,2020-LB-BranchClosing-314565,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-05-19,Branch Establishment,2020-LB-BranchNew-314273,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-15
+Approved,2020-05-19,Branch Establishment,2020-LB-BranchNew-314274,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-15
+Approved,2020-05-19,215a-3: Mergers with Non-Bank Affiliates,2020-CE-215a3-314052,Neighborhood NB,45 North Union Street,Mora,MN,Kanabec, 
+Approved,2020-05-19,5.53 Substantial Change in Assets,2020-CE-5.53-314051,Neighborhood NB,45 North Union Street,Mora,MN,Kanabec, 
+Withdrawn,2020-05-19,Business Combinations,2020-CE-Combination-313492,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown,2020-04-03
+Approved,2020-05-19,Business Combinations,2020-CE-Combination-314178,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown,2020-05-08
+Receipt,2020-05-19,Relocation,2020-CE-Relocation-314556,Old NB,1 Main Street,Evansville,IN,Vanderburgh,2020-06-05
+Approved,2020-05-19,Relocation,2020-LB-Relocation-314223,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-17
+Receipt,2020-05-19,Branch Closings,2020-SO-BranchClosing-314599,Seacoast NB,815 Colorado Avenue,Stuart,FL,Martin, 
+Consummated/Effective,2020-05-19,Branch Closings,2020-LB-BranchClosing-313275,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Approved,2020-05-20,Branch Establishment,2020-LB-BranchNew-314265,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-16
+Approved,2020-05-20,Relocation,2020-LB-Relocation-314290,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-17
+Approved,2020-05-20,Relocation,2020-LB-Relocation-314293,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-17
+Consummated/Effective,2020-05-20,Branch Closings,2020-LB-BranchClosing-313328,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-20,Branch Closings,2020-LB-BranchClosing-313336,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-20,Branch Closings,2020-LB-BranchClosing-313345,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-20,Branch Establishment,2020-SO-BranchNew-314615,First American Natl Bank,1251 Curtis Drive,Iuka,MS,Tishomingo,2020-06-19
+Receipt,2020-05-20,Branch Establishment,2020-NE-BranchNew-314583,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2020-06-19
+Withdrawn,2020-05-20,Branch Establishment,2020-NE-BranchNew-314583,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2020-06-19
+Receipt,2020-05-20,Branch Establishment,2020-NE-BranchNew-314586,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2020-06-19
+Consummated/Effective,2020-05-21,Subsidiaries & Equities,2020-LB-Subs&Equities-314724,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-21,Subsidiaries & Equities,2020-WE-Subs&Equities-314762,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Consummated/Effective,2020-05-21,Subsidiaries & Equities,2020-WE-Subs&Equities-314763,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Receipt,2020-05-21,Relocation,2020-LB-Relocation-314606,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-04
+Receipt,2020-05-21,Relocation,2020-LB-Relocation-314607,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-05
+Receipt,2020-05-21,Relocation,2020-LB-Relocation-314611,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-19
+Receipt,2020-05-21,Subsidiaries & Equities,2020-LB-Subs&Equities-314642,Huntington NB,17 South High Street,Columbus,OH,Franklin, 
+Consummated/Effective,2020-05-21,Branch Closings,2019-LB-BranchClosing-312282,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313052,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313053,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313078,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313206,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313210,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-314656,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-21,Branch Establishment,2020-LB-BranchNew-314600,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-19
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313276,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-21,Branch Closings,2020-LB-BranchClosing-313277,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-05-22,Relocation,2020-WE-Relocation-314647,American Bank & Tr Co NA,4301 East 53rd Street,Davenport,IA,Scott, 
+Receipt,2020-05-22,Subsidiaries & Equities,2020-LB-Subs&Equities-314643,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-22,Subsidiaries & Equities,2020-LB-Subs&Equities-314645,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-05-22,Terminations,2020-CE-Termination-313608,Central FS & LA of Rolla,210 W 10th St,Rolla,MO,Phelps, 
+Receipt,2020-05-22,Branch Closings,2020-NE-BranchClosing-314641,City NB of West Virginia,"3601 Mccorkle Avenue, S.E.",Charleston,WV,Kanawha, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314613,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-05-22,Branch Establishment,2020-CE-BranchNew-314818,First NB of Le Center,10 West Minnesota Street,Le Center,MN,Le Sueur,2020-06-27
+Receipt,2020-05-22,Relocation,2020-CE-Relocation-314655,First NB of Le Center,10 West Minnesota Street,Le Center,MN,Le Sueur,2020-06-27
+Consummated/Effective,2020-05-22,Branch Establishment,2020-SO-BranchNew-312891,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-02-26
+Consummated/Effective,2020-05-22,Branch Closings,2020-LB-BranchClosing-314698,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-22,Branch Closings,2020-LB-BranchClosing-313385,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Consummated/Effective,2020-05-22,Branch Closings,2020-LB-BranchClosing-313664,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314617,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314618,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314619,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314620,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314621,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314623,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314624,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314625,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314626,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314627,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314628,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314629,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314630,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314631,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314632,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314633,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314635,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314636,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314637,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-CE-BranchClosing-314638,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313709,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313710,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313712,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313713,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313714,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313756,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313757,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313770,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313771,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313772,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-313773,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314184,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314185,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314187,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314188,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314189,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314191,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314192,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314193,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314194,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314213,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314214,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314521,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314523,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314559,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314561,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314567,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314568,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-05-22,Branch Closings,2020-LB-BranchClosing-314569,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314261,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-21
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314263,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-21
+Approved,2020-05-22,Branch Establishment,2020-LB-BranchNew-314264,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-21
+Consummated/Effective,2020-05-26,Branch Establishment,2019-LB-BranchNew-312154,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-01-10
+Consummated/Effective,2020-05-26,Branch Establishment,2020-LB-BranchNew-313441,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-03-28
+Approved,2020-05-26,Branch Establishment,2020-LB-BranchNew-314315,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-22
+Receipt,2020-05-26,Branch Establishment,2020-LB-BranchNew-314278,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-06-25
+Receipt,2020-05-26,Subsidiaries & Equities,2020-NE-Subs&Equities-314651,Home Loan Inv Bk FSB,"1 Home Loan Plaza, Suite 3",Warwick,RI,Kent, 
+Consummated/Effective,2020-05-26,Branch Closings,2020-LB-BranchClosing-313377,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-26,Branch Closings,2020-LB-BranchClosing-314656,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-26,Branch Establishment,2019-LB-BranchNew-309112,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-06-20
+Consummated/Effective,2020-05-26,Branch Closings,2020-LB-BranchClosing-313646,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314314,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-22
+Approved,2020-05-27,Relocation,2020-LB-Relocation-314446,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-05-22
+Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314306,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-05-24
+Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-312928,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-312930,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-313079,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-27,Branch Closings,2020-LB-BranchClosing-313380,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-27,Branch Closings,2020-LB-BranchClosing-314674,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-27,Branch Closings,2020-LB-BranchClosing-314675,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-05-27,Branch Establishment,2019-LB-BranchNew-308606,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-22
+Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314322,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-22
+Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314323,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-22
+Approved,2020-05-27,Branch Establishment,2020-LB-BranchNew-314324,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-22
+Receipt,2020-05-27,Branch Closings,2020-LB-BranchClosing-314679,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Approved,2020-05-27,Relocation,2020-LB-Relocation-314217,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-24
+Approved,2020-05-27,Relocation,2020-LB-Relocation-314295,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle,2020-05-24
+Receipt,2020-05-28,Branch Closings,2020-NE-BranchClosing-314518,American NB & TR CO,628 Main Street,Danville,VA,Danville City, 
+Approved,2020-05-28,Relocation,2020-LB-Relocation-314470,Citibank NA,5800 S Corporate Place,Sioux Falls,SD,Lincoln,2020-05-26
+Withdrawn,2020-05-28,New Bank Charter,2019-SO-Charter-310113,"Coastal Community Bank, NA",4601 Sheridan Street,Hollywood,FL, ,2019-08-12
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-312916,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-313422,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-05-28,Branch Closings,2020-WE-BranchClosing-314661,First NB of Omaha,1620 Dodge Street Stop 3198,Omaha,NE,Douglas, 
+Receipt,2020-05-28,Branch Closings,2020-WE-BranchClosing-314664,First NB of Omaha,1620 Dodge Street Stop 3198,Omaha,NE,Douglas, 
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-313378,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-28,Branch Closings,2020-LB-BranchClosing-314698,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-05-28,Branch Establishment,2020-LB-BranchNew-314686,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-25
+Receipt,2020-05-28,Branch Closings,2020-SO-BranchClosing-314782,NB of Commerce,1127 Tower Avenue,Superior,WI,Douglas, 
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-313278,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-313279,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-05-28,Branch Closings,2020-LB-BranchClosing-313575,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-05-28,Relocation,2020-LB-Relocation-314692,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-06-13
+Approved,2020-05-29,Branch Establishment,2020-LB-BranchNew-314334,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-27
+Consummated/Effective,2020-05-29,Branch Closings,2020-WE-BranchClosing-312950,"C3bank, NA","850 S. Coast Hwy 101, Suite 1",Encinitas,CA,San Diego, 
+Receipt,2020-05-29,Subsidiaries & Equities,2020-LB-Subs&Equities-314724,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-05-29,Branch Establishment,2020-LB-BranchNew-314707,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-28
+Receipt,2020-05-29,Relocation,2020-CE-Relocation-313285,"First Mid Bank & Trust, NA",1515 Charleston Avenue,Mattoon,IL,Coles,2020-06-13
+Receipt,2020-05-29,Branch Establishment,2020-SO-BranchNew-314733,First NB of Gilmer,201 North Wood Street,Gilmer,TX,Upshur,2020-07-02
+Receipt,2020-05-29,Branch Closings,2020-NE-BranchClosing-314718,First NB of Long Island,10 Glen Head Road,Glen Head,NY,Nassau, 
+Receipt,2020-05-29,Branch Closings,2020-NE-BranchClosing-314720,First NB of Long Island,10 Glen Head Road,Glen Head,NY,Nassau, 
+Consummated/Effective,2020-05-29,Branch Establishment,2020-SO-BranchNew-312660,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-02-16
+Consummated/Effective,2020-05-29,Subsidiaries & Equities,2020-SO-Subs&Equities-315033,First NB Texas,507 N. Gray,Killeen,TX,Bell, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313435,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313436,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313437,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313440,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313442,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313443,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313445,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313446,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313447,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313448,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313449,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313450,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313451,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313452,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313453,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313454,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313455,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313456,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313457,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313458,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313459,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313460,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313462,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313463,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313464,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313465,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313466,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313467,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313468,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313469,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313470,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313471,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313472,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313474,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313476,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313477,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313478,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313488,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313495,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313496,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313497,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313498,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313500,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313503,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313504,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313505,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313507,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313509,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313510,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313513,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313514,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313515,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313516,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313518,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313523,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313524,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313527,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313528,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313529,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313530,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313531,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313532,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313533,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313534,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313535,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313536,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313537,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313538,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313539,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313540,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313541,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313542,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313543,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313544,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313545,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-LB-BranchClosing-313546,HSBC Bank USA NA,1800 Tysons Boulevard,Tysons,VA,Fairfax, 
+Consummated/Effective,2020-05-29,Branch Closings,2020-WE-BranchClosing-313228,"Sunflower Bank, NA",1400 16th St.,Denver,CO,Denver, 
+Receipt,2020-05-29,Branch Establishment,2020-SO-BranchNew-312456,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-06-28
+Consummated/Effective,2020-05-31,Business Combinations,2019-WE-Combination-312218,"Bank of Southern California, NA","12265 El Camino Real, Suite 100",San Diego,CA,San Diego,2020-02-02
+Consummated/Effective,2020-06-01,215a-3: Mergers with Non-Bank Affiliates,2020-WE-215a3-314049,AMG National Tr Bank,"1155 Canyon Boulevard, Suite 310",Boulder,CO,Boulder, 
+Consummated/Effective,2020-06-01,Business Combinations,2020-WE-Combination-313711,AMG National Tr Bank,"1155 Canyon Boulevard, Suite 310",Boulder,CO,Boulder,2020-03-25
+Consummated/Effective,2020-06-01,Fiduciary Powers,2020-WE-Fiduciary-314933,AMG National Tr Bank,"1155 Canyon Boulevard, Suite 310",Boulder,CO,Boulder, 
+Consummated/Effective,2020-06-01,Business Combinations,2020-WE-Combination-313815,BATC NB,6295 Greenwood Plaza Blvd,Greenwood Village,CO,Arapahoe,2020-03-25
+Consummated/Effective,2020-06-01,Fiduciary Powers,2020-WE-Fiduciary-314286,BATC NB,6295 Greenwood Plaza Blvd,Greenwood Village,CO,Arapahoe, 
+Consummated/Effective,2020-06-01,New Bank Charter,2020-WE-Charter-313289,BATC NB,6295 Greenwood Plaza Blvd,Greenwood Village,CO, ,2020-03-19
+Receipt,2020-06-01,Subsidiaries & Equities,2020-WE-Subs&Equities-314762,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Receipt,2020-06-01,Subsidiaries & Equities,2020-WE-Subs&Equities-314763,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Consummated/Effective,2020-06-01,Relocation,2019-NE-Relocation-310670,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2019-09-28
+Consummated/Effective,2020-06-01,Relocation,2019-NE-Relocation-311229,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2019-11-06
+Consummated/Effective,2020-06-01,Subsidiaries & Equities,2020-SO-Subs&Equities-313508,First Federal Bank,4705 US Highway 90 West,Lake City,FL,Suwannee, 
+Consummated/Effective,2020-06-01,Branch Establishment,2019-NE-BranchNew-310386,"Fulton Bank, NA",One Penn Square P.O.Box 4887,Lancaster,PA,Lancaster,2019-08-30
+Consummated/Effective,2020-06-01,Terminations,2020-NE-Termination-313387,Grundy NB,20957 Riverside Drive,Grundy,VA,Buchanan, 
+Consummated/Effective,2020-06-01,Branch Establishment,2020-LB-BranchNew-314306,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-05-24
+Consummated/Effective,2020-06-01,Branch Closings,2020-LB-BranchClosing-313556,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-01,Branch Closings,2020-LB-BranchClosing-314744,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314387,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-31
+Approved,2020-06-01,Branch Establishment,2020-LB-BranchNew-314392,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-29
+Receipt,2020-06-01,Branch Establishment,2020-LB-BranchNew-314742,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-27
+Withdrawn,2020-06-01,Conversions,2020-NE-Conversion-313522,Mainstreet Bk,10089 Fairfax Boulevard,Fairfax,VA,Fairfax City, 
+Receipt,2020-06-01,Relocation,2020-LB-Relocation-314731,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-06-16
+Consummated/Effective,2020-06-01,Branch Establishment,2017-SO-BranchNew-301229,Texas NB,201 S. Texas,Mercedes,TX,Hidalgo,2018-02-02
+Receipt,2020-06-01,Branch Establishment,2020-SO-BranchNew-312457,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-07-01
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314266,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-20
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313598,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313599,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313600,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-314791,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314363,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-29
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314364,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-29
+Approved,2020-06-02,Branch Establishment,2020-LB-BranchNew-314367,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-05-30
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313640,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313643,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-06-02,Branch Closings,2020-LB-BranchClosing-313644,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Approved,2020-06-02,Business Combinations,2020-NE-Combination-314330,Webster Bank NA,137 Bank Street - Webster Plaza,Waterbury,CT,New Haven,2020-05-24
+Approved,2020-06-02,Relocation,2020-LB-Relocation-314476,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-27
+Receipt,2020-06-02,Subsidiaries & Equities,2020-WE-Subs&Equities-314752,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Receipt,2020-06-02,Subsidiaries & Equities,2020-WE-Subs&Equities-314753,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Receipt,2020-06-02,Subsidiaries & Equities,2020-WE-Subs&Equities-314754,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Receipt,2020-06-02,Subsidiaries & Equities,2020-WE-Subs&Equities-314779,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Receipt,2020-06-03,Branch Closings,2020-WE-BranchClosing-314770,"Bank of Southern California, NA","12265 El Camino Real, Suite 100",San Diego,CA,San Diego, 
+Receipt,2020-06-03,Branch Closings,2020-WE-BranchClosing-314773,"Bank of Southern California, NA","12265 El Camino Real, Suite 100",San Diego,CA,San Diego, 
+Receipt,2020-06-03,Branch Closings,2020-WE-BranchClosing-314775,"Bank of Southern California, NA","12265 El Camino Real, Suite 100",San Diego,CA,San Diego, 
+Receipt,2020-06-03,Relocation,2020-SO-Relocation-314846,Broadway NB,1177 N.E. Loop 410,San Antonio,TX,Bexar,2020-06-12
+Consummated/Effective,2020-06-03,Subsidiaries & Equities,2020-LB-Subs&Equities-314899,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-06-03,Subsidiaries & Equities,2020-LB-Subs&Equities-314900,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-06-03,Relocation,2020-WE-Relocation-314769,Capitol FSB,700 S Kansas Ave,Topeka,KS,Shawnee, 
+Receipt,2020-06-03,Relocation,2020-WE-Relocation-314769,Capitol FSB,700 S Kansas Ave,Topeka,KS,Shawnee, 
+Consummated/Effective,2020-06-03,Branch Closings,2020-LB-BranchClosing-313617,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-03,Branch Closings,2020-LB-BranchClosing-313618,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-03,Branch Closings,2020-LB-BranchClosing-313619,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-06-03,Relocation,2020-SO-Relocation-314785,"First Century Bank, NA",807 Dorsey Street,Gainesville,GA,Hall,2020-07-03
+Receipt,2020-06-03,Branch Closings,2020-SO-BranchClosing-314588,Great Plains NB,2017 West Third,Elk City,OK,Beckham, 
+Disapproved (CBCA),2020-06-04,Change in Bank Control,2020-NE-CBCA-314119,Bessemer Tr Co NA,"630 Fifth Avenue, 39th Floor",New York,NY,New York,2020-04-13
+Approved,2020-06-04,Relocation,2020-LB-Relocation-314533,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-05-29
+Receipt,2020-06-04,Branch Closings,2020-SO-BranchClosing-314786,"First Century Bank, NA",807 Dorsey Street,Gainesville,GA,Hall, 
+Consummated/Effective,2020-06-04,Branch Closings,2020-LB-BranchClosing-313601,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-04,Branch Closings,2020-LB-BranchClosing-313602,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-04,Branch Establishment,2020-LB-BranchNew-314391,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-03
+Receipt,2020-06-04,Branch Establishment,2020-LB-BranchNew-314774,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-02
+Consummated/Effective,2020-06-04,Branch Closings,2020-LB-BranchClosing-313645,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-06-04,Branch Establishment,2020-SO-BranchNew-312455,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-07-03
+Approved,2020-06-05,Federal Branch & Agency - Initial Establishment,2019-NE-FBA_InitialEst-310409, ,Simon Carmiggeltstraat 6-50,Amsterdam, , ,2019-07-26
+Receipt,2020-06-05,Branch Closings,2020-LB-BranchClosing-314792,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-06-05,Branch Closings,2020-LB-BranchClosing-314791,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-05,Branch Closings,2020-LB-BranchClosing-314958,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-05,New Bank Charter,2020-NE-Charter-314805,"NewBank, NA",XXX Street,Wilmington,DE, ,2020-08-01
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314696,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314704,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314741,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314756,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314757,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314759,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-06-05,Branch Establishment,2020-LB-BranchNew-314793,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-07-05
+Consummated/Effective,2020-06-08,Business Combinations,2020-SO-Combination-313656,"CenterState Bank, NA",1101 First Street South,Winter Haven,FL,Polk,2020-04-04
+Consummated/Effective,2020-06-08,Relocation,2019-NE-Relocation-311784,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2019-12-14
+Approved,2020-06-08,Relocation,2020-SO-Relocation-314557,"Commercial Bank of Texas, NA",215 E. Main Street,Nacogdoches,TX,Nacogdoches,2020-06-04
+Consummated/Effective,2020-06-08,Branch Closings,2020-LB-BranchClosing-312924,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-08,Branch Closings,2020-LB-BranchClosing-313208,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-08,Branch Closings,2020-LB-BranchClosing-314938,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-08,Branch Closings,2020-NE-BranchClosing-314806,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-06-08,Relocation,2019-NE-Relocation-307341,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle,2019-02-22
+Consummated/Effective,2020-06-08,Branch Closings,2020-LB-BranchClosing-314106,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-06-09,Branch Establishment,2019-SO-BranchNew-311619,"Austin Bank, Texas NA",200 East Commerce Street,Jacksonville,TX,Cherokee,2019-12-20
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314348,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-29
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314349,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-05-30
+Receipt,2020-06-09,Branch Establishment,2020-LB-BranchNew-314826,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-09
+Approved,2020-06-09,Branch Establishment,2020-WE-BranchNew-314457,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles,2020-06-03
+Approved,2020-06-09,Branch Establishment,2020-SO-BranchNew-314377,Community NB,500 West Illinois,Midland,TX,Midland,2020-06-05
+Receipt,2020-06-09,Branch Closings,2020-LB-BranchClosing-314817,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314299,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-06-05
+Receipt,2020-06-09,Relocation,2020-SO-Relocation-314825,Finemark NB&T,12681 Creekside Lane,Fort Myers,FL,Lee,2020-06-25
+Receipt,2020-06-09,Branch Closings,2020-LB-BranchClosing-314828,Huntington NB,17 South High Street,Columbus,OH,Franklin, 
+Approved,2020-06-09,Subsidiaries & Equities,2020-LB-Subs&Equities-314642,Huntington NB,17 South High Street,Columbus,OH,Franklin, 
+Consummated/Effective,2020-06-09,Branch Closings,2020-LB-BranchClosing-313048,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-09,Branch Closings,2020-LB-BranchClosing-314935,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-09,Branch Closings,2020-LB-BranchClosing-314936,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314432,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314433,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314434,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314435,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314436,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Branch Establishment,2020-LB-BranchNew-314438,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-05
+Approved,2020-06-09,Relocation,2020-CE-Relocation-314556,Old NB,1 Main Street,Evansville,IN,Vanderburgh,2020-06-05
+Consummated/Effective,2020-06-09,Branch Establishment,2020-LB-BranchNew-314092,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-04-11
+Receipt,2020-06-10,Branch Closings,2020-SO-BranchClosing-314954,"BankUnited, NA",14817 Oak Lane,Miami Lakes,FL,Miami-Dade, 
+Receipt,2020-06-10,Branch Closings,2020-WE-BranchClosing-314847,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313625,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313628,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313632,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-06-10,Relocation,2020-LB-Relocation-314852,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-06-30
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-312922,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-312925,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-312929,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-10,Branch Establishment,2020-LB-BranchNew-314850,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-10
+Receipt,2020-06-10,Relocation,2020-NE-Relocation-314842,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2020-06-25
+Receipt,2020-06-10,Branch Closings,2020-SO-BranchClosing-314902,"Vast Bank, NA",110 N. Elgin Avenue,Tulsa,OK,Tulsa, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313699,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313700,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313702,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313703,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313704,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313718,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313719,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313720,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313723,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313725,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313731,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-313732,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-314280,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-314841,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-10,Branch Closings,2020-LB-BranchClosing-314841,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-314843,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-10,Branch Closings,2020-LB-BranchClosing-314843,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-06-10,Branch Closings,2020-LB-BranchClosing-314844,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-10,Branch Closings,2020-LB-BranchClosing-314844,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-10,Branch Establishment,2020-LB-BranchNew-314845,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-10
+Receipt,2020-06-11,Branch Closings,2020-SO-BranchClosing-314398,First NB Texas,507 N. Gray,Killeen,TX,Bell, 
+Receipt,2020-06-11,Branch Establishment,2020-SO-BranchNew-314816,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-07-11
+Consummated/Effective,2020-06-11,Branch Closings,2019-LB-BranchClosing-312290,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-312923,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313745,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-314939,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-314940,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-11,Branch Establishment,2019-LB-BranchNew-309659,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-07-18
+Receipt,2020-06-11,Branch Closings,2020-CE-BranchClosing-314622,Park NB,50 North Third Street,Newark,OH,Licking, 
+Receipt,2020-06-11,Branch Establishment,2020-LB-BranchNew-314790,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-11
+Receipt,2020-06-11,Branch Establishment,2020-LB-BranchNew-314797,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-11
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313659,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-06-11,Branch Closings,2020-LB-BranchClosing-313660,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314874,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314876,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314877,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314878,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314879,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314880,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314881,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314882,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314883,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314884,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314885,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314886,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314887,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314888,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314889,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314891,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314892,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-12,Branch Establishment,2020-LB-BranchNew-314893,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-07-12
+Consummated/Effective,2020-06-12,Business Combinations,2020-NE-Combination-311909,"Community Bank, NA",45-49 Court Street,Canton,NY,St. Lawrence,2020-02-02
+Consummated/Effective,2020-06-12,Terminations,2020-WE-Termination-314153,Community NB,901 Highway 60,Monett,MO,Barry, 
+Consummated/Effective,2020-06-12,Branch Closings,2020-WE-BranchClosing-313693,Community West Bank NA,5827 Hollister Avenue,Goleta,CA,Santa Barbara, 
+Consummated/Effective,2020-06-12,Branch Closings,2020-LB-BranchClosing-312510,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-12,Branch Closings,2020-LB-BranchClosing-314937,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-12,Branch Closings,2020-LB-BranchClosing-314869,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle, 
+Receipt,2020-06-15,Fiduciary Powers,2020-WE-Fiduciary-314933,AMG National Tr Bank,"1155 Canyon Boulevard, Suite 310",Boulder,CO,Boulder, 
+Approved,2020-06-15,Relocation,2020-SO-Relocation-314846,Broadway NB,1177 N.E. Loop 410,San Antonio,TX,Bexar,2020-06-12
+Receipt,2020-06-15,Subsidiaries & Equities,2020-LB-Subs&Equities-314899,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-06-15,Subsidiaries & Equities,2020-LB-Subs&Equities-314900,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-06-15,Branch Establishment,2020-CE-BranchNew-313954,Cornerstone NB & Tr Co,One West Northwest Highway,Palatine,IL,Cook,2020-04-15
+Consummated/Effective,2020-06-15,Branch Establishment,2020-WE-BranchNew-314977,First Federal Bank & TR,671 Illinois Street,Sheridan,WY,Sheridan, 
+Receipt,2020-06-15,Branch Establishment,2020-WE-BranchNew-314977,First Federal Bank & TR,671 Illinois Street,Sheridan,WY,Sheridan, 
+Receipt,2020-06-15,Branch Closings,2020-LB-BranchClosing-314917,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-15,Branch Establishment,2019-LB-BranchNew-309905,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-08-07
+Receipt,2020-06-15,Change in Bank Control,2020-WE-CBCA-314993,"New Omni Bank, NA",1235 South Garfield Avenue,Alhambra,CA,Los Angeles,2020-07-06
+Deleted,2020-06-15,Branch Closings,2020-HQ-BranchClosing-314957,Trustmark NB,248 East Capitol Street,Jackson,MS,Hinds, 
+Receipt,2020-06-15,Branch Closings,2020-HQ-BranchClosing-314957,Trustmark NB,248 East Capitol Street,Jackson,MS,Hinds, 
+Receipt,2020-06-15,Branch Closings,2020-SO-BranchClosing-315082,Trustmark NB,248 East Capitol Street,Jackson,MS,Hinds, 
+Consummated/Effective,2020-06-15,Branch Establishment,2017-NE-BranchNew-299748,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2017-10-20
+Consummated/Effective,2020-06-15,Relocation,2018-LB-Relocation-306215,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2018-12-07
+Consummated/Effective,2020-06-15,Relocation,2019-LB-Relocation-310047,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2019-08-20
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-313102,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314449,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-06
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314606,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-04
+Receipt,2020-06-16,Branch Establishment,2020-CE-BranchNew-314990,First NB of Bellevue,120 North Street,Bellevue,OH,Huron,2020-07-18
+Consummated/Effective,2020-06-16,Change in Bank Control,2019-SO-CBCA-310185,Intercredit Bank NA,4725 Southwest 8th Street,Miami,FL,Dade,2019-08-17
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-313051,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-313813,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314935,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314936,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314937,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314938,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314939,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-06-16,Branch Closings,2020-LB-BranchClosing-314940,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-315036,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314507,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314508,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314540,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-12
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314541,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-13
+Receipt,2020-06-16,Branch Establishment,2020-LB-BranchNew-314931,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Receipt,2020-06-16,Branch Establishment,2020-LB-BranchNew-314932,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Receipt,2020-06-16,Branch Closings,2020-CE-BranchClosing-314927,Liberty Svg Bk FSB,"3435 Airborne Road, Ste B",Wilmington,OH,Clinton, 
+Receipt,2020-06-16,Branch Closings,2020-CE-BranchClosing-314928,Liberty Svg Bk FSB,"3435 Airborne Road, Ste B",Wilmington,OH,Clinton, 
+Approved,2020-06-16,Conversions,2020-CE-Conversion-314328,Mid Central FSB,520 Jefferson St S,Wadena,MN,Wadena, 
+Approved,2020-06-16,Branch Establishment,2020-LB-BranchNew-314454,"Santander Bank, NA","824 N. Market Street, Suite 100",Wilmington,DE,New Castle,2020-06-13
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314542,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-06-14
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-313661,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Consummated/Effective,2020-06-16,Branch Closings,2020-LB-BranchClosing-313663,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Approved,2020-06-16,Branch Establishment,2020-NE-BranchNew-314537,Virginia NB,222 East Main Street,Charlottesville,VA,Charlottesville City,2020-06-15
+Approved,2020-06-16,Relocation,2020-LB-Relocation-314692,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-06-13
+Approved,2020-06-17,Branch Establishment,2020-LB-BranchNew-314539,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-06-14
+Consummated/Effective,2020-06-17,Branch Closings,2020-LB-BranchClosing-313763,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-17,Branch Closings,2020-LB-BranchClosing-313764,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-06-17,Branch Closings,2020-LB-BranchClosing-313765,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Approved,2020-06-17,Relocation,2020-LB-Relocation-314607,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-05
+Receipt,2020-06-17,Branch Establishment,2020-SO-BranchNew-314961,Fifth Dist Svg Bk,4000 General Degaulle Dr,New Orleans,LA,Orleans, 
+Consummated/Effective,2020-06-17,Relocation,2020-LB-Relocation-313087,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-03-06
+Approved,2020-06-17,Business Combinations,2020-CE-Combination-314103,"First Mid Bank & Trust, NA",1515 Charleston Avenue,Mattoon,IL,Coles,2020-06-12
+Receipt,2020-06-17,Branch Closings,2020-LB-BranchClosing-314958,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-17,Relocation,2020-LB-Relocation-314731,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-06-16
+Receipt,2020-06-17,Branch Establishment,2020-LB-BranchNew-314951,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-17
+Receipt,2020-06-17,Branch Establishment,2020-LB-BranchNew-314956,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-17
+Receipt,2020-06-18,Relocation,2020-LB-Relocation-314970,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-07-02
+Receipt,2020-06-18,Branch Closings,2020-CE-BranchClosing-314971,"CNB Bank & Trust, NA",West Side Square,Carlinville,IL,Macoupin, 
+Receipt,2020-06-18,Branch Closings,2020-CE-BranchClosing-314974,"CNB Bank & Trust, NA",West Side Square,Carlinville,IL,Macoupin, 
+Approved,2020-06-18,Relocation,2020-CE-Relocation-313285,"First Mid Bank & Trust, NA",1515 Charleston Avenue,Mattoon,IL,Coles,2020-06-13
+Approved,2020-06-18,Business Combinations,2020-CE-Combination-314530,First NB of Waterloo,228 South Main Street,Waterloo,IL,Monroe,2020-06-10
+Receipt,2020-06-18,Subsidiaries & Equities,2020-SO-Subs&Equities-314969,"Incommons Bank, N. A.",301 East Commerce,Mexia,TX,Limestone, 
+Receipt,2020-06-18,Branch Establishment,2020-LB-BranchNew-314972,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-17
+Receipt,2020-06-18,Branch Establishment,2020-LB-BranchNew-314973,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Receipt,2020-06-18,Branch Establishment,2020-LB-BranchNew-314982,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-07-17
+Receipt,2020-06-18,Branch Closings,2020-NE-BranchClosing-314980,Valley NB,615 Main Avenue,Passaic,NJ,Passaic, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314965,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Consummated/Effective,2020-06-19,Subsidiaries & Equities,2020-SO-Subs&Equities-315080,Citizens NB of Texas,200 N. Elm Street,Waxahachie,TX,Ellis, 
+Receipt,2020-06-19,Branch Establishment,2020-NE-BranchNew-315003,"Grasshopper Bank, NA","915 Broadway, 7th Floor",New York,NY,New York,2020-07-22
+Receipt,2020-06-19,Branch Establishment,2020-LB-BranchNew-314995,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-07-19
+Receipt,2020-06-19,Branch Establishment,2020-LB-BranchNew-315002,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-07-19
+Withdrawn,2020-06-19,Branch Establishment,2018-LB-BranchNew-305351,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-10-19
+Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-314679,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-312652,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Consummated/Effective,2020-06-19,Branch Closings,2020-LB-BranchClosing-313911,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314808,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314809,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314810,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314811,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314822,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314823,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314833,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314834,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314835,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314836,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314837,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314858,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314860,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314861,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314862,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314863,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314864,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314865,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314904,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314905,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314906,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314907,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314908,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314909,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314911,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314912,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314913,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314914,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314915,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314919,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314920,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314921,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314922,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314923,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314924,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314925,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Closings,2020-LB-BranchClosing-314926,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-06-19,Branch Establishment,2020-LB-BranchNew-314997,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-19
+Receipt,2020-06-19,Branch Establishment,2020-LB-BranchNew-315001,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-22
+Consummated/Effective,2020-06-22,Fiduciary Powers,2020-LB-Fiduciary-315012,"Blackrock Institutional Tr Co., N.A.",400 Howard Street,San Francisco,CA,San Francisco, 
+Receipt,2020-06-22,Fiduciary Powers,2020-LB-Fiduciary-315012,"Blackrock Institutional Tr Co., N.A.",400 Howard Street,San Francisco,CA,San Francisco, 
+Receipt,2020-06-22,Branch Closings,2020-SO-BranchClosing-315022,First NB of Manchester,120 Town Square,Manchester,KY,Clay, 
+Consummated/Effective,2020-06-22,Relocation,2019-LB-Relocation-309210,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2019-06-13
+Receipt,2020-06-23,Subsidiaries & Equities,2020-SO-Subs&Equities-315033,First NB Texas,507 N. Gray,Killeen,TX,Bell, 
+Approved,2020-06-23,Branch Establishment,2020-LB-BranchNew-314600,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-19
+Receipt,2020-06-23,Branch Establishment,2020-LB-BranchNew-315013,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-07-20
+Receipt,2020-06-24,Branch Closings,2020-SO-BranchClosing-315194,"BTH Bank, NA",412 East Goode Street,Quitman,TX,Wood, 
+Approved,2020-06-24,Branch Establishment,2020-SO-BranchNew-314615,First American Natl Bank,1251 Curtis Drive,Iuka,MS,Tishomingo,2020-06-19
+Receipt,2020-06-24,Branch Closings,2020-SO-BranchClosing-315191,First NB of Fort Smith,602 Garrison Avenue,Fort Smith,AR,Sebastian, 
+Consummated/Effective,2020-06-24,Branch Establishment,2018-LB-BranchNew-303502,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-06-28
+Receipt,2020-06-24,Branch Establishment,2020-LB-BranchNew-315028,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-24
+Receipt,2020-06-24,Relocation,2020-CE-Relocation-314819,The Vinton County National Bank,112 West Main Street,McArthur,OH,Vinton,2020-07-16
+Approved,2020-06-25,Relocation,2020-WE-Relocation-314647,American Bank & Tr Co NA,4301 East 53rd Street,Davenport,IA,Scott, 
+Receipt,2020-06-25,Branch Closings,2020-SO-BranchClosing-315045,Citizens NB of Texas,200 N. Elm Street,Waxahachie,TX,Ellis, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315032,First Texoma NB,220 West Main Street,Durant,OK,Bryan, 
+Receipt,2020-06-25,Branch Closings,2020-SO-BranchClosing-315104,First Texoma NB,220 West Main Street,Durant,OK,Bryan, 
+Receipt,2020-06-25,Branch Closings,2020-LB-BranchClosing-315036,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Withdrawn,2020-06-25,Branch Establishment,2019-LB-BranchNew-307380,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-02-28
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-314734,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-314737,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315040,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315041,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315042,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315043,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-25,Branch Closings,2020-CE-BranchClosing-315044,Nicolet NB,111 North Washington Street,Green Bay,WI,Brown, 
+Receipt,2020-06-26,Branch Establishment,2020-LB-BranchNew-315048,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-26
+Withdrawn,2020-06-26,Subsidiaries & Equities,2020-LB-Subs&Equities-314448,Citibank NA,5800 S Corporate Place,Sioux Falls,SD,Lincoln, 
+Approved,2020-06-26,Relocation,2020-LB-Relocation-314611,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-19
+Receipt,2020-06-26,Branch Closings,2020-WE-BranchClosing-315053,"First National Bank, Ames, Iowa",405 Fifth Street,Ames,IA,Story, 
+Approved,2020-06-26,Branch Establishment,2020-NE-BranchNew-314586,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2020-06-19
+Consummated/Effective,2020-06-26,Branch Closings,2020-LB-BranchClosing-313742,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-26,Branch Establishment,2020-LB-BranchNew-314686,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-25
+Consummated/Effective,2020-06-26,Relocation,2020-SO-Relocation-315293,Lamar NB,200 S. Collegiate Drive,Paris,TX,Lamar,2020-07-25
+Consummated/Effective,2020-06-27,Branch Establishment,2019-CE-BranchNew-311691,"First Neighbor Bank, NA",201 North Meridian,Toledo,IL,Cumberland,2019-12-20
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315060,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-06-29,Branch Establishment,2020-LB-BranchNew-315062,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-29
+Receipt,2020-06-29,Relocation,2020-LB-Relocation-315047,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-26
+Receipt,2020-06-29,Subsidiaries & Equities,2020-SO-Subs&Equities-315080,Citizens NB of Texas,200 N. Elm Street,Waxahachie,TX,Ellis, 
+Consummated/Effective,2020-06-29,Business Combinations,2020-CE-Combination-314530,First NB of Waterloo,228 South Main Street,Waterloo,IL,Monroe,2020-06-10
+Deleted,2020-06-29,Branch Closings,2020-CE-BranchClosing-315032,First Texoma NB,220 West Main Street,Durant,OK,Bryan, 
+Consummated/Effective,2020-06-29,Branch Closings,2020-LB-BranchClosing-312921,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-06-29,Branch Establishment,2018-LB-BranchNew-304532,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-08-31
+Consummated/Effective,2020-06-29,Branch Establishment,2019-LB-BranchNew-309440,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-07-12
+Consummated/Effective,2020-06-29,Branch Establishment,2019-LB-BranchNew-310498,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-09-17
+Consummated/Effective,2020-06-29,Branch Establishment,2019-LB-BranchNew-311233,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-11-05
+Consummated/Effective,2020-06-29,Branch Establishment,2019-LB-BranchNew-311318,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-11-12
+Receipt,2020-06-29,Branch Closings,2020-CE-BranchClosing-315066,Merchants NB,100 North High Street,Hillsboro,OH,Highland, 
+Consummated/Effective,2020-06-29,Branch Establishment,2019-CE-BranchNew-310940,Resource Bank NA,555 Bethany Road,Dekalb,IL,Dekalb,2019-10-21
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315081,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315083,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315084,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315085,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315086,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315087,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315088,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315089,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315090,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315091,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315092,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315093,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315094,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315095,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315096,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315097,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315098,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315099,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315100,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315101,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315102,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Branch Closings,2020-LB-BranchClosing-315103,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-29,Relocation,2020-NE-Relocation-315181,Windsor FS&LA,250 Broad St,Windsor,CT,Hartford,2020-07-29
+Consummated/Effective,2020-06-30,Branch Closings,2019-LB-BranchClosing-311391,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Consummated/Effective,2020-06-30,Branch Closings,2020-LB-BranchClosing-314114,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Consummated/Effective,2020-06-30,Subsidiaries & Equities,2020-LB-Subs&Equities-315309,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Approved,2020-06-30,Relocation,2020-SO-Relocation-314825,Finemark NB&T,12681 Creekside Lane,Fort Myers,FL,Lee,2020-06-25
+Receipt,2020-06-30,Business Combinations,2020-NE-Combination-315143,First NB,622 Broad Street,Altavista,VA,Campbell,2020-08-02
+Consummated/Effective,2020-06-30,Branch Closings,2020-WE-BranchClosing-313956,First NB Alaska,101 West 36th Avenue,Anchorage,AK,Anchorage, 
+Consummated/Effective,2020-06-30,Branch Closings,2019-LB-BranchClosing-312284,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-06-30,Branch Establishment,2020-LB-BranchNew-314742,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-06-27
+Consummated/Effective,2020-06-30,Branch Closings,2020-LB-BranchClosing-314082,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315106,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315108,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315109,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315110,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315111,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315112,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315113,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315114,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315115,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315116,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315117,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315118,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315119,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315120,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315121,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315123,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315124,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315125,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315126,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315127,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315129,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315130,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-06-30,Branch Closings,2020-LB-BranchClosing-315131,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-01,Branch Establishment,2020-SO-BranchNew-315345,"BancCentral, NA",604 Flynn Street,Alva,OK,Woods,2020-07-04
+Receipt,2020-07-01,Branch Establishment,2020-LB-BranchNew-315136,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-31
+Receipt,2020-07-01,Branch Establishment,2020-LB-BranchNew-315155,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-31
+Receipt,2020-07-01,Branch Establishment,2020-LB-BranchNew-315166,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-31
+Receipt,2020-07-01,Branch Closings,2020-LB-BranchClosing-315160,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-01,Relocation,2020-LB-Relocation-315162,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-07-31
+Consummated/Effective,2020-07-01,Terminations,2018-SO-Termination-302605,First NB of Brundidge,137 South Main Street,Brundidge,AL,Pike, 
+Consummated/Effective,2020-07-01,Corporate Title Change,2020-SO-TitleChange-314602,First NB of Gilmer,201 North Wood Street,Gilmer,TX,Upshur, 
+Consummated/Effective,2020-07-01,Branch Establishment,2019-SO-BranchNew-306961,First NB of Jeanerette,1331 East Main Street,Jeanerette,LA,Iberia,2019-02-07
+Consummated/Effective,2020-07-01,Terminations,2020-SO-Termination-314162,First NB of Manchester,100 West High Street,Manchester,TN,Coffee, 
+Withdrawn,2020-07-01,Business Combinations,2020-SO-Combination-313068,"Investar Bank, NA",7244 Perkins Road,Baton Rouge,LA,East Baton Rouge,2020-03-06
+Consummated/Effective,2020-07-01,Business Combinations,2020-NE-Combination-313418,Northfield Bank,1731 Victory Boulevard,Staten Island,NY,Richmond,2020-03-25
+Approved,2020-07-01,Business Combinations,2020-NE-Combination-314690,"Patriot Bank, NA",999 Bedford Street,Stamford,CT,Fairfield,2020-05-19
+Receipt,2020-07-01,Branch Closings,2020-NE-BranchClosing-315157,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-07-01,Branch Closings,2020-NE-BranchClosing-315158,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Consummated/Effective,2020-07-01,Terminations,2020-SO-Termination-314455,Seaside NB & Trust,"201 South Orange Avenue, Suite 1350",Orlando,FL,Orange, 
+Receipt,2020-07-01,Relocation,2020-NE-Relocation-314868,Sterling NB,400 Rella Boulevard,Montebello,NY,Rockland,2020-07-30
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315169,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-07-02,Branch Establishment,2020-LB-BranchNew-315167,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-31
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315172,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315174,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315175,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315176,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-02,Branch Establishment,2020-SO-BranchNew-314101,First Liberty NB,1900 Sam Houston Avenue,Liberty,TX,Liberty,2020-08-08
+Approved,2020-07-02,Branch Establishment,2020-CE-BranchNew-314818,First NB of Le Center,10 West Minnesota Street,Le Center,MN,Le Sueur,2020-06-27
+Approved,2020-07-02,Relocation,2020-CE-Relocation-314655,First NB of Le Center,10 West Minnesota Street,Le Center,MN,Le Sueur,2020-06-27
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315183,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315184,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315185,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315178,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Receipt,2020-07-02,Branch Closings,2020-LB-BranchClosing-315179,KeyBank NA,127 Public Square,Cleveland,OH,Cuyahoga, 
+Approved,2020-07-02,Relocation,2020-NE-Relocation-314842,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2020-06-25
+Receipt,2020-07-02,Relocation,2020-WE-Relocation-315029,"Washington Federal Bank, NA",425 Pike Street,Seattle,WA,King,2020-07-24
+Receipt,2020-07-06,Branch Closings,2020-CE-BranchClosing-314966,"Associated Bank, NA",200 North Adams Street,Green Bay,WI,Brown, 
+Receipt,2020-07-06,Branch Closings,2020-CE-BranchClosing-314967,"Associated Bank, NA",200 North Adams Street,Green Bay,WI,Brown, 
+Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314707,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-06-28
+Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314278,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-06-25
+Approved,2020-07-06,Relocation,2020-SO-Relocation-314785,"First Century Bank, NA",807 Dorsey Street,Gainesville,GA,Hall,2020-07-03
+Consummated/Effective,2020-07-06,215a-3: Mergers with Non-Bank Affiliates,2020-HQ-215a3-313606,"First Citizens Bk of Polson, NA",213 First Street West,Polson,MT,Lake, 
+Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-314733,First NB of Gilmer,201 North Wood Street,Gilmer,TX,Upshur,2020-07-02
+Consummated/Effective,2020-07-06,Branch Establishment,2019-NE-BranchNew-307605,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2019-03-18
+Consummated/Effective,2020-07-06,Branch Establishment,2019-LB-BranchNew-309082,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-06-13
+Consummated/Effective,2020-07-06,Branch Establishment,2020-NE-BranchNew-315380,Westfield Bank,141 Elm Street,Westfield,MA,Hampden, 
+Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-312456,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-06-28
+Receipt,2020-07-06,Branch Establishment,2020-SO-BranchNew-314684,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-08-01
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315242,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315245,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315246,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Consummated/Effective,2020-07-07,Branch Establishment,2018-LB-BranchNew-303606,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-06-30
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-308657,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-23
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-308834,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-31
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-309119,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-06-22
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-309603,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-07-16
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-311004,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-10-22
+Consummated/Effective,2020-07-07,Branch Establishment,2019-LB-BranchNew-311323,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-11-13
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314774,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-02
+Receipt,2020-07-07,Subsidiaries & Equities,2020-CE-Subs&Equities-315281,Liberty NB,118 South Main Street,Ada,OH,Hardin, 
+Receipt,2020-07-07,Relocation,2020-LB-Relocation-315247,"MUFG Union Bank, NA","350 California Street , 1st Floor",San Francisco,CA,San Francisco,2020-07-22
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314696,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314704,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314741,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314756,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314757,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314759,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-05
+Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314793,"TD Bank, NA",2035 Limestone Road,Wilmington,DE,New Castle,2020-07-05
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315229,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315230,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315231,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315232,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315233,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315237,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315239,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315240,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315248,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315249,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315250,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315252,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315253,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315254,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315255,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315256,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315257,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315258,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315259,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-07,Branch Closings,2020-LB-BranchClosing-315260,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-08,Branch Establishment,2019-WE-BranchNew-312122,"Fidelity Bank, NA",100 East English Street,Wichita,KS,Sedgwick,2020-01-07
+Receipt,2020-07-08,Branch Establishment,2020-LB-BranchNew-315215,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-08-07
+Receipt,2020-07-08,Relocation,2020-SO-Relocation-315293,Lamar NB,200 S. Collegiate Drive,Paris,TX,Lamar,2020-07-25
+Receipt,2020-07-08,New Bank Charter,2020-WE-Charter-315294,"SoFi Bank, NA",2750 East Cottonwood Parkway,Cottonwood Heights,UT, ,2020-08-12
+Deleted,2020-07-08,Branch Closings,2020-NE-BranchClosing-314980,Valley NB,615 Main Avenue,Passaic,NJ,Passaic, 
+Receipt,2020-07-08,Relocation,2020-NE-Relocation-314979,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2020-07-23
+Withdrawn,2020-07-08,Branch Establishment,2020-LB-BranchNew-314997,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-19
+Consummated/Effective,2020-07-09,Relocation,2020-NE-Relocation-315428,Abacus FSB,6 Bowery,New York,NY,New York, 
+Receipt,2020-07-09,Branch Closings,2020-LB-BranchClosing-315286,City NB,555 South Flower Street,Los Angeles,CA,Los Angeles, 
+Receipt,2020-07-09,Subsidiaries & Equities,2020-LB-Subs&Equities-315288,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-07-09,Subsidiaries & Equities,2020-LB-Subs&Equities-315289,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-07-09,Subsidiaries & Equities,2020-LB-Subs&Equities-315290,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-07-09,Branch Establishment,2020-SO-BranchNew-315197,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-08-11
+Receipt,2020-07-09,Branch Establishment,2020-SO-BranchNew-315198,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-08-11
+Receipt,2020-07-09,Branch Establishment,2020-SO-BranchNew-315199,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-08-08
+Receipt,2020-07-09,Branch Establishment,2020-SO-BranchNew-315201,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-08-08
+Consummated/Effective,2020-07-09,Branch Closings,2019-LB-BranchClosing-312285,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-07-09,Branch Closings,2020-LB-BranchClosing-313381,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-09,Branch Closings,2020-LB-BranchClosing-315297,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton, 
+Receipt,2020-07-09,Branch Establishment,2020-LB-BranchNew-315295,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-09
+Receipt,2020-07-10,Relocation,2020-SO-Relocation-315305,"Austin Bank, Texas NA",200 East Commerce Street,Jacksonville,TX,Cherokee,2020-07-30
+Receipt,2020-07-10,Branch Closings,2020-LB-BranchClosing-315300,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Approved,2020-07-10,Branch Establishment,2020-LB-BranchNew-314826,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-09
+Receipt,2020-07-10,Subsidiaries & Equities,2020-LB-Subs&Equities-315309,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-10,Branch Closings,2020-LB-BranchClosing-315308,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Approved,2020-07-10,Relocation,2020-LB-Relocation-314970,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-07-02
+Receipt,2020-07-10,Branch Establishment,2020-SO-BranchNew-315328,"Investar Bank, NA",7244 Perkins Road,Baton Rouge,LA,East Baton Rouge,2020-08-13
+Consummated/Effective,2020-07-10,Branch Closings,2020-LB-BranchClosing-313050,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-10,Branch Establishment,2020-LB-BranchNew-315299,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-05
+Receipt,2020-07-10,Branch Establishment,2020-LB-BranchNew-315303,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-05
+Receipt,2020-07-10,Branch Establishment,2020-LB-BranchNew-315304,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-06
+Receipt,2020-07-10,Branch Establishment,2020-LB-BranchNew-315306,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-06
+Receipt,2020-07-10,Branch Establishment,2020-LB-BranchNew-315307,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-06
+Consummated/Effective,2020-07-10,Branch Closings,2020-LB-BranchClosing-313734,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-13,Branch Establishment,2020-LB-BranchNew-315320,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-08-09
+Receipt,2020-07-13,Relocation,2020-LB-Relocation-315323,BMO Harris Bank NA,111 West Monroe Street,Chicago,IL,Cook,2020-07-31
+Consummated/Effective,2020-07-13,Relocation,2020-CE-Relocation-313120,Farmers' NB of Canfield,20 South Broad Street,Canfield,OH,Mahoning,2020-03-10
+Consummated/Effective,2020-07-13,Branch Establishment,2019-NE-BranchNew-310265,First NB of Pennsylvania,166 Main Street,Greenville,PA,Mercer,2019-09-05
+Approved,2020-07-13,Branch Establishment,2020-SO-BranchNew-314816,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-07-11
+Consummated/Effective,2020-07-13,Branch Establishment,2019-LB-BranchNew-307994,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-04-10
+Consummated/Effective,2020-07-13,Branch Establishment,2019-LB-BranchNew-308988,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-06-13
+Consummated/Effective,2020-07-13,Branch Establishment,2019-LB-BranchNew-309036,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-06-14
+Consummated/Effective,2020-07-13,Branch Establishment,2019-LB-BranchNew-310434,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-09-12
+Receipt,2020-07-13,Branch Establishment,2020-NE-BranchNew-315380,Westfield Bank,141 Elm Street,Westfield,MA,Hampden, 
+Receipt,2020-07-14,Relocation,2020-WE-Relocation-315336,First Amer Tr FSB,"5 First American Way, 3rd Floor",Santa Ana,CA,Orange,2020-08-08
+Consummated/Effective,2020-07-14,Branch Closings,2020-LB-BranchClosing-312927,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-07-14,Branch Establishment,2019-LB-BranchNew-308598,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-21
+Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314850,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-10
+Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314790,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-11
+Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314797,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-07-11
+Receipt,2020-07-14,Branch Closings,2020-LB-BranchClosing-315360,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314845,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-10
+Receipt,2020-07-14,Relocation,2020-LB-Relocation-315329,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-14
+Approved,2020-07-14,Branch Establishment,2020-SO-BranchNew-312455,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-07-03
+Approved,2020-07-14,Branch Establishment,2020-SO-BranchNew-312457,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery,2020-07-01
+Receipt,2020-07-15,Relocation,2020-NE-Relocation-315428,Abacus FSB,6 Bowery,New York,NY,New York, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315383,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg, 
+Receipt,2020-07-15,Branch Closings,2020-WE-BranchClosing-315381,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315355,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315357,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315358,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315359,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315361,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-15,Branch Closings,2020-LB-BranchClosing-315362,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-313729,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314252,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314254,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314255,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314256,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-15,Relocation,2020-LB-Relocation-315348,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-31
+Approved,2020-07-16,Branch Establishment,2020-SO-BranchNew-313067,"Axiom Bank, NA","258 Southhall Lane, Suite 400",Maitland,FL,Orange,2020-03-06
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315398,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315400,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315401,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315402,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315403,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315404,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315405,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315406,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315407,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315408,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315409,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315411,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315412,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315413,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315414,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315415,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315416,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315417,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315418,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315419,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315420,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315421,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315422,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315423,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315424,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-16,Branch Closings,2020-LB-BranchClosing-315393,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence, 
+Receipt,2020-07-16,Branch Establishment,2020-LB-BranchNew-315316,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-08-15
+Consummated/Effective,2020-07-16,Branch Establishment,2019-LB-BranchNew-309394,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-07-09
+Receipt,2020-07-16,Branch Establishment,2020-LB-BranchNew-315378,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-13
+Approved,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281,Liberty NB,118 South Main Street,Ada,OH,Hardin, 
+Consummated/Effective,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281,Liberty NB,118 South Main Street,Ada,OH,Hardin, 
+Receipt,2020-07-16,Relocation,2020-CE-Relocation-315330,Resource Bank NA,555 Bethany Road,Dekalb,IL,Dekalb,2020-07-30
+Receipt,2020-07-16,Branch Establishment,2020-LB-BranchNew-315399,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-19
+Approved,2020-07-16,Relocation,2020-NE-Relocation-315181,Windsor FS&LA,250 Broad St,Windsor,CT,Hartford,2020-07-29
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315334,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315341,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315342,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315343,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315349,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315350,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315351,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315354,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315363,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315364,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315366,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315367,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315368,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315369,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315370,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315371,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315372,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315373,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315375,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-16,Branch Closings,2020-SO-BranchClosing-315377,Woodforest NB,1330 Lake Robbins Drive,The Woodlands,TX,Montgomery, 
+Receipt,2020-07-17,Branch Establishment,2020-LB-BranchNew-315431,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-08-16
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315473,BMO Harris Bank NA,111 West Monroe Street,Chicago,IL,Cook, 
+Receipt,2020-07-17,Relocation,2020-LB-Relocation-315470,BMO Harris Bank NA,111 West Monroe Street,Chicago,IL,Cook,2020-08-02
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315434,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315435,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315436,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315437,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315438,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315440,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315441,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315442,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315443,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315444,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315445,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315447,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315448,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315449,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315450,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315452,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315453,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315454,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315455,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315456,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315457,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315459,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315460,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315461,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315462,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315463,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315464,"Capital One, NA",1680 Capital One Drive,McLean,VA,Fairfax, 
+Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314893,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-07-12
+Receipt,2020-07-17,Branch Closings,2020-CE-BranchClosing-315478,Farmers' NB of Canfield,20 South Broad Street,Canfield,OH,Mahoning, 
+Consummated/Effective,2020-07-17,Business Combinations,2020-CE-Combination-314103,"First Mid Bank & Trust, NA",1515 Charleston Avenue,Mattoon,IL,Coles,2020-06-12
+Receipt,2020-07-17,Branch Establishment,2020-SO-BranchNew-315486,Heritage Bank of St. Tammany,205 North Columbia Street,Covington,LA,St Tammany, 
+Consummated/Effective,2020-07-17,Branch Closings,2020-LB-BranchClosing-315479,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314931,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314932,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314973,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-16
+Receipt,2020-07-17,Branch Closings,2020-NE-BranchClosing-315432,"People's United Bank, NA","Bridgeport Center, 850 Main Street",Bridgeport,CT,Fairfield, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315061,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315063,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315064,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315065,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315067,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315068,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315069,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315070,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315071,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315072,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315073,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315074,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315075,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315076,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315077,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315078,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315079,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315140,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315142,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315144,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315148,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315149,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315150,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315151,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315152,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315153,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315216,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315217,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315219,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315220,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315221,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315222,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315223,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315224,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315225,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315227,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315261,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315262,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315263,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315265,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315266,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315267,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315268,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315269,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315270,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315271,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315272,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315273,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315274,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315275,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315276,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Branch Closings,2020-LB-BranchClosing-315277,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-17,Relocation,2020-NE-Relocation-315430,State Street Bk & Tr Co of California NA,1801 Century Park East,Los Angeles,CA,Los Angeles,2020-08-16
+Receipt,2020-07-17,Branch Closings,2020-CE-BranchClosing-315465,TCF NB,2508 South Louise Avenue,Sioux Falls,SD,Minnehaha, 
+Approved,2020-07-17,Relocation,2020-CE-Relocation-314819,The Vinton County National Bank,112 West Main Street,McArthur,OH,Vinton,2020-07-16
+Receipt,2020-07-17,Branch Establishment,2020-LB-BranchNew-315439,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-08-14
+Approved,2020-07-20,Branch Establishment,2020-SO-BranchNew-315345,"BancCentral, NA",604 Flynn Street,Alva,OK,Woods,2020-07-04
+Consummated/Effective,2020-07-20,Branch Establishment,2019-CE-BranchNew-311616,"Bremer Bank, NA","Lawson Building, 372 St. Peter Street",St. Paul,MN,Ramsey,2019-11-17
+Consummated/Effective,2020-07-20,Branch Establishment,2020-SO-BranchNew-313499,"Investar Bank, NA",7244 Perkins Road,Baton Rouge,LA,East Baton Rouge,2020-03-28
+Consummated/Effective,2020-07-20,Branch Establishment,2019-LB-BranchNew-310239,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-08-29
+Consummated/Effective,2020-07-20,Branch Establishment,2020-CE-BranchNew-315519,New Carlisle FSB,400 N Main St,New Carlisle,OH,Clark, 
+Consummated/Effective,2020-07-20,Branch Establishment,2020-CE-BranchNew-315483,"North Shore Bank, FSB",15700 W Bluemound Rd,Brookfield,WI,Waukesha, 
+Consummated/Effective,2020-07-20,Business Combinations,2020-NE-Combination-314690,"Patriot Bank, NA",999 Bedford Street,Stamford,CT,Fairfield,2020-05-19
+Approved,2020-07-20,Branch Establishment,2020-LB-BranchNew-314982,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-07-17
+Receipt,2020-07-21,Branch Closings,2020-LB-BranchClosing-315490,Citibank NA,5800 S Corporate Place,Sioux Falls,SD,Lincoln, 
+Receipt,2020-07-21,Relocation,2020-SO-Relocation-315481,City NB of Florida,25 West Flagler Street,Miami,FL,Miami-Dade,2020-08-08
+Withdrawn,2020-07-21,Branch Establishment,2019-CE-BranchNew-311152,Huntington NB,17 South High Street,Columbus,OH,Franklin,2019-11-02
+Approved,2020-07-21,Relocation,2020-LB-Relocation-314852,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-06-30
+Receipt,2020-07-21,Branch Closings,2020-LB-BranchClosing-315479,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303002,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-05-26
+Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303417,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-06-20
+Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303611,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2018-07-05
+Consummated/Effective,2020-07-21,Branch Establishment,2019-LB-BranchNew-308308,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-05-02
+Consummated/Effective,2020-07-21,Branch Establishment,2019-LB-BranchNew-310235,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2019-08-29
+Approved,2020-07-21,Branch Establishment,2020-LB-BranchNew-314972,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-17
+Receipt,2020-07-21,Branch Establishment,2020-CE-BranchNew-315519,New Carlisle FSB,400 N Main St,New Carlisle,OH,Clark, 
+Receipt,2020-07-21,Branch Establishment,2020-CE-BranchNew-315483,"North Shore Bank, FSB",15700 W Bluemound Rd,Brookfield,WI,Waukesha, 
+Consummated/Effective,2020-07-21,Branch Establishment,2020-LB-BranchNew-313493,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-03-29
+Consummated/Effective,2020-07-21,Branch Establishment,2020-LB-BranchNew-313521,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-03-29
+Receipt,2020-07-21,Branch Closings,2020-LB-BranchClosing-315476,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Consummated/Effective,2020-07-21,Branch Establishment,2020-NE-BranchNew-315552,Westfield Bank,141 Elm Street,Westfield,MA,Hampden, 
+Receipt,2020-07-22,Branch Establishment,2020-LB-BranchNew-315493,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-14
+Receipt,2020-07-22,Branch Establishment,2020-LB-BranchNew-315496,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-20
+Receipt,2020-07-22,Branch Establishment,2020-LB-BranchNew-315480,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-08-11
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315497,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315498,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315499,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315500,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315501,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315502,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315503,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315504,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315505,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315506,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315507,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315508,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315510,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315511,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315512,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315513,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315515,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315516,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315517,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315518,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315520,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315521,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315522,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315523,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315525,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315526,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315527,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315528,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315529,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315530,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315531,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315532,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315533,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315534,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315537,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315539,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315540,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-22,Branch Closings,2020-LB-BranchClosing-315541,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha, 
+Receipt,2020-07-23,New Bank Charter,2020-NE-Charter-315544,"American Challenger Bank, NA",to be determined,Stamford,CT, ,2020-08-21
+Receipt,2020-07-23,Branch Closings,2020-SO-BranchClosing-315616,"Axiom Bank, NA","258 Southhall Lane, Suite 400",Maitland,FL,Orange, 
+Receipt,2020-07-23,Branch Closings,2020-SO-BranchClosing-315618,"Axiom Bank, NA","258 Southhall Lane, Suite 400",Maitland,FL,Orange, 
+Receipt,2020-07-23,Branch Closings,2020-SO-BranchClosing-315619,"Axiom Bank, NA","258 Southhall Lane, Suite 400",Maitland,FL,Orange, 
+Approved,2020-07-23,215a-3: Mergers with Non-Bank Affiliates,2020-NE-215a3-314513,Computershare Tr Co NA,150 Royall Street,Canton,MA,Norfolk, 
+Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315288,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315289,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315290,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton, 
+Receipt,2020-07-23,Business Combinations,2020-SO-Combination-315560,First NB Texas,507 N. Gray,Killeen,TX,Bell,2020-08-22
+Receipt,2020-07-23,Federal Branches/Agencies - Relocations,2020-NE-FBA_Relocations-315595,Icici Bank Limited,"500 Fifth Av, Suite 2830",New York,NY,New York,2020-08-22
+Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314951,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-17
+Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314956,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-17
+Receipt,2020-07-23,Branch Establishment,2020-LB-BranchNew-315550,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-23
+Receipt,2020-07-23,Branch Establishment,2020-LB-BranchNew-315551,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-26
+Receipt,2020-07-23,Branch Establishment,2020-NE-BranchNew-315552,Westfield Bank,141 Elm Street,Westfield,MA,Hampden, 
+Receipt,2020-07-24,Branch Establishment,2020-LB-BranchNew-315555,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-08-23
+Receipt,2020-07-24,Branch Establishment,2020-CE-BranchNew-315665,"First Federal Community Bk, NA",321 North Wooster Avenue,Dover,OH,Tuscarawas,2020-08-16
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315557,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315558,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315562,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315563,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315564,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315565,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315566,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315567,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315568,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315569,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315570,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315571,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315572,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315573,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315574,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Closings,2020-LB-BranchClosing-315576,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-24,Branch Establishment,2020-LB-BranchNew-315548,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-08-22
+Consummated/Effective,2020-07-24,Branch Closings,2020-LB-BranchClosing-314212,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle, 
+Receipt,2020-07-27,Branch Closings,2020-SO-BranchClosing-315587,"BankUnited, NA",14817 Oak Lane,Miami Lakes,FL,Miami-Dade, 
+Receipt,2020-07-27,Branch Closings,2020-SO-BranchClosing-315590,"BankUnited, NA",14817 Oak Lane,Miami Lakes,FL,Miami-Dade, 
+Receipt,2020-07-27,Branch Closings,2020-WE-BranchClosing-315593,"CIT Bank, NA",95 South Lake Avenue,Pasadena,CA,Los Angeles, 
+Receipt,2020-07-27,Branch Establishment,2020-LB-BranchNew-315591,"Citizens Bank, NA",One Citizens Plaza,Providence,RI,Providence,2020-08-26
+Receipt,2020-07-27,Branch Closings,2020-WE-BranchClosing-315592,"Fidelity Bank, NA",100 East English Street,Wichita,KS,Sedgwick, 
+Receipt,2020-07-27,Branch Establishment,2020-SO-BranchNew-315607,"First Century Bank, NA",807 Dorsey Street,Gainesville,GA,Hall,2020-08-26
+Approved,2020-07-27,Branch Establishment,2020-CE-BranchNew-314990,First NB of Bellevue,120 North Street,Bellevue,OH,Huron,2020-07-18
+Approved,2020-07-27,Branch Establishment,2020-LB-BranchNew-314995,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-07-19
+Approved,2020-07-27,Branch Establishment,2020-LB-BranchNew-315002,Huntington NB,17 South High Street,Columbus,OH,Franklin,2020-07-19
+Approved,2020-07-27,Relocation,2020-SO-Relocation-315293,Lamar NB,200 S. Collegiate Drive,Paris,TX,Lamar,2020-07-25
+Consummated/Effective,2020-07-27,Relocation,2020-WE-Relocation-313137,Lincoln FSB of NE,1101 N St,Lincoln,NE,Lancaster,2020-03-13
+Consummated/Effective,2020-07-27,Relocation,2020-LB-Relocation-314217,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-05-24
+Approved,2020-07-27,Branch Establishment,2020-LB-BranchNew-315013,U.S. Bank NA,425 Walnut Street,Cincinnati,OH,Hamilton,2020-07-20
+Consummated/Effective,2020-07-27,Relocation,2020-LB-Relocation-314081,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-03
+Consummated/Effective,2020-07-27,Relocation,2020-LB-Relocation-314205,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-05-11
+Receipt,2020-07-28,Branch Establishment,2020-CE-BranchNew-315602,"CNB Bank & Trust, NA",West Side Square,Carlinville,IL,Macoupin,2020-08-26
+Receipt,2020-07-28,Branch Establishment,2020-LB-BranchNew-315578,"Fifth Third Bank, NA",38 Fountain Square Plaza,Cincinnati,OH,Hamilton,2020-08-27
+Consummated/Effective,2020-07-28,Relocation,2018-SO-Relocation-304309,First NB of Stanton,119 N. St. Peter,Stanton,TX,Martin,2018-07-30
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315608,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315609,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315610,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315611,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315612,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315613,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315614,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315615,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315617,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Receipt,2020-07-28,Branch Closings,2020-LB-BranchClosing-315621,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware, 
+Approved,2020-07-28,Branch Establishment,2020-LB-BranchNew-315028,"JPMorgan Chase Bank, NA",1111 Polaris Parkway,Columbus,OH,Delaware,2020-07-24
+Consummated/Effective,2020-07-28,Branch Establishment,2020-LB-BranchNew-313222,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-03-22
+Consummated/Effective,2020-07-28,Branch Establishment,2020-LB-BranchNew-313494,PNC Bank NA,222 Delaware Avenue,Wilmington,DE,New Castle,2020-03-29
+Approved,2020-07-28,Branch Establishment,2020-LB-BranchNew-315001,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-07-22
+Receipt,2020-07-28,Branch Establishment,2020-LB-BranchNew-315622,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-28
+Receipt,2020-07-28,Branch Establishment,2020-LB-BranchNew-315623,"Wells Fargo Bank, N.A.",101 North Philips Avenue,Sioux Falls,SD,Minnehaha,2020-08-28
+Receipt,2020-07-28,Branch Closings,2020-WE-BranchClosing-315620,"Zions Bancorporation, NA",One South Main Street,Salt Lake City,UT,Salt Lake, 
+Approved,2020-07-29,New Bank Charter,2020-SO-Charter-314136,"Agility Bank, NA",2222 North Shepherd,Houston,TX, ,2020-05-03
+Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-307848,City NB,555 South Flower Street,Los Angeles,CA,Los Angeles,2019-04-24
+Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-308248,City NB,555 South Flower Street,Los Angeles,CA,Los Angeles,2019-05-01
+Approved,2020-07-30,Relocation,2020-NE-Relocation-314979,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2020-07-23
+Approved,2020-07-31,Branch Establishment,2020-LB-BranchNew-315048,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-26
+Approved,2020-07-31,Branch Establishment,2020-LB-BranchNew-315062,"Bank of America, NA","100 North Tryon Street, Suite 170",Charlotte,NC,Mecklenburg,2020-07-29
+Approved,2020-07-31,Relocation,2020-LB-Relocation-315247,"MUFG Union Bank, NA","350 California Street , 1st Floor",San Francisco,CA,San Francisco,2020-07-22
+Approved,2020-07-31,Relocation,2020-CE-Relocation-315330,Resource Bank NA,555 Bethany Road,Dekalb,IL,Dekalb,2020-07-30
+Consummated/Effective,2020-07-31,Relocation,2020-CE-Relocation-315330,Resource Bank NA,555 Bethany Road,Dekalb,IL,Dekalb,2020-07-30
+Consummated/Effective,2020-07-31,Relocation,2020-NE-Relocation-314979,Valley NB,615 Main Avenue,Passaic,NJ,Passaic,2020-07-23

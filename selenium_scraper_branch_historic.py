@@ -15,7 +15,7 @@ driver = Chrome(webdriver)
 driver.get('https://apps.occ.gov/CAAS_CATS/Default.aspx')
 
 # Get Start & End dates based upon the system date
-end_date = datetime.date(2020, 7, 7)
+end_date = datetime.date(2020, 10, 14)
 end_year = str(end_date.year)
 end_month = str(end_date.month)
 end_day = str(end_date.day)
@@ -23,7 +23,7 @@ end_day = str(end_date.day)
 # if the system date is Monday, subtract 2 days for the start date
 # so that we can capture Friday, Saturday & Sunday data (assuming this script
 # only runs on weekdays)
-start_date = end_date
+start_date = datetime.date(2020, 10, 8)
 
 start_year = str(start_date.year)
 start_month = str(start_date.month)
@@ -91,6 +91,13 @@ for row in driver.find_elements_by_css_selector("#CAAS_Content_CAAS_List_GridVie
 	  for c in cell:
 		    data.append(c.text)
 
+num_pages = 1
+
+if len(data) > 1100:
+  num_pages = len(data) - 1101
+  data = data[0:(len(data) - (num_pages + 1))]
+
+
 # Capture the number of rows of data in the table
 num_rows = len(data) / len(headers)
 num_rows = int(num_rows)
@@ -131,8 +138,73 @@ df1 = df1.replace({'Coordinates': {"None": None}})
 # Drop the 'FullAddress' temporary column
 df1 = df1.drop(df1.columns[[10]], axis = 1)
 
+
+# Scrape the rest of the pages
+if num_pages > 1:
+
+  for i in range(2, num_pages + 1):
+    
+    driver.find_element_by_xpath("//td[(((count(preceding-sibling::*) + 1) = " + str(i) + ") and parent::*)]//a").click()
+    
+    # Create array containing table header names
+    headers = []
+    
+    for row in driver.find_elements_by_css_selector("#CAAS_Content_CAAS_List_GridView"):
+        cell = row.find_elements_by_tag_name("th")
+        for c in cell:
+            headers.append(c.text)
+    
+    # Create array containing table data
+    data = []
+    
+    for row in driver.find_elements_by_css_selector("#CAAS_Content_CAAS_List_GridView"):
+    	  cell = row.find_elements_by_tag_name("td")
+    	  for c in cell:
+    		    data.append(c.text)
+    
+    data = data[0:(len(data) - (num_pages + 1))]
+
+    # Capture the number of rows of data in the table
+    num_rows = len(data) / len(headers)
+    num_rows = int(num_rows)
+    # Capture the number of column headers in the table
+    num_cols = len(headers)
+    num_cols = int(num_cols)
+    
+    # Create a DataFrame containing the table & data
+    tmp = pd.DataFrame(np.array(data).reshape(num_rows, num_cols), columns = headers)
+    
+    # Drop the first column which contains the "Details" links on the web
+    tmp = tmp.drop(tmp.columns[[0]], axis = 1)
+    
+    # Remove whitespace in column names
+    tmp.columns = tmp.columns.str.replace(' ', '')
+    
+    # Create new "FullAddress" temporary column
+    tmp['FullAddress'] = tmp['Location'] + "," + tmp['City'] + "," + tmp['State']
+    
+    # Get Lat/Lon/Ele data
+    coords = tmp['FullAddress'].apply(geocode)
+    
+    # Create longitude, latitude and altitude from location column (returns tuple)
+    coords2 = coords.apply(lambda loc: tuple(loc.point) if loc else None)
+    
+    # print(coords2)
+    
+    tmp['Coordinates'] = coords2
+    
+    tmp['Coordinates'] = tmp.Coordinates.astype(str)
+    
+    tmp = tmp.replace({'Coordinates': {"None": None}})
+    
+    # Drop the 'FullAddress' temporary column
+    tmp = tmp.drop(tmp.columns[[10]], axis = 1)
+    
+    df1.append(tmp)
+  
+  
 # Write DataFrame to a .csv
-# df1.to_csv(r'C:/Users/18602/Desktop/test_selenium.csv', index = False, header = True)
+# df1.to_csv(r'C:/Users/18602/Desktop/occ_filings_branch_20201001_thru_20201014.csv', index = False, header = True, mode = 'a')
 		    
 # Create connection to SQLite db
 conn = sqlite3.connect('occ-warehouse.sqlite')

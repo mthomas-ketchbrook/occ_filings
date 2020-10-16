@@ -6,7 +6,7 @@ library(lubridate)
 source("funs.R")
 
 data <- get_occ_data() %>% 
-  dplyr::filter(Date >= max(Date) %m-% months(1))   # Keep only data in last month
+  dplyr::filter(Date >= max(Date) %m-% days(7))   # Keep only data in last week
 
 readr::write_csv(
   data, 
