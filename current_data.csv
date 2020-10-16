@@ -1,73 +1,58 @@
 Action,Date,Type,ApplicationNumber,BranchName,Location,City,State,County,EndCmtPd,Coordinates,BankName
-Approved,2020-06-30,Branch Establishment,2020-LB-BranchNew-314742,Moorestown W Main Street,SWC West Main Street and North Close,Moorestown,NJ,Burlington,2020-06-27,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-01,Business Combinations,2020-NE-Combination-314690, , , , , ,2020-05-19,NA,"Patriot Bank, NA"
-Approved,2020-07-02,Relocation,2020-CE-Relocation-314655, , , , , ,2020-06-27,NA,First NB of Le Center
-Approved,2020-07-02,Relocation,2020-NE-Relocation-314842,Cliffside Park Branch,742 Anderson Ave,Cliffside Park,NJ,Bergen,2020-06-25,"(40.830047111111114, -73.98563888888889, 0.0)",Valley NB
-Approved,2020-07-02,Branch Establishment,2020-CE-BranchNew-314818,Le Center,10 West Minnesota St.,Minneapolis,MN,Le Sueur,2020-06-27,NA,First NB of Le Center
-Approved,2020-07-06,Relocation,2020-SO-Relocation-314785, , , , , ,2020-07-03,NA,"First Century Bank, NA"
-Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-312456,Birmingham (Walmart) - AL - Branch,9248 Parkway E,Birmingham,AL,Jefferson,2020-06-28,"(33.590204, -86.70022, 0.0)",Woodforest NB
-Approved,2020-07-06,Branch Establishment,2020-SO-BranchNew-314733,First National Bank Emory,105 Tawakoni Drive,Emory,TX,Rains,2020-07-02,NA,First NB of Gilmer
-Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314707,Mass. Ave. Branch,183 Massachusetts Avenue,Boston,MA,Suffolk,2020-06-28,"(42.3455003, -71.0870902, 0.0)","Citizens Bank, NA"
-Approved,2020-07-06,Branch Establishment,2020-LB-BranchNew-314278,Midtown BC,1715 West End Avenue,Nashville,TN,Davidson,2020-06-25,"(36.153564673947706, -86.79467669451563, 0.0)","Fifth Third Bank, NA"
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314741,Burlington,6 Wayside Rd Ste G-1,Burlington,MA,Middlesex,2020-07-05,NA,PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314757,Chestnut Hill,55 Boylston St,Chestnut Hill,MA,Middlesex,2020-07-05,"(42.322556250000005, -71.1705022758778, 0.0)",PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314756,Dedham,440 Legacy Place,Dedham,MA,Norfolk,2020-07-05,"(42.23137005, -71.17921306385925, 0.0)",PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314696,Hendersonville,207B Indian Lake Blvd,Hendersonville,TN,Sumner,2020-07-05,"(36.32588072211397, -86.59641057812908, 0.0)",PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314774,Howell Mill and 14th,SEC 14th Street NW and Howell Mill Road NW,Atlanta,GA,Fulton,2020-07-02,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314759,Lynnfield,1380 Market St,Lynnfield,MA,Essex,2020-07-05,"(42.5148252, -71.0341171, 0.0)",PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314704,Midtown Broadway,1198 Broadway,Nashville,TN,Davidson,2020-07-05,"(36.156718, -86.787397, 0.0)",PNC Bank NA
-Approved,2020-07-07,Branch Establishment,2020-LB-BranchNew-314793,Mount Pleasant Muhlenbergia Drive,"1135 Muhlenbergia Drive, Suite 102",Mount Pleasant,SC,Charleston,2020-07-05,NA,"TD Bank, NA"
-Deleted,2020-07-08,Branch Closings,2020-NE-BranchClosing-314980,Canal,93 CANAL ST,NEW YORK,NY,New York, ,"(40.7156017, -73.99361103742311, 0.0)",Valley NB
-Withdrawn,2020-07-08,Branch Establishment,2020-LB-BranchNew-314997,University of Minnesota,612 Washington Ave SE,Minneapolis,MN,Hennepin,2020-07-19,"(44.97358571428572, -93.22997753061225, 0.0)","Wells Fargo Bank, N.A."
-Approved,2020-07-10,Branch Establishment,2020-LB-BranchNew-314826,Commons at Southtowne,10495 S. State St.,Sandy,UT,Salt Lake,2020-07-09,"(40.56092716657692, -111.89068717400762, 0.0)","Bank of America, NA"
-Approved,2020-07-10,Relocation,2020-LB-Relocation-314970,Germantown,5500 Germantown Avenue,Philadelphia,PA,Philadelphia,2020-07-02,"(40.034374, -75.172903, 0.0)","Citizens Bank, NA"
-Consummated/Effective,2020-07-13,Relocation,2020-CE-Relocation-313120,Colonial Plaza Office,401 EAST MAIN STREET,CANFIELD,OH,Mahoning,2020-03-10,"(41.024654, -80.749574, 0.0)",Farmers' NB of Canfield
-Approved,2020-07-13,Branch Establishment,2020-SO-BranchNew-314816,El Paso First National Bank Texas,"501 Executive Center, Suite 101",El Paso,TX,El Paso,2020-07-11,NA,First NB Texas
-Consummated/Effective,2020-07-13,Branch Establishment,2019-NE-BranchNew-310265,Nineteenth Street Branch,900 19th Street NW,Washington,DC,District of Columbia,2019-09-05,"(38.9016624, -77.0438689, 0.0)",First NB of Pennsylvania
-Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314850,Admiral Doyle,SWC East Admiral Doyle Dr aka Hwy 647 & S. Lewis Street,New Iberia,LA,Iberia,2020-07-10,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-14,Branch Establishment,2020-SO-BranchNew-312457,Columbus (Walmart) - OH - Branch,3900 Morse Rd,Columbus,OH,Franklin,2020-07-01,"(40.0602686, -82.9140619, 0.0)",Woodforest NB
-Approved,2020-07-14,Branch Establishment,2020-SO-BranchNew-312455,Foley (Walmart) - AL - Branch,2200 S McKenzie St,Foley,AL,Baldwin,2020-07-03,"(30.384737, -87.683488, 0.0)",Woodforest NB
-Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314797,HIghland Village,3948 Westheimer Rd,Houston,TX,Harris,2020-07-11,"(29.7356816, -95.6309349, 0.0)",PNC Bank NA
-Approved,2020-07-14,Branch Establishment,2020-LB-BranchNew-314790,Katy,23501 Cinco Ranch Blvd,Katy,TX,Fort Bend,2020-07-11,NA,PNC Bank NA
-Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314252,College and Claremont,6310 COLLEGE AVENUE,OAKLAND,CA,Alameda, ,"(37.8506081, -122.2520306, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314255,Forsyth Office,325 NORTH 9TH AVENUE,FORSYTH,MT,Rosebud, ,"(46.2675782, -106.68063424767496, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314256,Great Falls Downtown Motor Bank,200 3RD AVENUE NORTH,GREAT FALLS,MT,Cascade, ,"(47.508539, -111.30408, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-314254,Gulfport,2001 49TH STREET SOUTH,GULFPORT,FL,Pinellas, ,"(27.751027151515153, -82.69979745454546, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-15,Branch Closings,2020-LB-BranchClosing-313729,Penn Valley,17446 PENN VALLEY DRIVE,PENN VALLEY,CA,Nevada, ,"(39.20012, -121.2227517, 0.0)","Wells Fargo Bank, N.A."
-Approved,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281, , , , , , ,NA,Liberty NB
-Consummated/Effective,2020-07-16,Subsidiaries & Equities,2020-CE-Subs&Equities-315281, , , , , , ,NA,Liberty NB
-Approved,2020-07-16,Branch Establishment,2020-SO-BranchNew-313067,Winter Park Branch,862 South Orlando Avenue,Winter Park,FL,Orange,2020-03-06,NA,"Axiom Bank, NA"
-Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314932,Cary Street and 13th Street,NEC East Cary Street and South 13th Street,Richmond,VA,Richmond City,2020-07-16,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314893,East 9th Street,2000 East 9th Street,Cleveland,OH,Cuyahoga,2020-07-12,"(41.499915, -81.6867041, 0.0)","Citizens Bank, NA"
-Approved,2020-07-17,Relocation,2020-CE-Relocation-314819,"Jackson County Banking Center, VCNB Financial Family","920 Veterans Drive, Suite E",Jackson,OH,Jackson,2020-07-16,NA,The Vinton County National Bank
-Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314931,Norristown,SWC West Main Street and Hamilton Street,Norristown,PA,Montgomery,2020-07-16,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-17,Branch Establishment,2020-LB-BranchNew-314973,Prices Corner Shopping Center,SEC Kirkwood Hwy aka Hwy 41 and Albertson Blvd,Wilmington,DE,New Castle,2020-07-16,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-20,Branch Establishment,2020-SO-BranchNew-315345,Cherokee Branch,105 North Grand Avenue,Cherokee,OK,Alfalfa,2020-07-04,"(36.75793035341513, -98.3572000216868, 0.0)","BancCentral, NA"
-Approved,2020-07-20,Branch Establishment,2020-LB-BranchNew-314982,PWM Kansas City,4600 Madison Avenue,Kansas City,MO,Jackson,2020-07-17,"(39.04454765, -94.5980751784337, 0.0)",U.S. Bank NA
-Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303611,Cedar Knolls Hanover Avenue,190 E Hanover Ave,Cedar Knolls,NJ,Morris,2018-07-05,"(40.81098184954064, -74.46835884890388, 0.0)","JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-07-21,Branch Establishment,2019-LB-BranchNew-308308,Fishtown,1502 Franklin Ave,Philadelphia,PA,Philadelphia,2019-05-02,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-07-21,Branch Establishment,2020-LB-BranchNew-313521,Hughes Landing,2000 Hughes Landing Blvd Ste F-100,The Woodlands,TX,Montgomery,2020-03-29,NA,PNC Bank NA
-Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303002,Hwy 7 and Sheridan,16820 Sheridan Pkwy,Broomfield,CO,Broomfield,2018-05-26,"(39.9577581, -105.0523322, 0.0)","JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-07-21,Branch Establishment,2020-LB-BranchNew-313493,Irving,8445 N Belt Line Rd Ste 100,Irving,TX,Dallas,2020-03-29,"(32.8303039, -96.9936643, 0.0)",PNC Bank NA
-Consummated/Effective,2020-07-21,Branch Establishment,2019-LB-BranchNew-310235,Parham Rd and Staples Mill Rd,8727 Staples Mill Rd,Richmond,VA,Henrico,2019-08-29,"(37.581603, -77.4933521, 0.0)","JPMorgan Chase Bank, NA"
-Approved,2020-07-21,Branch Establishment,2020-LB-BranchNew-314972,The Collective at Canton,NWC Boston Street and South Haven Street,Baltimore,MD,Baltimore City,2020-07-17,NA,"JPMorgan Chase Bank, NA"
-Consummated/Effective,2020-07-21,Branch Establishment,2018-LB-BranchNew-303417,Toms River Route 37 W,1095 Route 37 W,Toms River,NJ,Ocean,2018-06-20,"(39.970462, -74.234714, 0.0)","JPMorgan Chase Bank, NA"
-Approved,2020-07-23,215a-3: Mergers with Non-Bank Affiliates,2020-NE-215a3-314513, , , , , , ,NA,Computershare Tr Co NA
-Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315288, , , , , , ,NA,"Fifth Third Bank, NA"
-Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315289, , , , , , ,NA,"Fifth Third Bank, NA"
-Approved,2020-07-23,Subsidiaries & Equities,2020-LB-Subs&Equities-315290, , , , , , ,NA,"Fifth Third Bank, NA"
-Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314956,Prosperity Church,5920 Highlands Shoppes Dr,Charlotte,NC,Mecklenburg,2020-07-17,NA,"Wells Fargo Bank, N.A."
-Approved,2020-07-23,Branch Establishment,2020-LB-BranchNew-314951,The Shoppes at Kingsgate,1319 Kingwood Dr,Kingwood,TX,Harris,2020-07-17,"(30.049351548855306, -95.23374993066423, 0.0)","Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-24,Branch Closings,2020-LB-BranchClosing-314212,South Park Branch,2777 SOUTH PARK ROAD,BETHEL PARK,PA,Allegheny, ,"(40.32774773676558, -80.03326006946001, 0.0)",PNC Bank NA
-Approved,2020-07-27,Relocation,2020-SO-Relocation-315293,Lamar National Bank - Celina,"721 E. Pecan, Suite 100",Celina,TX,Collin,2020-07-25,NA,Lamar NB
-Approved,2020-07-27,Branch Establishment,2020-LB-BranchNew-315013,Mound,2141 Commerce Blvd.,Mound,MN,Hennepin,2020-07-20,"(44.93888192208415, -93.66634216705684, 0.0)",U.S. Bank NA
-Approved,2020-07-27,Branch Establishment,2020-CE-BranchNew-314990,Perkins Branch,4000 Milan Road,Sandusky,OH,Erie,2020-07-18,"(41.419561, -82.675322, 0.0)",First NB of Bellevue
-Consummated/Effective,2020-07-28,Branch Establishment,2020-LB-BranchNew-313494,Allen,829 B West Stacy Road Suite 100,Allen,TX,Collin,2020-03-29,NA,PNC Bank NA
-Approved,2020-07-28,Branch Establishment,2020-LB-BranchNew-315028,Clark and Addison,SWC West Addison Street and North Clark Street,Chicago,IL,Cook,2020-07-24,NA,"JPMorgan Chase Bank, NA"
-Approved,2020-07-28,Branch Establishment,2020-LB-BranchNew-315001,Clemson University,720 McMillan rd,Clemson,SC,Pickens,2020-07-22,NA,"Wells Fargo Bank, N.A."
-Consummated/Effective,2020-07-28,Branch Establishment,2020-LB-BranchNew-313222,Cool Springs,1556 W McEwen Dr Ste 124,Franklin,TN,Williamson,2020-03-22,NA,PNC Bank NA
-Consummated/Effective,2020-07-28,Relocation,2018-SO-Relocation-304309,First National Bank of Stanton,"200 NORTH LORAINE, SUITE 1200",MIDLAND,TX,Midland,2018-07-30,NA,First NB of Stanton
-Approved,2020-07-29,New Bank Charter,2020-SO-Charter-314136,"Agility Bank, NA",2222 North Shepherd,Houston,TX, ,2020-05-03,NA,"Agility Bank, NA"
-Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-308248,Flatiron Branch,71 Fifth Avenue,New York,NY,New York,2019-05-01,"(43.058057, -74.335753, 0.0)",City NB
-Consummated/Effective,2020-07-29,Branch Establishment,2019-NE-BranchNew-307848,Park Avenue South Branch,440 Park Avenue South,New York,NY,New York,2019-04-24,"(40.744405, -73.983524, 0.0)",City NB
-Approved,2020-07-30,Relocation,2020-NE-Relocation-314979,Canal,93 CANAL ST,NEW YORK,NY,New York,2020-07-23,"(40.7156017, -73.99361103742311, 0.0)",Valley NB
+Intent Not to Disapprove (CBCA),2020-10-08,Change in Bank Control,2020-SO-CBCA-313755, , , , , ,2020-03-30,NA,Grand Bk For Svg FSB
+Approved,2020-10-08,Subsidiaries & Equities,2020-WE-Subs&Equities-316514, , , , , , ,NA,Capitol FSB
+Approved,2020-10-08,Branch Establishment,2020-SO-BranchNew-316198,Dennison Avenue,"873 Dennison Avenue S.W., Suite 101",Birmingham,AL,Jefferson,2020-10-02,NA,"Cadence Bank, NA"
+Receipt,2020-10-08,Branch Closings,2020-CE-BranchClosing-316805,Eastgate Branch,4370 EASTGATE SQUARE DRIVE,CINCINNATI,OH,Clermont, ,"(39.089978349999996, -84.2697901615633, 0.0)",1st NB
+Consummated/Effective,2020-10-08,Branch Closings,2020-LB-BranchClosing-315184,Grants Pass Fred Meyer,1111 GRANTS PASS PKWY,GRANTS PASS,OR,Josephine, ,"(42.43657580536979, -123.30350490829079, 0.0)","JPMorgan Chase Bank, NA"
+Withdrawn,2020-10-08,Relocation,2016-LB-Relocation-293728,Magnolia Street Branch,37 MAGNOLIA STREET,ROSWELL,GA,Fulton,2016-12-28,"(34.023522150000005, -84.36279072906882, 0.0)","Wells Fargo Bank, N.A."
+Consummated/Effective,2020-10-08,Branch Closings,2020-LB-BranchClosing-315183,National & Barrington Banking Center,11700 NATIONAL BOULEVARD,LOS ANGELES,CA,Los Angeles, ,"(34.022588, -118.438649, 0.0)","JPMorgan Chase Bank, NA"
+Receipt,2020-10-08,Branch Closings,2020-NE-BranchClosing-316761,Paramus,"61 South Paramus Road, Suite 116",Paramus,NJ,Bergen, ,NA,Sterling NB
+Approved,2020-10-08,Relocation,2020-LB-Relocation-316331,Wakefield - Main Street,369 MAIN STREET,WAKEFIELD,MA,Middlesex,2020-10-06,"(42.50375615, -71.07116647142857, 0.0)","Santander Bank, NA"
+Receipt,2020-10-08,Branch Closings,2020-NE-BranchClosing-316721,White Plains,"1133 Westchester Avenue, Suite N224",White Plains,NY,Westchester, ,NA,Sterling NB
+Receipt,2020-10-08,Branch Closings,2020-SO-BranchClosing-316808,Zachary Branch,1112 Church Street,Zachary,LA,East Baton Rouge, ,"(30.65444861946754, -91.19244819887021, 0.0)","Investar Bank, NA"
+Consummated/Effective,2020-10-09,215a-3: Mergers with Non-Bank Affiliates,2019-SO-215a3-312435, , , , , , ,NA,Executive NB
+Consummated/Effective,2020-10-09,Business Combinations,2019-SO-Combination-311740, , , , , ,2019-12-11,NA,City NB of Florida
+Receipt,2020-10-09,Business Combinations,2020-NE-Combination-316911, , , , , ,2020-11-08,NA,"Blue Ridge Bank, NA"
+Approved,2020-10-09,Relocation,2020-NE-Relocation-316104, , , , , ,2020-10-01,NA,"ICBC (USA), N.A."
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315373,Al Fairhope,10040 COUNTY ROAD 48,FAIRHOPE,AL,Baldwin, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315370,Al Moulton,15445 HIGHWAY 24,MOULTON,AL,Lawrence, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315354,Antioch Illinois Branch,475 EAST ROUTE 173,ANTIOCH,IL,Lake, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315366,Apex North Carolina Branch,3151 APEX PEAKWAY,APEX,NC,Wake, ,"(35.7148991, -78.8428215, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315350,Bainbridge Ohio Branch,7235 MARKET PLACE DRIVE,AURORA,OH,Geauga, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315343,Bryan Oh Branch,1215 SOUTH MAIN STREET,BRYAN,OH,Williams, ,"(41.459662300000005, -84.54700873181949, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315364,Chapel Hill Nc 0777 Branch,12500 US 15-501 North,CHAPEL HILL,NC,Chatham, ,NA,Woodforest NB
+Withdrawn,2020-10-09,New Bank Charter,2020-WE-Charter-316036,"Formative Bank, NA",To be Determined,San Francisco,CA, ,2020-09-23,NA,"Formative Bank, NA"
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315334,Fort Wayne Indiana Branch,10105 LIMA ROAD,FORT WAYNE,IN,Allen, ,"(41.17614385, -85.16920063276868, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315342,Hatfield Pennsylvania Branch,1515 BETHLEHEM PIKE,HATFIELD,PA,Montgomery, ,"(40.2716021, -75.2572562, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315367,Holly Springs North Carolina Branch,7016 G B ALFORD HIGHWAY,HOLLY SPRINGS,NC,Wake, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315371,Huntsville Al 8104 Branch,8580 US HIGHWAY 75 W,HUNTSVILLE,AL,Madison, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315349,Kenton Wal-Mart,1241 EAST COLUMBUS STREET,KENTON,OH,Hardin, ,"(40.649723, -83.597597, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315363,Leon Springs TX Branch,24403 IH 10W,San Antonio,TX,Bexar, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315369,Liberia Wal-Mart Branch,9401 LIBERIA AVENUE,MANASSAS,VA,Prince William, ,"(38.7527514, -77.4485246297907, 0.0)",Woodforest NB
+Receipt,2020-10-09,Branch Closings,2020-SO-BranchClosing-316780,Main Office Branch,106 GOVERNMENT STREET,BRANDON,MS,Rankin, ,"(32.2730527, -89.9868149, 0.0)",Trustmark NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-NE-BranchClosing-314806,Meriden West Stop & Shop Branch,566 West Main Street,Meriden,CT,New Haven, ,"(41.540656034127, -72.82245383661386, 0.0)","People's United Bank, NA"
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315375,New Lenox Illinois Branch,501 EAST LINCOLN HIGHWAY,NEW LENOX,IL,Will, ,"(41.514952, -87.95342337263834, 0.0)",Woodforest NB
+Receipt,2020-10-09,Branch Establishment,2020-LB-BranchNew-316744,Northern Kentucky University,1 Nunn Dr.,Highland Heights,KY,Campbell,2020-11-08,NA,PNC Bank NA
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315372,Ny Fulton,1818 STATE ROUTE #3,FULTON,NY,Oswego, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315341,Pittson Pennsylvania Branch,390 HIGHWAY 315,PITTSON,PA,Luzerne, ,NA,Woodforest NB
+Approved,2020-10-09,Relocation,2020-LB-Relocation-316213,Port Everglades Office,901 SE 17TH STREET CSWY.,FORT LAUDERDALE,FL,Broward,2020-10-07,NA,"Bank of America, NA"
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315351,Sterling Illinois Branch,4115 EAST LINCOLN WAY,STERLING,IL,Whiteside, ,NA,Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315368,Virginia Beach Wal-Mart Branch,1149 NIMMO PARKWAY,VIRGINIA BEACH,VA,Virginia Beach City, ,"(36.7629784, -76.0359358, 0.0)",Woodforest NB
+Consummated/Effective,2020-10-09,Branch Closings,2020-SO-BranchClosing-315377,Wabash Indiana Branch,1601 NORTH CASS STREET,WABASH,IN,Wabash, ,"(40.806831, -85.829953, 0.0)",Woodforest NB
+Receipt,2020-10-09,Branch Establishment,2020-NE-BranchNew-316678,Williston Branch,28 Cottonwood Drive,Williston,VT,Chittenden,2020-11-08,NA,"Community Bank, NA"
+Consummated/Effective,2020-10-09,Branch Closings,2020-LB-BranchClosing-315286,World Financial Center Branch,250 Vesey Street,New York,NY,New York, ,"(40.71400065, -74.0158798080181, 0.0)",City NB
+Consummated/Effective,2020-10-12,Subsidiaries & Equities,2020-WE-Subs&Equities-316514, , , , , , ,NA,Capitol FSB
+Approved,2020-10-13,Relocation,2020-SO-Relocation-316207, , , , , ,2020-10-08,NA,"Farm Bureau Bank, FSB"
+Consummated/Effective,2020-10-13,Branch Establishment,2020-LB-BranchNew-313747,Aksarben Village,"6700 Mercy Rd, Ste 106-108",Omaha,NE,Douglas,2020-04-08,NA,"JPMorgan Chase Bank, NA"
+Consummated/Effective,2020-10-13,Branch Establishment,2020-LB-BranchNew-313396,Blakeney,"9285 Rea Rd, Unit A",Charlotte,NC,Mecklenburg,2020-03-21,NA,"JPMorgan Chase Bank, NA"
+Consummated/Effective,2020-10-13,Branch Establishment,2020-LB-BranchNew-313397,Chesterfield,16985 Chesterfield Airport Rd,Chesterfield,MO,St Louis,2020-03-20,"(38.6689329, -90.5898029, 0.0)","JPMorgan Chase Bank, NA"
+Consummated/Effective,2020-10-13,Relocation,2020-LB-Relocation-314293,K Street Office,"1801 K STREET, N. W.",WASHINGTON,DC,District of Columbia,2020-05-17,NA,"Bank of America, NA"
+Consummated/Effective,2020-10-13,Branch Establishment,2019-LB-BranchNew-310515,Mount Pleasant West,960 Houston Northcutt Blvd,Mount Pleasant,SC,Charleston,2019-09-12,"(32.804151114991186, -79.89100138999441, 0.0)","JPMorgan Chase Bank, NA"
+Approved,2020-10-13,New Bank Charter,2020-NE-Charter-314805,"NewBank, NA",XXX Street,Wilmington,DE, ,2020-07-12,"(39.7459468, -75.546589, 0.0)","NewBank, NA"
+Approved,2020-10-13,Branch Establishment,2020-SO-BranchNew-316451,Oklahoma City Branch,"1225 N. Broadway Avenue, Suite 201",Oklahoma City,OK,Oklahoma,2020-10-11,NA,"Stride Bank, NA"
+Consummated/Effective,2020-10-13,Branch Closings,2020-LB-BranchClosing-315355,Riverside & Margaret,"1661 RIVERSIDE AVENUE, UNIT 129",JACKSONVILLE,FL,Duval, ,NA,"JPMorgan Chase Bank, NA"
+Approved,2020-10-14,Business Combinations,2020-CE-Combination-316214, , , , , ,2020-10-08,NA,First Federal Bank of Wisconsin
+Approved,2020-10-14,Branch Establishment,2020-CE-BranchNew-316248,CFBank Ohio City Branch,2615 Detroit Ave.,Cleveland,OH,Cuyahoga,2020-10-13,"(41.49084429292929, -81.70842735353536, 0.0)","CFBank, NA"
+Approved,2020-10-14,Branch Establishment,2020-CE-BranchNew-316221,Town & Country branch,14323 South Outer Road,Town & Country,MO,St Louis,2020-09-25,NA,"Peoples National Bank, N.A."
+Withdrawn,2020-10-14,Branch Closings,2020-LB-BranchClosing-316755,Tulare Branch,801 EAST PROSPERITY AVENUE,TULARE,CA,Tulare, ,"(36.2256635, -119.2484198, 0.0)","MUFG Union Bank, NA"
+Approved,2020-10-14,Branch Establishment,2020-LB-BranchNew-316257,USF on Fowler,NWC Bruce B Downs Blvd and East Fowler Ave,Tampa,FL,Hillsborough,2020-10-09,NA,"JPMorgan Chase Bank, NA"
