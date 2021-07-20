@@ -1,8 +1,8 @@
 from selenium.webdriver import Chrome
 import pandas as pd
 import numpy as np
-from selenium.webdriver.common.keys import Keys
-import bs4 as bs
+# from selenium.webdriver.common.keys import Keys
+# import bs4 as bs
 from selenium.webdriver.support.ui import Select
 import sqlite3
 import datetime
